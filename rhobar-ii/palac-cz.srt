@@ -1,80 +1,60 @@
-﻿1
-00:00:11,560 --> 00:00:13,560
+0:00:11.560,0:00:13.560
 Tohle je moje první počítačová hra,
 
-2
-00:00:13,700 --> 00:00:17,260
+0:00:13.700,0:00:17.260
 vlastně je to fanouškovský datadisk, na kterém se podílím
 
-3
-00:00:17,320 --> 00:00:19,620
+0:00:17.320,0:00:19.620
 svým hlasem.
 
-4
-00:00:19,700 --> 00:00:23,140
+0:00:19.700,0:00:23.140
 Nebojujeme o postavení či vliv, ale o přežití
 
-5
-00:00:23,140 --> 00:00:27,000
+0:00:23.140,0:00:27.000
 a zachování království jak ho známe.
 
-6
-00:00:27,000 --> 00:00:30,200
+0:00:27.000,0:00:30.200
 Král Rhobar II. je rozličná postava.
 
-7
-00:00:30,200 --> 00:00:35,000
+0:00:30.200,0:00:35.000
 Na jednu stranu to byl on, kdo pod svou vládou sjednotil Myrtanu.
 
-8
-00:00:35,000 --> 00:00:40,540
+0:00:35.000,0:00:40.540
 Ale také za jeho vlády došlo k naprosté porážce při střetu s nepřítelem,
 
-9
-00:00:40,800 --> 00:00:43,100
+0:00:40.800,0:00:43.100
 se skřety.
 
-10
-00:00:43,280 --> 00:00:51,780
+0:00:43.280,0:00:51.780
 Začal dělat krutá a rázná rozhodnutí, aby zabránil nadcházející hrozbě.
 
-11
-00:00:51,920 --> 00:00:54,120
+0:00:51.920,0:00:54.120
 Je silný,
 
-12
-00:00:54,500 --> 00:01:01,000
+0:00:54.500,0:01:01.000
 ale síla se ukáže být bezcenná, když stojí na pokraji propasti.
 
-13
-00:01:01,000 --> 00:01:10,000
+0:01:01.000,0:01:10.000
 Nepřítel nezná ústupků či slitování. Proto musíme jednat bez výčitek, ale pečlivě.
 
-14
-00:01:10,000 --> 00:01:14,000
+0:01:10.000,0:01:14.000
 Modifikace The History of Khorinis
 
-15
-00:01:14,000 --> 00:01:17,900
+0:01:14.000,0:01:17.900
 je nekomerční prací fanoušků.
 
-16
-00:01:18,000 --> 00:01:20,000
+0:01:18.000,0:01:20.000
 Jsem ohromen
 
-17
-00:01:21,100 --> 00:01:23,000
+0:01:21.100,0:01:23.000
 jejich profesionalitou
 
-18
-00:01:23,000 --> 00:01:27,900
+0:01:23.000,0:01:27.900
 a důrazem na detaily.
 
-19
-00:01:28,000 --> 00:01:32,000
+0:01:28.000,0:01:32.000
 Právě proto ji mohu jedině doporučit.
 
-20
-00:01:32,000 --> 00:01:34,000
+0:01:32.000,0:01:34.000
 Ryszard Mróz
 
