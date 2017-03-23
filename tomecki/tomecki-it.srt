@@ -44,7 +44,7 @@ Fece il suo debutto al teatro quando era ancora studente – apparendo sui palch
 
 12
 00:01:02,380 --> 00:01:09,940
-delle scene piu prestigiose di Varsavia – per esempio 'Teatr Powszechni', 'Operetta' o'TargA3wka'.
+delle scene piu prestigiose di Varsavia – per esempio 'Teatr Powszechny', 'Operetta' o 'Targówek'.
 
 13
 00:01:10,420 --> 00:01:17,820
@@ -104,7 +104,7 @@ Beh, Fiddlebender è il *cognome*, il mio nome è Oswald
 
 27
 00:02:47,600 --> 00:02:52,880
-percio il mio nome è Oswald  Fiddlebender. Piacere di conoscerti.'
+percio il mio nome è Oswald Fiddlebender. Piacere di conoscerti.'
 
 28
 00:02:53,120 --> 00:02:59,700
@@ -288,7 +288,7 @@ Una cosa buffa è che ora abito in Wilcza St.
 
 73
 00:06:15,300 --> 00:06:24,400
-Io e mio padre siamo passati per MarszaA‚kowska St., all'angolo con Wilcza St. vedemmo un carrello.
+Io e mio padre siamo passati per Marszałkowska St., all'angolo con Wilcza St. vedemmo un carrello.
 
 74
 00:06:24,600 --> 00:06:25,800
@@ -612,7 +612,7 @@ E il mio.
 
 154
 00:14:15,680 --> 00:14:25,620
-Se l’avevano scritto un fondo di verita doveva esserci, e piu tardi, quando andavo a scuola in AleksandrA3w Kujawski,
+Se l’avevano scritto un fondo di verita doveva esserci, e piu tardi, quando andavo a scuola in Aleksandrów Kujawski,
 
 155
 00:14:25,880 --> 00:14:33,680
@@ -1564,7 +1564,7 @@ Era il 1973 - 1974.
 
 392
 00:30:38,900 --> 00:30:42,840
-Ero occupato nel teatro in Targówka.
+Ero occupato nel teatro in Targówek.
 
 393
 00:30:43,160 --> 00:30:44,500
