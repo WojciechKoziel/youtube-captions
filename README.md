@@ -5,7 +5,7 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 ## [AKTOR Andrzej 'Greg' Tomecki - Gothic II Dzieje Khorinis - Film Dokumentalny](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
 * [Polish](tomecki/tomecki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki/tomecki-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com) and [**Szymon Żak**](http://szymonzak.pl)
-* [Italian](tomecki/tomecki-it.srt) by [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone). Proofreading by [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975) ([Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia)
+* [Italian](tomecki/tomecki-it.srt) by [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone). Proofreading by [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975) ([Piranha Bytes Italia)](https://www.facebook.com/groups/staffrisenitalia)
 
 ## [ANULOWANY OFICJALNY DODATEK DO GOTHIC 1 - Gothic Sequel](https://www.youtube.com/watch?v=SS_RRuNCe6Y)
 * [Polish](sequel/sequel-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
@@ -18,7 +18,7 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 * [Polish](ciekawostki-faq/faq-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](ciekawostki-faq/faq-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [Russian](ciekawostki-faq/faq-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) and [**Szymon Żak**](http://szymonzak.pl)
-* [Italian](ciekawostki-faq/faq-it.sbv) by [**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone) , [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Domenico "Zorinik" Giambra**](https://www.facebook.com/Zorinik) ([Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia)
+* [Italian](ciekawostki-faq/faq-it.sbv) by [**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone) , [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Domenico "Zorinik" Giambra**](https://www.facebook.com/Zorinik) ([Piranha Bytes Italia)](https://www.facebook.com/groups/staffrisenitalia)
 
 ## [KRÓL RHOBAR II - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=8TrLWoSo49c)
 * [Polish](rhobar-ii/palac-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
