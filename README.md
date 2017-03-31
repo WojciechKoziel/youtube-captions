@@ -2,6 +2,10 @@
 
 Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) videos.
 
+## [TORREZ i nie tylko - Gothic II Dzieje Khorinis - Andrzej Tomecki](https://www.youtube.com/watch?v=jarXyWleCDc)
+* [Polish](tomecki-studio/tomecki-studio-pl.srt) by [**Szymon Żak**](http://szymonzak.pl)
+* [English](tomecki-studio/tomecki-studio-en.srt) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
+
 ## [AKTOR Andrzej 'Greg' Tomecki - Gothic II Dzieje Khorinis - Film Dokumentalny](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
 * [Polish](tomecki/tomecki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki/tomecki-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com) and [**Szymon Żak**](http://szymonzak.pl)
