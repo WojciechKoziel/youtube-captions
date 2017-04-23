@@ -35,6 +35,7 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 * [Russian](rhobar-ii/palac-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) and [**Szymon Żak**](http://szymonzak.pl)
 * [Czech](rhobar-ii/palac-cz.sbv)
 * [Slovak](rhobar-ii/palac-sl.sbv)
+* [Latvian](rhobar-ii/palac-lv.sbv) by Uldis Gailis
 * [Serbian](rhobar-ii/palac-se-lac.sbv)
 * [Serbian (cyrillic)](rhobar-ii/palac-se-cyr.sbv)
 
