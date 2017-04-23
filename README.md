@@ -18,6 +18,7 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 * [German](sequel/sequel-ge.srt) by [**Simon 'Holymole' Ritzmann**](mailto:ritzmanns@gmx.ch)
 * [Russian](sequel/sequel-ru.sbv) by [**Дмитрий 'Fyrlakith' Ковченко** (**Dmitriy 'Fyrlakith' Kovchenko**)](https://vk.com/enfant_sauvage) and [**Szymon Żak**](http://szymonzak.pl)
 * [Serbian](sequel/sequel-se.sbv)
+* [Romanian](sequel/sequel-ro.sbv) by Mircea Enache
 * [Czech](sequel/sequel-cz.sbv) by **Filip ‘tonyskate‘ Richter**
 * [Italian](sequel/sequel-it.sbv) by [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395) ([Piranha Bytes Italia)](https://www.facebook.com/groups/staffrisenitalia)
 
