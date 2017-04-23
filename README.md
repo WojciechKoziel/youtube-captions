@@ -27,6 +27,7 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 * [English](ciekawostki-faq/faq-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [Russian](ciekawostki-faq/faq-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) and [**Szymon Żak**](http://szymonzak.pl)
 * [Italian](ciekawostki-faq/faq-it.sbv) by [**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone) , [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Domenico "Zorinik" Giambra**](https://www.facebook.com/Zorinik) ([Piranha Bytes Italia)](https://www.facebook.com/groups/staffrisenitalia)
+* [Romanian](ciekawostki-faq/faq-ro.sbv) by **Mircea Enache**
 
 ## [KRÓL RHOBAR II - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=8TrLWoSo49c)
 * [Polish](rhobar-ii/palac-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
