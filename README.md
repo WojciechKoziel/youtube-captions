@@ -18,7 +18,7 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 * [German](sequel/sequel-ge.srt) by [**Simon 'Holymole' Ritzmann**](mailto:ritzmanns@gmx.ch)
 * [Russian](sequel/sequel-ru.sbv) by [**Дмитрий 'Fyrlakith' Ковченко** (**Dmitriy 'Fyrlakith' Kovchenko**)](https://vk.com/enfant_sauvage) and [**Szymon Żak**](http://szymonzak.pl)
 * [Serbian](sequel/sequel-se.sbv)
-* [Romanian](sequel/sequel-ro.sbv) by Mircea Enache
+* [Romanian](sequel/sequel-ro.sbv) by **Mircea Enache**
 * [Czech](sequel/sequel-cz.sbv) by **Filip ‘tonyskate‘ Richter**
 * [Italian](sequel/sequel-it.sbv) by [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) and [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395) ([Piranha Bytes Italia)](https://www.facebook.com/groups/staffrisenitalia)
 
@@ -35,7 +35,8 @@ Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) video
 * [Russian](rhobar-ii/palac-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) and [**Szymon Żak**](http://szymonzak.pl)
 * [Czech](rhobar-ii/palac-cz.sbv)
 * [Slovak](rhobar-ii/palac-sl.sbv)
-* [Latvian](rhobar-ii/palac-lv.sbv) by Uldis Gailis
+* [Latvian](rhobar-ii/palac-lv.sbv) by **Uldis Gailis**
+* [Romanian](rhobar-ii/palac-ro.sbv) by **Mircea Enache**
 * [Serbian](rhobar-ii/palac-se-lac.sbv)
 * [Serbian (cyrillic)](rhobar-ii/palac-se-cyr.sbv)
 
