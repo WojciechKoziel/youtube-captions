@@ -2,6 +2,14 @@
 
 Captions of [YouTube channel](https://www.youtube.com/c/dziejekhorinismod) videos.
 
+## [Krwawa Kompania - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=EWjxMZIeLjY)
+* [Polish](kompania/kompania-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
+* [English](kompania/kompania-en.sbv) by Radosław Rak & [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
+* [German](kompania/kompania-ge.sbv) by **[Tomasz Rutkowski](https://www.facebook.com/tomek.rutkowski.1800)** & **[Dawid Szpilka](https://www.facebook.com/tomek.rutkowski.1800)**
+* [Russian](kompania/kompania-ru.sbv) by **Тлучкевич "Tiber" Артём**
+* [Italian](kompania/kompania-it.sbv) by [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) ([Piranha Bytes Italia)](https://www.facebook.com/groups/staffrisenitalia)
+* [Romanian](kompania/kompania-ro.sbv) by **Debucean Caius**
+
 ## [TORREZ i nie tylko - Gothic II Dzieje Khorinis - Andrzej Tomecki](https://www.youtube.com/watch?v=jarXyWleCDc)
 * [Polish](tomecki-studio/tomecki-studio-pl.srt) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki-studio/tomecki-studio-en.srt) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
