@@ -23,10 +23,10 @@
 * [English](sequel/sequel-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [German](sequel/sequel-ge.srt) by [**Simon 'Holymole' Ritzmann**](mailto:ritzmanns@gmx.ch)
 * [Russian](sequel/sequel-ru.sbv) by [**Дмитрий 'Fyrlakith' Ковченко** (**Dmitriy 'Fyrlakith' Kovchenko**)](https://vk.com/enfant_sauvage) & [**Szymon Żak**](http://szymonzak.pl)
-* [Serbian](sequel/sequel-se.sbv) by **[Darko "Unknown"](ddarchy@yahoo.com)**
+* [Serbian](sequel/sequel-se.sbv) by **[Darko "Unknown"](mailto:ddarchy@yahoo.com)**
 * [Romanian](sequel/sequel-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
 * [Czech](sequel/sequel-cz.sbv) by **[Filip ‘tonyskate‘ Richter](mailto:Tonyskate@seznam.cz)**
-* [Italian](sequel/sequel-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ( [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
+* [Italian](sequel/sequel-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 
 ## [NIEZNANE GOTHICOWE CIEKAWOSTKI + Fabularne FAQ Dziejów Khorinis](https://www.youtube.com/watch?v=vnoVmUTamXM)
 * [Polish](ciekawostki-faq/faq-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
@@ -38,13 +38,13 @@
 ## [KRÓL RHOBAR II - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=8TrLWoSo49c)
 * [Polish](rhobar-ii/palac-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](rhobar-ii/palac-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
-* [German](rhobar-ii/palac-pl.sbv)
+* [German](rhobar-ii/palac-pl.sbv) by **Pierre 'ThielHater' Beckmann**
 * [Russian](rhobar-ii/palac-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) & [**Szymon Żak**](http://szymonzak.pl)
 * [Czech](rhobar-ii/palac-cz.sbv) by **[Filip ‘tonyskate‘ Richter](mailto:Tonyskate@seznam.cz)**
 * [Slovak](rhobar-ii/palac-sl.sbv)
 * [Latvian](rhobar-ii/palac-lv.sbv) by **[Uldis Gailis](mailto:uldis7555@gmail.com)**
 * [Romanian](rhobar-ii/palac-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
-* [Serbian](rhobar-ii/palac-se-lac.sbv) by **[Darko "Unknown"](ddarchy@yahoo.com)**
+* [Serbian](rhobar-ii/palac-se-lac.sbv) by **[Darko "Unknown"](mailto:ddarchy@yahoo.com)**
 * [Serbian (cyrillic)](rhobar-ii/palac-se-cyr.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 
 ## [AKTOR Krzysztof Zakrzewski w Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=ZAo2kCCU7oQ)
