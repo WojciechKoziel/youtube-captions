@@ -46,6 +46,7 @@
 * [Romanian](rhobar-ii/palac-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
 * [Serbian](rhobar-ii/palac-se-lac.sbv) by **[Darko "Unknown"](mailto:ddarchy@yahoo.com)**
 * [Serbian (cyrillic)](rhobar-ii/palac-se-cyr.sbv) by [**Szymon Żak**](http://szymonzak.pl)
+* [Portuguese](rhobar-ii/palac-pt.sbv) by **["ThEndGuy"](https://steamcommunity.com/id/Iamdispenser/)**
 
 ## [AKTOR Krzysztof Zakrzewski w Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=ZAo2kCCU7oQ)
 * [Polish](zakrzewski/zakrzewski-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
