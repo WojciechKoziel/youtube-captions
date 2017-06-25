@@ -7,6 +7,7 @@
 * [Russian](kompania/kompania-ru.sbv) by **[Тлучкевич "Tiber" Артём (Tluchkevich "Tiber" Artem)](https://www.youtube.com/user/artemtluchkevich)**
 * [Italian](kompania/kompania-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 * [Romanian](kompania/kompania-ro.sbv) by **Debucean Caius**
+* [Czech](kompania/kompania-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 
 ## [TORREZ i nie tylko - Gothic II Dzieje Khorinis - Andrzej Tomecki](https://www.youtube.com/watch?v=jarXyWleCDc)
 * [Polish](tomecki-studio/tomecki-studio-pl.srt) by [**Szymon Żak**](http://szymonzak.pl)
