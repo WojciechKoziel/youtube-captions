@@ -35,6 +35,7 @@
 * [Russian](ciekawostki-faq/faq-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) & [**Szymon Żak**](http://szymonzak.pl)
 * [Italian](ciekawostki-faq/faq-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone), [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Domenico "Zorinik" Giambra**](https://www.facebook.com/Zorinik). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 * [Romanian](ciekawostki-faq/faq-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
+* [Czech](ciekawostki-faq/faq-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 
 ## [KRÓL RHOBAR II - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=8TrLWoSo49c)
 * [Polish](rhobar-ii/palac-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
@@ -52,3 +53,8 @@
 ## [AKTOR Krzysztof Zakrzewski w Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=ZAo2kCCU7oQ)
 * [Polish](zakrzewski/zakrzewski-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](zakrzewski/zakrzewski-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
+
+## [Profesjonalni aktorzy w Gothic II Dzieje Khorinis – Próbki Dubbingu](https://www.youtube.com/watch?v=dTKrype5Wss)
+* [Polish](probki/probki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
+* [English](probki/probki-en.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
+* [Czech](probki/probki-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
