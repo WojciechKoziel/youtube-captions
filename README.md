@@ -14,6 +14,7 @@
 * [English](tomecki-studio/tomecki-studio-en.srt) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [Italian](tomecki-studio/tomecki-studio-it.srt) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 * [Spanish](tomecki-studio/tomecki-studio-sp.srt) by [**Wojciech Koziel**](mailto:wkoziel3@gmail.com)
+* [Russian](tomecki-studio/tomecki-studio-ru.srt) by [**Łukasz Wróbel**](mailto:idkfa007@gmail.com)
 
 ## [AKTOR Andrzej 'Greg' Tomecki - Gothic II Dzieje Khorinis - Film Dokumentalny](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
 * [Polish](tomecki/tomecki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
