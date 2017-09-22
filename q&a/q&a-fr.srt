@@ -1,0 +1,889 @@
+1
+00:00:08,820 --> 00:00:14,180
+"Le royaume de Myrtana, unifié par roi Rhobart II"
+
+2
+00:00:29,900 --> 00:00:30,640
+Salut!
+
+3
+00:00:31,080 --> 00:00:33,340
+C'est Arkadiusz “Arkadikuss” Woźniak!
+
+4
+00:00:33,680 --> 00:00:36,380
+Comme vous pouvez le voir, je parle aussi anglais!
+
+5
+00:00:36,580 --> 00:00:42,220
+Puisqu'on comprend parfaitement l'attention nécessaire pour regarder un vidéo avec un doublage polonais
+
+6
+00:00:42,360 --> 00:00:45,020
+et des sous-titres dans vos langues maternelles
+
+7
+00:00:45,160 --> 00:00:48,920
+cette fois on a pris la décision de créer un vidéo spéciale avec une narration anglaise
+
+8
+00:00:49,120 --> 00:00:53,440
+ciblée directement pour vous – les fans de L'Histoire de Khorinis
+
+9
+00:00:53,680 --> 00:00:56,260
+de l'étranger et du monde entier !
+
+10
+00:00:56,540 --> 00:01:00,940
+Comme d'habitude, on a également préparé les sous-titres dans une douzaine de langues.
+
+11
+00:01:01,140 --> 00:01:05,240
+Dans ce document on va répondre aux toutes les questions les plus importantes sur le projet,
+
+12
+00:01:05,420 --> 00:01:11,780
+son développement et nous – l'équipe de SoulFire qui travaille sur l'extension «L'Histoire de Khorinis ».
+
+13
+00:01:11,880 --> 00:01:15,260
+Faites alors comme chez vous et on vous invite à regarder !
+
+14
+00:01:15,460 --> 00:01:20,120
+Avant qu'on réponde aux questions, laissez-nous résumer quelques informations essentielles.
+
+15
+00:01:20,380 --> 00:01:23,360
+Tout d'abord, on veut vous remercier pour votre soutien.
+
+16
+00:01:23,540 --> 00:01:28,030
+À part une dizaine de milles de polonais, on est suivi par quelques milles de personnes
+
+17
+00:01:28,030 --> 00:01:31,680
+dans le monde entier sur tous les réseaux sociaux!
+
+18
+00:01:31,680 --> 00:01:36,520
+Vous constituez aussi 20 % des abonnés de notre chaîne YouTube !
+
+19
+00:01:36,520 --> 00:01:42,940
+On apprécie beaucoup que vous suiviez le projet polonais qui est toujours en cours de développement.
+
+20
+00:01:43,100 --> 00:01:47,820
+Cela signifie non seulement votre dévotion à la marque de Gothic, mais aussi l’évènement au jeu lui-même
+
+21
+00:01:47,820 --> 00:01:53,200
+qui peut assembler une communauté si grande plusieurs année après sa première!
+
+22
+00:01:53,320 --> 00:01:56,179
+Indépendamment du pays d'origine
+
+23
+00:01:56,180 --> 00:02:01,120
+on est tous unifié par l'amour de ce jeu allemand merveilleux qui s'appelle Gothic!
+
+24
+00:02:01,280 --> 00:02:03,720
+Et c'est magnifique!
+
+25
+00:02:04,300 --> 00:02:09,640
+En plus, il vaut souligner qu'un million d'exemplaires de Gothic
+
+26
+00:02:09,640 --> 00:02:14,140
+a été vendu en Pologne, ce qui est INCROYABLE!
+
+27
+00:02:14,140 --> 00:02:18,120
+Les groupes de spectateurs les plus nombreux sont bien sûr les allemands et les russes,
+
+28
+00:02:18,260 --> 00:02:26,240
+qui rassemblent sur les pages Web de World of Gothic Deutschland ou World of Players Russia et RPG Russia jusqu'à présent.
+
+29
+00:02:26,520 --> 00:02:31,920
+Les autres groupes les plus nombreux sont nos frères serbes et roumains qui se rassemblent
+
+30
+00:02:32,100 --> 00:02:34,360
+sur World of Gothic Romania.
+
+31
+00:02:35,220 --> 00:02:40,800
+Les groupes de spectateurs suivants sont des italiens avec leur communauté de Gothic Italia,
+
+32
+00:02:42,180 --> 00:02:47,760
+des espagnols et leur site superbe de Gothic Clan España créé
+
+33
+00:02:48,020 --> 00:02:54,600
+juste après la première de Gothic 1 avec beaucoup de personnes d'Amérique du Sud
+
+34
+00:02:55,000 --> 00:02:56,840
+et des français
+
+35
+00:02:56,920 --> 00:03:00,400
+qui jusqu'à récemment se rassemblaient sur le site  de Gothic Universe France
+
+36
+00:03:00,560 --> 00:03:02,560
+qui n’existe plus.
+
+37
+00:03:02,880 --> 00:03:07,480
+À cette occasion, on veut vous remercier même plus – parce qu'en Pologne il y a une opinion commune
+
+38
+00:03:07,480 --> 00:03:10,180
+que la réussite de Gothic dans les pays de l'Ouest était faible.
+
+39
+00:03:10,180 --> 00:03:16,090
+Il était bien sûr moins grand, mais votre présence et intérêt au notre projet montre l'impact de Gothic
+
+40
+00:03:16,090 --> 00:03:18,800
+sur vous après tellement d'années.
+
+41
+00:03:19,020 --> 00:03:21,700
+Particulièrement les joueurs venants de pays latins.
+
+42
+00:03:21,980 --> 00:03:29,520
+Nos frères hongrois, tchèques et slovaques, pour lesquels le plus grand groupe est la page Web Gothicz.net.
+
+43
+00:03:31,080 --> 00:03:36,460
+Pour les communautés moins grandes de l'Amérique du Nord et du Royaume-Uni,
+
+44
+00:03:36,660 --> 00:03:39,000
+l'endroit le plus important est sans doute World of Gothic.com.
+
+45
+00:03:39,480 --> 00:03:44,900
+En plus, notre projet sur ModDB.com est suivi par des fans de
+
+46
+00:03:45,100 --> 00:03:49,180
+Slovénie, Lettonie, du Maroc, Bulgarie ou Colombie.
+
+47
+00:03:49,500 --> 00:03:50,660
+On vous salue cordialement !
+
+48
+00:03:51,300 --> 00:03:57,020
+La version de Gothic avec le doublage dans la langue maternelle a été diffusé seulement dans les pays comme l'Allemagne, la Pologne,
+
+49
+00:03:57,140 --> 00:04:01,080
+la Russie et aux pays anglophones – les États-Unis et le Royaume-Uni.
+
+50
+00:04:01,440 --> 00:04:05,580
+Pour tous les autres on veut exprimer une très grande admiration d'un jeu auquel vous avez joué avec les sous-titres dans vos propres
+
+51
+00:04:05,580 --> 00:04:10,040
+langues et avec le doublage anglais a provoqué des émotions si grandes
+
+52
+00:04:10,260 --> 00:04:12,860
+que vous y vous intéressez jusqu'à présent.
+
+53
+00:04:13,080 --> 00:04:15,520
+De notre point de vue c’est incroyable!
+
+54
+00:04:15,660 --> 00:04:21,440
+On a une dernière information importante pour vous – vous devez savoir que vous, tous les fans de l'étranger,
+
+55
+00:04:21,660 --> 00:04:25,980
+êtes AUSSI importants que les fans de Pologne.
+
+56
+00:04:26,000 --> 00:04:31,460
+On vous respecte, apprécie et on également aime ce jeu fortement - comme vous!
+
+57
+00:04:31,560 --> 00:04:32,720
+Êtes-vous prêts ?
+
+58
+00:04:32,880 --> 00:04:35,300
+Alors on y va avec le Q&A!
+
+59
+00:04:35,500 --> 00:04:38,480
+C'est quoi L'Histoire de Khorinis ?
+
+60
+00:04:38,880 --> 00:04:44,040
+L'Histoire de Khorinis est un préquel indépendant de la série Gothic.
+
+61
+00:04:44,460 --> 00:04:49,520
+Il décrit les évènements 11 ans AVANT la première partie du jeu.
+
+62
+00:04:49,680 --> 00:04:54,020
+Cette partie elle-même commence un an avant la création de la barrière magique.
+
+63
+00:04:54,280 --> 00:04:59,700
+La publication du projet sera réalisée en deux étapes – la première sur une île nouvelle de Vaduz
+
+64
+00:04:59,900 --> 00:05:02,140
+et la deuxième sur l'île de Khorinis.
+
+65
+00:05:03,740 --> 00:05:08,220
+La nouvelle île apparaît dans l’extension parce qu'on voulait vous montrer une autre région
+
+66
+00:05:08,260 --> 00:05:13,300
+de ce royaume magnifique et un métropolis différent que la ville de Khorinis.
+
+67
+00:05:13,560 --> 00:05:17,600
+De plus, on espère que cette île supplémentaire va rendre l'histoire plus intéressante
+
+68
+00:05:17,780 --> 00:05:19,640
+et donner aux joueurs plus d'amusement.
+
+69
+00:05:19,940 --> 00:05:26,180
+Le projet est aussi caractérisé par un doublage professionnel polonais et prochainement
+
+70
+00:05:26,180 --> 00:05:31,140
+en anglais et un souci du détail exceptionnel.
+
+71
+00:05:31,500 --> 00:05:34,320
+L'Histoire de Khorinis est un projet non-commercial
+
+72
+00:05:34,600 --> 00:05:36,840
+et il sera à télécharger GRATUITEMENT.
+
+73
+00:05:38,500 --> 00:05:40,500
+C'était quoi l'idée pour le doublage?
+
+74
+00:05:40,500 --> 00:05:43,480
+Comment est-ce que vous avez trouvé des acteurs pour ce projet?
+
+75
+00:05:43,760 --> 00:05:48,860
+Une des choses les plus importantes constituantes l'ambiance de Gothic en Pologne était
+
+76
+00:05:48,860 --> 00:05:52,860
+un doublage merveilleux de plusieurs grands acteurs polonais.
+
+77
+00:05:53,060 --> 00:05:58,020
+Comme le coordinateur de l'équipe vient d'une famille de film, on a réussi
+
+78
+00:05:58,029 --> 00:06:03,960
+à inviter gratuitement une dizaine d’acteurs de cinéma, de théâtre et doubleurs professionnels.
+
+79
+00:06:04,360 --> 00:06:08,360
+En effet, la majorité des acteurs et lecteurs (comme moi)
+
+80
+00:06:08,620 --> 00:06:09,660
+nous aident gratuitement.
+
+81
+00:06:09,820 --> 00:06:14,740
+Grâce à la gentillesse de nos amis on a un accès gratuit aux studios d'enregistrement professionnels
+
+82
+00:06:14,820 --> 00:06:20,480
+dans trois grandes villes polonaises – Varsovie, Lodz et Wroclaw.
+
+83
+00:06:20,760 --> 00:06:26,080
+Cela nous a permis de former une vraie équipe de rêve, parce qu'on n'a pas à nous faire du souci pour les coûts.
+
+84
+00:06:26,400 --> 00:06:31,960
+On encourage certains acteurs à aider individuellement en leur montrant l'échelle du projet et en les honorant
+
+85
+00:06:31,960 --> 00:06:34,480
+dans une série de documentaires.
+
+86
+00:06:34,700 --> 00:06:39,879
+De plus, chaque personnage du jeu original est doublé par le même acteur qui l'a doublé
+
+87
+00:06:39,880 --> 00:06:41,800
+en version polonaise de Gothic.
+
+88
+00:06:42,400 --> 00:06:47,340
+Pourquoi enregistrons-nous déjà ?
+
+89
+00:06:47,780 --> 00:06:53,500
+Les raisons les plus importantes pour lesquelles on a déjà commencé d’enregistrer sont l'âge et la santé de certains acteurs.
+
+90
+00:06:53,740 --> 00:06:58,160
+On le fait tout d'abord pour les acteurs les plus âgés
+
+91
+00:06:58,440 --> 00:07:00,760
+qui ont 80 ou 90 ans
+
+92
+00:07:00,960 --> 00:07:06,120
+et ceux qui combattent des maladies très graves.
+
+93
+00:07:06,300 --> 00:07:10,000
+Dans les deux cas, aucun délai n'était possible.
+
+94
+00:07:10,180 --> 00:07:16,500
+Une autre cause importante est le fait que dans les studios que la majorité des acteurs nous aident gratuitement.
+
+95
+00:07:16,720 --> 00:07:21,120
+Alors c'est nous qui devons nous adapter à leurs disponibilités.
+
+96
+00:07:21,280 --> 00:07:25,839
+Étant donnée l'échelle du projet, il est important de commencer
+
+97
+00:07:25,840 --> 00:07:30,020
+les enregistrements le plus tôt possible et ne pas laisser tout pour le dernier moment.
+
+98
+00:07:30,180 --> 00:07:34,719
+Enfin il n'y a rien de mal à enregistrer et implémenter des enregistrements dans le jeu
+
+99
+00:07:34,720 --> 00:07:39,960
+en étape de développement – ceci a été déjà fait pendant le développement des trois parties de Witcher.
+
+100
+00:07:40,200 --> 00:07:44,940
+Ceci nous a permit de voir notre conception en pratique pendant la partie elle-même
+
+101
+00:07:45,100 --> 00:07:51,580
+et crée une opportunité de montrer les effets avec le son à vous – les joueurs.
+
+102
+00:07:52,720 --> 00:07:56,040
+Depuis combien de temps le projet existe ?
+
+103
+00:07:56,440 --> 00:08:01,160
+Le projet sous sa forme présente est développé depuis la fin 2015.
+
+104
+00:08:01,300 --> 00:08:04,220
+Sa première conception a été conçue en 2009.
+
+105
+00:08:04,540 --> 00:08:10,560
+C'était néanmoins un projet complètement différent vu que sa qualité était pire que celle d'aujourd'hui.
+
+106
+00:08:10,900 --> 00:08:15,560
+On planifie de faire un documentaire séparé sur son histoire.
+
+107
+00:08:16,680 --> 00:08:19,580
+Quand est-ce que vous allez finaliser le projet ?
+
+108
+00:08:19,820 --> 00:08:24,960
+L'Histoire de Khorinis est toujours en étape d'assemblage de tous les étapes de plusieurs parties à un ensemble complet – on traduit
+
+109
+00:08:24,980 --> 00:08:30,060
+le scénario en langage de script du jeu et on insère des personnages, objets et missions dans le monde du jeu
+
+110
+00:08:30,240 --> 00:08:33,880
+et on ajoute en même étape le doublage.
+
+111
+00:08:34,020 --> 00:08:40,420
+De plus, pour ce moment-là on a toujours une cinquantaine d’acteurs à enregistrer – et il est possible qu'il y en aura plus.
+
+112
+00:08:40,820 --> 00:08:46,580
+Le problème est qu'une boîte grande peut louer un studio d'enregistrement et embaucher des acteurs pour un mois.
+
+113
+00:08:46,760 --> 00:08:53,250
+Du coup, on ne peut définir aucunes échéances, parce que PERSONNE peut faire
+
+114
+00:08:53,250 --> 00:08:56,620
+un projet si grande qui est non-profit.
+
+115
+00:08:57,060 --> 00:09:02,160
+On doit ajuster aux tous qui nous aident gratuitement, ce que l'on a déjà mentionné.
+
+116
+00:09:02,400 --> 00:09:07,780
+Avant qu'on soit à l'étape de finalisation du projet, on ne peut donner aucune date exacte.
+
+117
+00:09:08,620 --> 00:09:11,440
+Quand prévoyez-vous diffuser la version anglaise du jeu?
+
+118
+00:09:11,440 --> 00:09:14,480
+Et combien de versions linguistique prévoyez vous préparer?
+
+119
+00:09:15,029 --> 00:09:19,920
+Comme on prévoit de faire des changements presque jusqu'à la première,
+
+120
+00:09:19,920 --> 00:09:26,940
+on a pris la décision qu'il serait mieux de commencer la traduction après la première de la version polonaise du jeu.
+
+121
+00:09:27,200 --> 00:09:31,720
+On estime que la traduction anglaise nous prendra environ 3 mois.
+
+122
+00:09:31,980 --> 00:09:35,900
+Le boulot sera alors aussi rapide que professionnel.
+
+123
+00:09:36,260 --> 00:09:41,180
+En plus, on a déjà reçu la confirmation de l'équipe de Gothic Italia qu'ils commenceront
+
+124
+00:09:41,180 --> 00:09:46,000
+la traduction en italien dès que nous aurons fini la traduction en anglais.
+
+125
+00:09:46,160 --> 00:09:50,810
+Ils connaissent aussi bien leur travail – ils sont responsable de la traduction
+
+126
+00:09:50,810 --> 00:09:56,060
+de projets aussi grands que Community Story Project, ou un patch officiel de Gothic 3.
+
+127
+00:09:56,240 --> 00:10:02,660
+En revanche, notre développeur principal – Szymon 'Szmyk' Zak connaît le russe,
+
+128
+00:10:02,660 --> 00:10:06,980
+il va donc mener la traduction en russe.
+
+129
+00:10:07,440 --> 00:10:13,080
+Bien évidemment on aura besoin d'aide avec la traduction en allemand.
+
+130
+00:10:13,260 --> 00:10:19,260
+Chaque autre traduction sera à faire par les fans, en fonction de leur volonté et intérêt.
+
+131
+00:10:19,660 --> 00:10:25,140
+On planifie également de créer un doublage anglais professionnel, car beaucoup de nos jeunes
+
+132
+00:10:25,280 --> 00:10:30,820
+acteurs parlent anglais avec un accent superbe et ont beaucoup de volonté et professionnalisme
+
+133
+00:10:30,980 --> 00:10:33,180
+pour faire le doublage pour le jeu.
+
+134
+00:10:33,400 --> 00:10:36,840
+Pour l'instant on confirme quatre versions linguistiques:
+
+135
+00:10:37,040 --> 00:10:39,900
+anglaise, italienne, russe et allemande.
+
+136
+00:10:41,340 --> 00:10:45,940
+Comment savons-nous que la Barrière a 10 ans ?
+
+137
+00:10:46,420 --> 00:10:50,280
+Dans une bande dessinée officielle 'Gothic : Der Comic' et dans les manuels du jeu
+
+138
+00:10:50,280 --> 00:10:54,180
+l'âge de la Barrière apparait deux fois.
+
+139
+00:10:54,600 --> 00:10:58,420
+Selon une mention, c'est 10 ans, selon l'autre c'est 20.
+
+140
+00:10:58,660 --> 00:11:04,880
+On a du alors faire un choix concernant le vrai âge qui conforme le plus à la chronologie des jeux.
+
+141
+00:11:05,220 --> 00:11:09,100
+L'âge de la Barrière n'apparait pas dans le jeu lui-même.
+
+142
+00:11:09,320 --> 00:11:13,140
+Il était seulement suggéré que la Barrièere a soit 10 ou 20 ans.
+
+143
+00:11:13,380 --> 00:11:19,280
+En plus, la Barrière qui a 20 ans poserait des problèmes logiques et chronologique.
+
+144
+00:11:19,720 --> 00:11:24,160
+On va prochainement préparer un vidéo SPÉCIAL regardant le vrai âge de la Barrière.
+
+145
+00:11:24,280 --> 00:11:29,920
+Le vidéo va contenir les sous-tîtres aux tous les langues pour vous donner la justification pour NOTRE
+
+146
+00:11:29,920 --> 00:11:32,320
+choix de la Barrière de 10 ans.
+
+147
+00:11:33,000 --> 00:11:35,920
+Pourquoi n'allez-vous pas commencer à développer votre propre jeu?
+
+148
+00:11:36,240 --> 00:11:38,620
+Une partie des personnes participant à notre projet
+
+149
+00:11:38,860 --> 00:11:41,520
+s'occupe du travail professionnelle aux boîtes les plus grandes de Pologne
+
+150
+00:11:41,820 --> 00:11:46,300
+et du monde, dans la production de jeux, électronique ou cinéma.
+
+151
+00:11:46,580 --> 00:11:51,700
+On est alors conscient qu'un projet d'un nouveau jeu est un gros défi, exigeant
+
+152
+00:11:51,700 --> 00:11:57,240
+des dépenses énormes et avec une chance d'échec très grande.
+
+153
+00:11:57,420 --> 00:12:01,000
+Ceci dit, on n'a pas telles ambitions DU TOUT.
+
+154
+00:12:01,120 --> 00:12:06,140
+Notre but est d'honorer l'ambiance et l'intrigue des deux premières parts de Gothic
+
+155
+00:12:06,380 --> 00:12:11,900
+et donner de la joie aux cents de miles de ses fans en Pologne et dans le monde entier.
+
+156
+00:12:12,140 --> 00:12:18,220
+Notre trait commune est une attitude sérieuse aux nos tâches et avant tout
+
+157
+00:12:18,360 --> 00:12:23,400
+la confiance au projet et l'amour de ce jeu magnifique.
+
+158
+00:12:23,980 --> 00:12:26,120
+Peut-on vous soutenir ?
+
+159
+00:12:26,380 --> 00:12:32,280
+Vous pouvez trouver toutes informations et liens pour les dons dans la description de ce vidéo.
+
+160
+00:12:32,480 --> 00:12:35,920
+Est-ce que Piranha Bytes connaît votre projet ?
+
+161
+00:12:36,200 --> 00:12:38,640
+Cette question est posée exceptionnellement souvent.
+
+162
+00:12:38,860 --> 00:12:44,880
+On peut confirmer que le profil officiel de Piranha aime notre profil sur Facebook,
+
+163
+00:12:45,140 --> 00:12:48,760
+ils ont alors confirmé son intérêt publiquement.
+
+164
+00:12:49,100 --> 00:12:54,340
+En plus, on veut souligner que le projet n'a rien à voir
+
+165
+00:12:54,340 --> 00:13:01,620
+avec Gothic 3, car l'histoire de notre extension est basée exclusivement sur le canon de Gothic 1 et Gothic 2.
+
+166
+00:13:03,040 --> 00:13:07,520
+Voilà, ce sont tous les réponses à vos questions.
+
+167
+00:13:07,820 --> 00:13:11,740
+Afin d'être au courant de cet effort splendide, on vous encourage
+
+168
+00:13:11,900 --> 00:13:16,220
+à vous inscrire à la chaîne et nous suivre sur médias sociaux!
+
+169
+00:13:16,440 --> 00:13:22,500
+On vous encourage également à raconter vos histoires et souvenirs du jeu dans les commentaires.
+
+170
+00:13:22,780 --> 00:13:28,400
+On est sûr qu'ils vont intéresser tout le monde et surtout les fans polonais,
+
+171
+00:13:28,400 --> 00:13:32,620
+qui ne réalisent pas complètement auxquels coins et recoins est-ce que la popularité de Gothic a parvenu.
+
+172
+00:13:32,900 --> 00:13:34,500
+Surprenez-nous !
+
+173
+00:13:34,860 --> 00:13:40,320
+On a aussi une grande demande à vous – en vue de parvenir au nombre des fans du jeu Gothic plus grande
+
+174
+00:13:40,460 --> 00:13:46,080
+informez sur noune site tre projet de toutes façons possibles dans vos pays !
+
+175
+00:13:46,640 --> 00:13:52,060
+On remercie Bartosz Bialy  de la préparation de la traduction en anglais !
+
+176
+00:13:52,420 --> 00:13:56,060
+C'est lui qui est responsable de toutes traductions jusqu'à présent.
+
+177
+00:13:56,860 --> 00:14:02,560
+On veut remercier Pierre 'ThielHater' de la version allemande.
+
+178
+00:14:02,900 --> 00:14:10,140
+Il est un grand fan du monde de Myrtana et travaille depuis quelques années sur le projet Gothic: Reloaded Mod.
+
+179
+00:14:10,480 --> 00:14:15,520
+Le but de ce projet est l'amélioration de l'art graphique de Gothic 1
+
+180
+00:14:15,529 --> 00:14:22,579
+à un niveau le plus élevé possible, en gardant 100 % de l'ambiance originale de la Colonie Pénale et jeu original
+
+181
+00:14:22,580 --> 00:14:25,180
+de 2001.
+
+182
+00:14:25,740 --> 00:14:34,180
+Notre coopération existe depuis 2010 quand Pierre a rendu une modèle meilleure et plus détaillée du Vieux Camp accessible à nous.
+
+183
+00:14:34,480 --> 00:14:38,060
+Au présent, le projet est dans la dernière phase du développement.
+
+184
+00:14:38,260 --> 00:14:43,460
+Une version de demonstration avec un première chapitre jouable est à télécharger du site officielle.
+
+185
+00:14:43,680 --> 00:14:47,180
+En privé, Pierre travaille comme programmateur.
+
+186
+00:14:47,360 --> 00:14:50,320
+Les résultats du travail de son équipe sont tout simplement incroyables!
+
+187
+00:14:50,540 --> 00:14:55,100
+On vous encourage à essayer le projet, et on remercie Pierre de tous!
+
+188
+00:14:55,320 --> 00:14:57,800
+Salutations pour tous les allemands.
+
+189
+00:15:14,020 --> 00:15:19,980
+On veut quand-même remercier le plus Tomasz Rutkowski et Jakub Masztakowski, qui ont rédigé
+
+190
+00:15:20,180 --> 00:15:24,640
+une transcription du polonais directement en allemand !
+
+191
+00:15:24,820 --> 00:15:28,980
+On veut remercier Dmitry Kovchenko de la traduction en russe
+
+192
+00:15:29,160 --> 00:15:37,220
+et qui est le résponsable de latraduction du film sur Gothic Sequel et nous aide à la gestion du profil sur le réseau Vkontakte russe.
+
+193
+00:15:37,720 --> 00:15:42,360
+On remercie également Konstantin 'tyson90' Kulichyov & Łukasz Wróbel,
+
+194
+00:15:42,540 --> 00:15:47,380
+qui a traduit la transcription directement du polonais en russe !
+
+195
+00:15:47,800 --> 00:15:53,320
+On invite tous les fans de VK à observer notre profil.
+
+196
+00:16:07,400 --> 00:16:11,680
+Pour la traduction en italien, on veut remercier toute l'équipe de Gothic Italia.
+
+197
+00:16:11,900 --> 00:16:15,420
+Les gars menés par Leonardo font un grand travail.
+
+198
+00:16:15,720 --> 00:16:20,120
+comme déjà dit, ils traduisent les projets comme
+
+199
+00:16:20,120 --> 00:16:25,200
+Community Store Project, Quest Pack ou Content Mod en italien.
+
+200
+00:16:25,440 --> 00:16:33,140
+Ils sont également les responsables de tous nos filmes et prochainement aussi L'Histoire de Khorinis.
+
+201
+00:16:33,400 --> 00:16:37,300
+En outre, ils sont peut-être les fans de Gothic même plus grands que nous,
+
+202
+00:16:37,560 --> 00:16:43,400
+étant donné qu'ils ont traduit un documentaire sur Andrzej Tomecki
+
+203
+00:16:43,580 --> 00:16:46,240
+qui était lié uniquement à la version polonaise du jeu!
+
+204
+00:16:46,440 --> 00:16:54,140
+Dark – chef de notre équipe visite l'Italie quelques fois par an et il invite vous tous à une verre à l'occasion prochaine !
+
+205
+00:16:58,760 --> 00:17:03,320
+On remercie Darcha 'Darko' Soyer de la traduction en serbe.
+
+206
+00:17:03,580 --> 00:17:12,360
+Darko est un graphique talentueux qui a travaillé sur les textures  pour projet gigantesque de Communitry Story Project pour Gothic 3 il y a quelques ans.
+
+207
+00:17:12,620 --> 00:17:18,760
+Grâce à ses traductions nos filmes peut être vu non seulement par Serbes, mais par tous les ressortissants
+
+208
+00:17:18,760 --> 00:17:24,040
+des républiques de Yugoslavie anciennes – les Slovènes, les Croates ou les Bosniaques.
+
+209
+00:17:27,740 --> 00:17:32,560
+On remercie Filip 'tonyskate' Richter pour la traduction en tchèque.
+
+210
+00:17:32,880 --> 00:17:36,100
+Il est aussi un modérateur du site GothiCZ.net
+
+211
+00:17:39,580 --> 00:17:45,660
+De la traduction en roumain, on veut remercier Ohnedich, Iosif Alexandru et Mircea Enache,
+
+212
+00:17:45,880 --> 00:17:50,340
+qui est aussi l'auteur de la traduction anglaise du projet 'Intrusion'.
+
+213
+00:17:54,740 --> 00:18:01,600
+On remercie Carlos Fernandez qui est le modérateur sur les streams de Lord Saradoc de la traductions en espagnol!
+
+214
+00:18:12,640 --> 00:18:16,200
+On remercie Uldis Gailis & Norberts Dukurs de la traduction en letton.
+
+215
+00:18:18,860 --> 00:18:23,720
+Salutations – Arkadiusz Wozniak et l'équipe de L'Histoire de Khorinis !
+
+216
+00:18:24,160 --> 00:18:26,960
+Que Innos vous protège toujours!
+
+217
+00:18:53,440 --> 00:18:58,620
+Directée et réalisé par
+Piotr Czołnowski er Mateusz Pawłowski
+
+218
+00:18:58,860 --> 00:19:02,020
+Son par
+Szymon Nawrocki
+
+219
+00:19:02,320 --> 00:19:05,960
+Coordinateur des translations: Szymon Żak 
+Narrateur: Arkadiusz Woźniak
+
+220
+00:19:06,120 --> 00:19:11,320
+Remerciements particuliers à
+Krystian Ogonowski, Szymon Żak,
+Michał Wiśniewski et Mateusz Iwanek
+
+221
+00:19:15,740 --> 00:19:17,740
+Sous-tîtres françaises par Michał Szydłowski
+

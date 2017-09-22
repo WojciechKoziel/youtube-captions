@@ -1,0 +1,885 @@
+1
+00:00:08,820 --> 00:00:14,180
+“Kráľovstvo Myrtana, zjednotené kráľom Rhobar II”
+
+2
+00:00:29,940 --> 00:00:30,680
+Ahojte!
+
+3
+00:00:31,080 --> 00:00:33,360
+Arkadiusz „Arkadikuss” Woźniak je tu!
+
+4
+00:00:33,740 --> 00:00:36,400
+Ako môžete vidieť, po anglicky hovorím veľmi dobre!
+
+5
+00:00:36,740 --> 00:00:42,200
+My sme si vedomí, že je to zložité sledovať naše materiály s Poľským jazykom
+
+6
+00:00:42,420 --> 00:00:44,880
+a z titulkami z vašim rodným jazykom,
+
+7
+00:00:45,160 --> 00:00:48,920
+takže sme sa rozhodli urobiť špeciálne video z Anglickým dabingom
+
+8
+00:00:49,120 --> 00:00:53,440
+priamo pre vás — fanúšikov Histórie Khorinisu
+
+9
+00:00:53,680 --> 00:00:56,260
+v zahraničí a vo zvyšku sveta!
+
+10
+00:00:56,540 --> 00:01:00,940
+Ako vždy sme si pripravili titulky vo viacerých jazykoch.
+
+11
+00:01:01,140 --> 00:01:05,240
+V tomto materiáli odpovieme na všetky dôležité otázky o tomto projekte,
+
+12
+00:01:05,420 --> 00:01:11,780
+jeho vývoji a o nás - tíme SoulFire, ktorý pracuje na móde História Khorinisu.
+
+13
+00:01:11,880 --> 00:01:15,260
+Takže ostaňte chvíľu a užite si sledovanie!
+
+14
+00:01:15,460 --> 00:01:20,120
+Než sa dostaneme k otázkam a odpovediam, dovoľte nám, povedať vám niekoľko dôležitých informácií.
+
+15
+00:01:20,380 --> 00:01:23,360
+Na začiatok vám chceme poďakovať za vašu podporu.
+
+16
+00:01:23,540 --> 00:01:28,030
+Okrem niekoľkých desiatok tisíc nasledovníkov z Poľska nás niekoľko tisíc ľudí z
+
+17
+00:01:28,030 --> 00:01:31,680
+celého sveta nás sleduje na všetkých sociálnych sieťach!
+
+18
+00:01:31,680 --> 00:01:36,520
+Tiež reprezentujete asi 20% divákov na našom kanáli YouTube!
+
+19
+00:01:36,520 --> 00:01:42,940
+Sme obzvlášť vďační, pretože v podstate sledujete poľský projekt, ktorý je stále vo vývoji.
+
+20
+00:01:43,100 --> 00:01:47,820
+Ukazuje to nielen vašu oddanosť Gothic ságe, ale tiež to znamená, že táto hra je
+
+21
+00:01:47,820 --> 00:01:53,200
+jedinečná a stále medzi vami obľúbená, aj keď vyšla už veľmi dávno!
+
+22
+00:01:53,320 --> 00:01:56,179
+Nezáleží na tom, z KTOREJ krajiny sme! !
+
+23
+00:01:56,180 --> 00:02:01,120
+VŠETCI MILUJEME A UZNÁVAME TÚ EPICKÚ NEMECKÚ HRU ZVANÚ GOTHIC!
+
+24
+00:02:01,280 --> 00:02:03,720
+A to je nádherné!
+
+25
+00:02:04,300 --> 00:02:09,640
+Ako dodatočné informácie musíte vedieť, že hra Gothic bola v Poľsku predaná v počte
+
+26
+00:02:09,640 --> 00:02:14,140
+takmer milión kópií, čo je NEUVERITEĽNÉ!
+
+27
+00:02:14,140 --> 00:02:18,120
+Najpočetnejšou skupinou divákov sú, samozrejme, Nemci a Rusi,
+
+28
+00:02:18,260 --> 00:02:26,240
+ktorí sa až do dnešného dňa stretávajú na World of Gothic DE, World of Players Russia a RPG Russia príslušne.
+
+29
+00:02:26,520 --> 00:02:31,920
+Ďalšou najpočetnejšou skupinou sú naši srbskí a rumunskí bratia, ktorí sa zhromažďujú
+
+30
+00:02:32,100 --> 00:02:34,360
+na World of Gothic Romania.
+
+31
+00:02:35,220 --> 00:02:40,800
+Ďalšou obrovskou skupinou divákov sú Taliani, ktorých komunita sa zhromažďuje na Gothic Italia.
+
+32
+00:02:42,180 --> 00:02:47,760
+Ľudia zo Španielska a ich slávny portál s názvom Gothic Clan Espania, ktorý bol vytvorený
+
+33
+00:02:48,020 --> 00:02:54,600
+hneď po vydaní Gothic 1 a na ktorom nájdeme aj mnoho ľudí z Južnej Ameriky.
+
+34
+00:02:55,000 --> 00:02:56,840
+Ďalšou obrovskou skupinou sú Francúzi,
+
+35
+00:02:56,920 --> 00:03:00,400
+ktorí sa zhromažďovali na portáli nazvanom Gothic Universe France
+
+36
+00:03:00,560 --> 00:03:02,560
+a ,ktorý v dnešnej dobe neexistuje.
+
+37
+00:03:02,880 --> 00:03:07,480
+V tomto bode by sme chceli poďakovať aj vám, pretože v Poľsku bol mýtus, že úspech
+
+38
+00:03:07,480 --> 00:03:10,180
+Gothic série bol menší na západe.
+
+39
+00:03:10,180 --> 00:03:16,090
+Samozrejme, že bol menší, ale vaša prítomnosť a záujem o tento projekt ukazuje, že, ako Gothic
+
+40
+00:03:16,090 --> 00:03:18,800
+ovplyvnil i vás po tých VŠETKÝCH rokoch.
+
+41
+00:03:19,020 --> 00:03:21,700
+Najmä ľudí z Latinských krajín.
+
+42
+00:03:21,980 --> 00:03:29,520
+Naši bratia z Maďarska, Českej Republiky a Slovenska, ktorých miesto je web Gothicz.net.
+
+43
+00:03:31,080 --> 00:03:36,460
+Na rozdiel od menej početnej skupiny fanúšikov, ktorý sú zo Severnej Ameriky a Britských ostrovoch,
+
+44
+00:03:36,660 --> 00:03:39,000
+sa zhromažďujú na stránke worldofgothic.com.
+
+45
+00:03:39,480 --> 00:03:44,900
+Navyše, naše projekty sú sledované na ModDB.com ľudmi z krajín, ako
+
+46
+00:03:45,100 --> 00:03:49,180
+Slovinsko, Litva, Maroko, Bulharsko a Kolumbia.
+
+47
+00:03:49,500 --> 00:03:50,660
+Najlepšie pozdravy!
+
+48
+00:03:51,300 --> 00:03:57,020
+Gothic s dabingom sa vydal len v krajinách, ako Nemecko, Poľsko,
+
+49
+00:03:57,140 --> 00:04:01,080
+Rusko a v anglicky hovoriacich krajinách – USA a Spojenom kráľovstve.
+
+50
+00:04:01,440 --> 00:04:05,580
+A pre zvyšok z vás, my vás obdivujeme, že hra, ktorú hrajete s titulkami vo vašom
+
+51
+00:04:05,580 --> 00:04:10,040
+jazyku s anglickým hlasom priniesla také veľké emócie vo vás.
+
+52
+00:04:10,260 --> 00:04:12,860
+Vy máte záujem o túto hru po tento deň.
+
+53
+00:04:13,080 --> 00:04:15,520
+Z nášho pohľadu je to neuveriteľné!
+
+54
+00:04:15,660 --> 00:04:21,440
+A v neposlednom rade – musíte vedieť, že vy, všetci fanúšikovia zo zahraničia,
+
+55
+00:04:21,660 --> 00:04:25,980
+ste pre nás rovnako DÔLEŽITÝ, ako fanúšikovia z Poľska.
+
+56
+00:04:26,000 --> 00:04:31,460
+Rešpektujeme vás, oceňujeme vás a my milujeme TÚTO hru rovnako, ako vy.
+
+57
+00:04:31,620 --> 00:04:32,580
+Ste pripravený?
+
+58
+00:04:32,660 --> 00:04:35,300
+Tak začnime s Q&A!
+
+59
+00:04:35,500 --> 00:04:40,080
+Čo je História Khorinisu?
+
+60
+00:04:40,300 --> 00:04:45,460
+História Khorinisu is nezávislý príbeh, ktorý je PREQUEL do originálnej Gothic Ságy.
+
+61
+00:04:45,660 --> 00:04:50,600
+Hovorí o príbehu, ktorý sa udial jedenásť rokov pred akciou z Gothic 1.
+
+62
+00:04:50,800 --> 00:04:55,060
+Príbeh addonu sa odohráva rok pred vytvorením Magickej bariéry.
+
+63
+00:04:55,260 --> 00:05:00,740
+Publikácia projektu je plánovaná v dvoch častiach — najskôr prvá časť na novom ostrove Vaduz
+
+64
+00:05:00,940 --> 00:05:03,300
+a ďalšia na ostrove Khorinis.
+
+65
+00:05:03,740 --> 00:05:08,220
+Nový ostrov sa objaví v prídavku, pretože sme vám chceli ukázať ďalšiu časť tohto
+
+66
+00:05:08,260 --> 00:05:13,300
+slávneho kráľovstva a ukázať vám iné metropoly ako mesto Khorinis.
+
+67
+00:05:13,560 --> 00:05:17,600
+Tento pridaný ostrov navyše urobí príbeh zaujímavejším,
+
+68
+00:05:17,780 --> 00:05:19,640
+takže vám prinesie viac zábavy.
+
+69
+00:05:19,940 --> 00:05:26,180
+Tiež ho vystihuje profesionálny dabing v poľskom jazyku, neskôr aj profesionálny
+
+70
+00:05:26,180 --> 00:05:31,140
+anglický dabing, a nezvyčajný dôraz na detaily.
+
+71
+00:05:31,500 --> 00:05:34,320
+História Khorinisu je neziskový projekt
+
+72
+00:05:34,600 --> 00:05:36,840
+a bude k dispozícii ZADARMO.
+
+73
+00:05:38,500 --> 00:05:40,500
+Aký bol nápad na dabing?
+
+74
+00:05:40,500 --> 00:05:43,480
+Ako ste na tento projekt získali hercov na tento projekt?
+
+75
+00:05:43,760 --> 00:05:48,860
+Jedna z najdôležitejších vecí, ktoré spravili Gothic v Poľsku jedinečným, bol jeho vynikajúci
+
+76
+00:05:48,860 --> 00:05:52,860
+dabing, za ktorým možno nájsť mnoho vynikajúcich poľských hercov.
+
+77
+00:05:53,060 --> 00:05:58,020
+Vďaka tomu, že vedúci tímu pochádza zo známej rodiny filmárov, sa nám podarilo
+
+78
+00:05:58,029 --> 00:06:03,960
+dohodnúť účasť mnohých filmových, divadelných a rozhlasových hercov ZADARMO.
+
+79
+00:06:04,360 --> 00:06:08,360
+To znamená, že všetci účastníci a lektori pomáhajú zadarmo –
+
+80
+00:06:08,620 --> 00:06:09,660
+vrátane mňa.
+
+81
+00:06:09,820 --> 00:06:14,740
+Vďaka láskavosti našich priateľov máme tiež ZDARMA prístup do profesionálneho zvukového štúdia
+
+82
+00:06:14,820 --> 00:06:20,480
+v troch veľkých mestách: vo Varšave – hlavnom meste, Lodži a Wroclawi (Breslau).
+
+83
+00:06:20,760 --> 00:06:26,080
+Umožnilo nám to zhromaždiť tím snov, pretože sa nemusíme BÁŤ žiadnych nákladov.
+
+84
+00:06:26,400 --> 00:06:31,960
+Niektorých hercov vyzývame individuálne, ukazujeme im rozsah nášho projektu a ctíme
+
+85
+00:06:31,960 --> 00:06:34,480
+si ich v sérii dokumentárnych videí.
+
+86
+00:06:34,700 --> 00:06:39,879
+Okrem toho bude každá postava z Gothic série obsadená tým istým hercom, ktorý ju daboval v
+
+87
+00:06:39,880 --> 00:06:41,800
+Poľskej verzii hry.
+
+88
+00:06:42,400 --> 00:06:47,340
+Prečo sme práve teraz začali nahrávať?
+
+89
+00:06:47,780 --> 00:06:53,500
+Najdôležitejším dôvodom, prečo sme začali nahrávky, je vek a zdravotný stav niektorých hercov.
+
+90
+00:06:53,740 --> 00:06:58,160
+Prioritou sú tí aktéri, ktorí sú v pokročilom veku -
+
+91
+00:06:58,440 --> 00:07:00,760
+tí, ktorí sú v 80. a 90. rokoch.
+
+92
+00:07:00,960 --> 00:07:06,120
+Okrem toho prioriti sú danné hercom, ktorí trpia vážnymi chorobami.
+
+93
+00:07:06,300 --> 00:07:10,000
+V obidvoch prípadoch nie je možné odkladať nahrávky.
+
+94
+00:07:10,180 --> 00:07:16,500
+Ďalším dôležitým dôvodom je skutočnosť, že nahrávacie štúdiá a väčšina hercov pomáhajú zadarmo.
+
+95
+00:07:16,720 --> 00:07:21,120
+Preto sa MY, musíme prispôsobiť ICH voľnému času.
+
+96
+00:07:21,280 --> 00:07:25,839
+Navyše, s ohľadom na rozsah projektu je dôležité spustiť
+
+97
+00:07:25,840 --> 00:07:30,020
+nahrávanie čo najskôr - a nenechávať to všetko na poslednú chvíľu.
+
+98
+00:07:30,180 --> 00:07:34,719
+Napokon, nie je nič zlé na nahrávaní a umiestňovaní nahrávok do hry vo
+
+99
+00:07:34,720 --> 00:07:39,960
+fáze vývoja - podobný spôsob bol použitý pri všetkých hrách Zaklínač (The Witcher).
+
+100
+00:07:40,200 --> 00:07:44,940
+Umožňuje to NÁM, autorom, vidieť našu víziu v praxi
+
+101
+00:07:45,100 --> 00:07:51,580
+a tiež to ponúka možnosť ukázať výsledok VÁM všetkým, a to s plnými hlasovými a zvukovými efektmi.
+
+102
+00:07:52,720 --> 00:07:56,040
+Koľko rokov je projekt je vo vývoji?
+
+103
+00:07:56,440 --> 00:08:01,160
+Projekt v súčasnej podobe prebieha od konca roka 2015.
+
+104
+00:08:01,300 --> 00:08:04,220
+Jeho prvý koncept sa objavil už v roku 2009.
+
+105
+00:08:04,540 --> 00:08:10,560
+V tom čase to bol ÚPLNE iný projekt, ktorého kvalita bola oveľa nižšia ako v súčasnosti.
+
+106
+00:08:10,900 --> 00:08:15,560
+V budúcnosti pripravíme samostatný videozáznam o jeho histórii.
+
+107
+00:08:16,680 --> 00:08:19,580
+Kedy bude História Khorinisu vydaná?
+
+108
+00:08:19,820 --> 00:08:24,960
+Náš doplnok je stále v štádiu dávania všetkých prvkov dohromady - prepisujeme
+
+109
+00:08:24,980 --> 00:08:30,060
+skripty do kódu hry, umiestňujeme postavy, položky a úlohy do hotového sveta
+
+110
+00:08:30,240 --> 00:08:33,880
+a do danej scény okamžite pridávame hlasy.
+
+111
+00:08:34,020 --> 00:08:40,420
+Okrem toho musíme vytvoriť hlasy pre 50 hercov a je možné, že tento počet sa zvýši.
+
+112
+00:08:40,820 --> 00:08:46,580
+Problémom je, že veľká spoločnosť si môže prenajať nahrávacie štúdio a najať si na mesiac hercov.
+
+113
+00:08:46,760 --> 00:08:53,250
+Je pre nás NEMOŽNÉ odhadnúť jediný, pravý dátum vydania, pretože NIKTO nikdy nerealizoval
+
+114
+00:08:53,250 --> 00:08:56,620
+projekt vo veľkom meradle neziskovým spôsobom.
+
+115
+00:08:57,060 --> 00:09:02,160
+Ďakujeme všetkým už spomenutým, ktorí nám pomáhajú zadarmo.
+
+116
+00:09:02,400 --> 00:09:07,780
+Neoznámime vám žiadny dátum, kým nebudeme v záverečnej fáze projektu.
+
+117
+00:09:08,620 --> 00:09:11,440
+Kedy bude vydaná Anglická verzia?
+
+118
+00:09:11,440 --> 00:09:14,480
+A koľko jazykových verzií bude vydaných?
+
+119
+00:09:15,029 --> 00:09:19,920
+Vzhľadom na skutočnosť, že v našom projekte budeme vykonávať zmeny až do konca vývoja,
+
+120
+00:09:19,920 --> 00:09:26,940
+rozhodli sme sa, že bude lepšie začať preklad po vydaní poľskej verzie Histórie Khorinisu.
+
+121
+00:09:27,200 --> 00:09:31,720
+Predpokladáme že preklad do Anglickej verzii nám zaberie okolo troch mesiacov.
+
+122
+00:09:31,980 --> 00:09:35,900
+Práca na preklade bude rýchla a profesionálna.
+
+123
+00:09:36,260 --> 00:09:41,180
+Od tímu Gothic Italia máme ďalej potvrdené, že sa postarajú
+
+124
+00:09:41,180 --> 00:09:46,000
+o preklad do taliančiny hneď po preklade do anglického jazyka.
+
+125
+00:09:46,160 --> 00:09:50,810
+S prekladom majú skúsenosti, keďže sú zodpovední za preklad
+
+126
+00:09:50,810 --> 00:09:56,060
+projektov ako as akými sú Komunitný príbeh projektu alebo oficiálny patch Gothic 3.
+
+127
+00:09:56,240 --> 00:10:02,660
+Náš hlavný programátor, Szymon "Szmyk" Żak, je zručný v ruskom jazyku,
+
+128
+00:10:02,660 --> 00:10:06,980
+takže istý preklad do ruštiny sa bude diať pod jeho vedením.
+
+129
+00:10:07,440 --> 00:10:13,080
+Z pochopiteľného dôvodu sa budeme snažiť získať pomoc pri preklade Histórie Khorinisu do nemeckého jazyka.
+
+130
+00:10:13,260 --> 00:10:19,260
+Každá iná jazyková verzia bude v rukách fanúšikov, ich záujmu a ochoty pomôcť.
+
+131
+00:10:19,660 --> 00:10:25,140
+Takisto plánujeme vytvoriť profesionálny anglický dabing, pretože mnohí z našich mladších
+
+132
+00:10:25,280 --> 00:10:30,820
+hercov majú skvelý anglický prízvuk a tiež veľa ochoty a profesionality.
+
+133
+00:10:30,980 --> 00:10:33,180
+pre hlasový dabing.
+
+134
+00:10:33,400 --> 00:10:36,840
+V tejto chvíli môžeme potvrdiť štyri jazykové verzie:
+
+135
+00:10:37,040 --> 00:10:39,900
+Angličtina, Taliančina, Ruština a Nemčina.
+
+136
+00:10:41,340 --> 00:10:45,940
+Ako vieme, že bariéra má 10 rokov?
+
+137
+00:10:46,420 --> 00:10:50,280
+V oficiálnom komikse “Gothic Der Comic”, ako aj v herných manuáloch
+
+138
+00:10:50,280 --> 00:10:54,180
+spojených s jednou z Gothic hier, sa vek bariéry vyskytuje dvakrát.
+
+139
+00:10:54,600 --> 00:10:58,420
+Podľa jedného je stará 10 rokov, podľa druhého 20.
+
+140
+00:10:58,660 --> 00:11:04,880
+A tak sme museli urobiť voľbu čo sa týka skutočného veku, ktorý by najlepšie vyhovoval chronológii hier.
+
+141
+00:11:05,220 --> 00:11:09,100
+V samotnej hre sa nezobrazuje vek Magickej bariéry.
+
+142
+00:11:09,320 --> 00:11:13,140
+Navrhuje sa len, že bariéra má 10 alebo 20 rokov.
+
+143
+00:11:13,380 --> 00:11:19,280
+Navyše dvadsaťročná stará bariéra by spôsobila logické a chronologické problémy.
+
+144
+00:11:19,720 --> 00:11:24,160
+Čoskoro pripravíme ŠPECIÁLNE video o skutočnom veku Magickej bariéry.
+
+145
+00:11:24,280 --> 00:11:29,920
+Video bude obsahovať titulky vo všetkých jazykoch, ktoré vám poskytnú opodstatnenie výberu NAŠEJ
+
+146
+00:11:29,920 --> 00:11:32,320
+voľby pre desaťročnú bariéru.
+
+147
+00:11:33,000 --> 00:11:35,920
+Prečo nevyrábate svoju vlastnú hru?
+
+148
+00:11:36,240 --> 00:11:38,620
+Časť ľudí, ktorí pracujú na našom projekte
+
+149
+00:11:38,860 --> 00:11:41,520
+pracovala alebo pracuje v najväčších Poľských a
+
+150
+00:11:41,820 --> 00:11:46,300
+svetových spoločnostiach počítačových hier, elektronického alebo videopriemyslu.
+
+151
+00:11:46,580 --> 00:11:51,700
+Naozaj si uvedomujeme, akú ťažkou úlohou by bol projekt našej hry, koľko
+
+152
+00:11:51,700 --> 00:11:57,240
+finančných výdavkov by to vyžadovalo a aká veľká by bola pravdepodobnosť jeho zlyhania.
+
+153
+00:11:57,420 --> 00:12:01,000
+Preto v tejto záležitosti NEMÁME také ambície.
+
+154
+00:12:01,120 --> 00:12:06,140
+Naším cieľom je uctiť si atmosféru a príbeh prvých dvoch hier Gothic,
+
+155
+00:12:06,380 --> 00:12:11,900
+a priniesť potešenie stovkám tisíc fanúšikov v Poľsku a vo svete.
+
+156
+00:12:12,140 --> 00:12:18,220
+Všetci zdieľame vážny prístup k úlohám vykonávaným v našom tíme a predovšetkým
+
+157
+00:12:18,360 --> 00:12:23,400
+vieru v projekt a lásku k slávnej hre, ktorou je Gothic.
+
+158
+00:12:23,980 --> 00:12:26,120
+Môžeme vás nejako podporiť?
+
+159
+00:12:26,380 --> 00:12:32,280
+Všetky informácie a odkaz na darcovstvo nájdete v popise tohto videa.
+
+160
+00:12:32,480 --> 00:12:35,920
+Vie Piranha Bytes o vašom projekte?
+
+161
+00:12:36,200 --> 00:12:38,640
+Táto otázka sa javí veľmi často.
+
+162
+00:12:38,860 --> 00:12:44,880
+Môžeme potvrdiť, že oficiálnemu profilu Piranha Bytes sa páči náš profil na Facebooku,
+
+163
+00:12:45,140 --> 00:12:48,760
+takže potvrdzuje ich záujem aj oficiálnymi spôsobmi.
+
+164
+00:12:49,100 --> 00:12:54,340
+Ďalej chceme povedať, že projekt nevychádza z príbehu a miest
+
+165
+00:12:54,340 --> 00:13:01,620
+Gothic 3, pretože celý príbeh nášho doplnku sa týka len oficiálnych častí príbehu Gothic 1 a Gothic 2.
+
+166
+00:13:03,040 --> 00:13:07,520
+A to boli všetky odpovede na vaše najčastejšie otázky.
+
+167
+00:13:07,820 --> 00:13:11,740
+Ak chcete držať krok s týmto nádherným projektom, odporúčame vám,
+
+168
+00:13:11,900 --> 00:13:16,220
+aby ste nám dali odber nášmu YouTube kanálu a sledovali nás na oficiálnych sociálnych médiách!
+
+169
+00:13:16,440 --> 00:13:22,500
+Srdečne vás žiadame, aby ste zdieľali svoje vlastné príbehy a spomienky z Gothic v komentároch.
+
+170
+00:13:22,780 --> 00:13:28,400
+sme si istý, že zaujímavé budú pre každého z nás, najmä poľských fanúšikov Gothic,
+
+171
+00:13:28,400 --> 00:13:32,620
+ktorí si nie sú celkom vedomý popularity Gothic vo svete.
+
+172
+00:13:32,900 --> 00:13:34,500
+Prekvapte nás!
+
+173
+00:13:34,860 --> 00:13:40,320
+Tiež na vás máme veľkú požiadavku – aby sme získali viac fanúšikov hry Gothic:
+
+174
+00:13:40,460 --> 00:13:46,080
+Prosím, informujte o našom projekte vo vašich rodných krajinách všetkými spôsobmi!
+
+175
+00:13:46,640 --> 00:13:52,060
+Ďakujeme Bartošovi Białymu za prípravu anglického prekladu tohto videomateriálu.
+
+176
+00:13:52,420 --> 00:13:56,060
+Za všetky súčasné preklady je zodpovedný on.
+
+177
+00:13:56,860 --> 00:14:02,560
+Obrovská vďaka za prípravu nemeckého prekladu patrí Pierrovi „ThielHater“,
+
+178
+00:14:02,900 --> 00:14:10,140
+ktorý je veľkým fanúšikom sveta Myrthany, ako aj my a ktorý mnoho rokov pracuje na móde Gothic: Reloaded.
+
+179
+00:14:10,480 --> 00:14:15,520
+Cieľom modifikácie je zlepšiť grafické detaily Gothic 1 na najvyššiu
+
+180
+00:14:15,529 --> 00:14:22,579
+možnú úroveň, zachovávajúc súčasne 100% pôvodnej klímy Horníckeho údolia a pôvodnej hry Gothic
+
+181
+00:14:22,580 --> 00:14:25,180
+z roku 2001.
+
+182
+00:14:25,740 --> 00:14:34,180
+Naša spolupráca sa začala v roku 2010, kedy Pierre s nami zdieľal svoj remodelovaný detailný model starého tábora.
+
+183
+00:14:34,480 --> 00:14:38,060
+Projekt je v súčasnosti v záverečnej fáze vývoja.
+
+184
+00:14:38,260 --> 00:14:43,460
+Jeho demo, ktoré obsahuje hrateľnú prvú kapitolu, je možné stiahnuť z oficiálnej webovej stránky.
+
+185
+00:14:43,680 --> 00:14:47,180
+V súkromí Pierre pracuje ako profesionálny programátor.
+
+186
+00:14:47,360 --> 00:14:50,320
+Výsledky práce jeho tímu sú jednoducho úžasné!
+
+187
+00:14:50,540 --> 00:14:55,100
+Srdečne vám odporúčame, aby ste si ich projekt pozreli a Pierrovi za všetko ďakujeme!
+
+188
+00:14:55,320 --> 00:14:57,800
+Pozdravujeme všetkých Nemcov.
+
+189
+00:15:14,020 --> 00:15:19,980
+Najväčšia vďaka však patrí Jakubovi Masztakowskému, Tomaszovi Rutkowskému a Dawidovi Szpilkovi, ktorí preložili
+
+190
+00:15:20,180 --> 00:15:24,640
+celý prepis v poľskom jazyku priamo do nemčiny!
+
+191
+00:15:24,820 --> 00:15:28,980
+Ďalšia vďaka, a to za ruský preklad, patrí Dmitrijovi Kovčenkovi,
+
+192
+00:15:29,160 --> 00:15:37,220
+ktorý bol zodpovedný za preklad videa o pokračovaní Gothic, a pomáha nám pri vedení nášho profilu na ruskom VKontakte.
+
+193
+00:15:37,720 --> 00:15:42,360
+Rovnako tak aj veľká vďaka patrí Konstantin "tyson90" Kulichyov a Łukasz Wróbel,
+
+194
+00:15:42,540 --> 00:15:47,380
+ktorý preložil prepis priamo z poľského jazyka na ruštinu!
+
+195
+00:15:47,800 --> 00:15:53,320
+Mimochodom, pozývame všetkých fanúšikov z VK, aby sledovali náš profil.
+
+196
+00:16:07,400 --> 00:16:11,680
+Obrovské poďakovanie tímu Gothic Italia za taliansky preklad.
+
+197
+00:16:11,900 --> 00:16:15,420
+Chalani robia skvelú prácu pod vedením Leonarda.
+
+198
+00:16:15,720 --> 00:16:25,200
+Ako sme už spomenuli, sú zodpovedajú za preklad projektov, ako je Community Story Project, Quest Pack a Content Mod do talianskeho jazyka.
+
+199
+00:16:25,440 --> 00:16:33,140
+Tiež sú zodpovedný za preklad všetkých našich videozáznamov a Histórie Khorinisu v budúcnosti.
+
+200
+00:16:33,400 --> 00:16:37,300
+Okrem toho sú pravdepodobne väčšími fanúšikmi Gothic, ako my.
+
+201
+00:16:37,560 --> 00:16:43,400
+Dôkazom toho je skutočnosť, že dokonca preložili dokumentárny film o Andrzejovi Tomeckimu,
+
+202
+00:16:43,580 --> 00:16:46,240
+ktorý bol spojený s poľskou verziou hry!
+
+203
+00:16:46,440 --> 00:16:54,140
+Dark – náš vedúci tímu – je v Taliansku mnohokrát za rok, takže vás pozýva na pivo nabudúce!
+
+204
+00:16:58,760 --> 00:17:03,320
+My ti dlhujeme tak veľa "Darko" Soyer za srbský preklad.
+
+205
+00:17:03,580 --> 00:17:12,360
+Darko je nadaný grafický dizajnér, ktorý pred mnohými rokmi pracoval na textúrach na gigantickom projekte Community Story Project pre Gothic 3.
+
+206
+00:17:12,620 --> 00:17:18,760
+S jeho prekladom môžu naše videá sledovať nielen Srbi, ale aj všetci občanmi
+
+207
+00:17:18,760 --> 00:17:24,040
+z bývalej republiky Juhoslávie - Slovinci, Chorváti a Bosňania.
+
+208
+00:17:27,740 --> 00:17:32,560
+Veľká vďaka patrí Filipovi "tonyskate" Richterovi za český preklad,
+
+209
+00:17:32,880 --> 00:17:36,100
+ktorý je tiež moderátorom gothicz.net.
+
+210
+00:17:39,580 --> 00:17:45,660
+Veľká vďaka za rumunský preklad od Andrei Florin, Losif Alexandru a Mircrea Enache,
+
+211
+00:17:45,880 --> 00:17:50,340
+ktorý je tiež autorom anglického prekladu projektu "Intrusion".
+
+212
+00:17:54,740 --> 00:18:01,600
+Pre španielsky preklad špeciálne ďakujeme Carlosovi Fdezovi, ktorý je tiež moderátorom videií LordSaradoc!
+
+213
+00:18:12,640 --> 00:18:16,200
+Vďaka Uldis Gailis a Norberts Dukurs za preklad do Lotyštiny.
+
+214
+00:18:18,860 --> 00:18:23,720
+S pozdravom od Arkadiusza Woźniaka a tímu História Khorinisu.
+
+215
+00:18:24,160 --> 00:18:26,960
+Nech Innos vás vždy sleduje!
+
+216
+00:18:53,440 --> 00:18:58,620
+Réžia a Produkcia
+Piotr Czołnowski and Mateusz Pawłowski
+
+217
+00:18:58,860 --> 00:19:02,020
+Zvuk od
+Szymon Nawrocki
+
+218
+00:19:02,320 --> 00:19:05,960
+Koordinátor prekladov: Szymon Żak 
+Rozprávač: Arkadiusz Woźniak
+
+219
+00:19:06,120 --> 00:19:11,320
+Špeciálne poďakovanie pre
+Krystian Ogonowski, Szymon Żak,
+Michał Wiśniewski and Mateusz Iwanek
+
+220
+00:19:15,740 --> 00:19:17,740
+Slovenské titulky od Marek33 a Frosty98 (oprava textu) preložené z Anglickej verzie od Bartosz Biały & Szymon Żak.
+

@@ -1,4 +1,20 @@
-# The History of Khorinis - captions of [YouTube](https://www.youtube.com/c/dziejekhorinismod)'s videos
+# The History of Khorinis - captions of YouTube [channel](https://www.youtube.com/c/dziejekhorinismod) videos
+
+## [GOTHIC IS BACK! The HISTORY of KHORINIS](https://www.youtube.com/watch?v=9F3_k5cBDq0)
+* [Polish](q&a/q&a-pl.srt)
+* [English](q&a/q&a-en.srt)
+* [German](q&a/q&a-de.srt) by **Jakub Masztakowski** & **Tomasz Rutkowski** & **Pierre Beckmann**
+* [Russian](q&a/q&a-ru.srt) by **Konstantin Kuliczow** & **Łukasz Wróbel** & **Szymon Żak**
+* [Italian](q&a/q&a-it.srt) by **Enrico Blasoni**
+* [Romanian](q&a/q&a-ro.srt) by **Andrei Florin**
+* [Czech](q&a/q&a-cz.srt) by **Filip Richter**
+* [Serbian](q&a/q&a-srb.srt) by **Darko Socher**
+* [Spanish](q&a/q&a-sp.srt) by **Carlos Fernández**
+* [Latvian](q&a/q&a-lv.srt) by **Uldis Galis** & **Norberts Dukurs**
+* [French](q&a/q&a-fr.srt) by **Michał Szydłowski**
+* [Hungarian](q&a/q&a-hu.srt) by **Forró Norbert**
+* [Slovak](q&a/q&a-sl.srt) by **Marek33** & **Frosty98**
+* [Turkish](q&a/q&a-tu.srt) by **["Ali Kara"](mailto:smomovic@gmail.com)**
 
 ## [Krwawa Kompania - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=EWjxMZIeLjY)
 * [Polish](kompania/kompania-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
@@ -26,7 +42,7 @@
 * [English](sequel/sequel-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [German](sequel/sequel-ge.srt) by [**Simon 'Holymole' Ritzmann**](mailto:ritzmanns@gmx.ch)
 * [Russian](sequel/sequel-ru.sbv) by [**Дмитрий 'Fyrlakith' Ковченко** (**Dmitriy 'Fyrlakith' Kovchenko**)](https://vk.com/enfant_sauvage) & [**Szymon Żak**](http://szymonzak.pl)
-* [Serbian](sequel/sequel-se.sbv) by **[Darko "Unknown"](mailto:ddarchy@yahoo.com)**
+* [Serbian](sequel/sequel-se.sbv) by **[Darko "Darchy" Socher](mailto:ddarchy@yahoo.com)**
 * [Romanian](sequel/sequel-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
 * [Czech](sequel/sequel-cz.sbv) by **[Filip ‘tonyskate‘ Richter](mailto:Tonyskate@seznam.cz)**
 * [Italian](sequel/sequel-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))

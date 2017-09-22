@@ -1,0 +1,889 @@
+1
+00:00:08,820 --> 00:00:14,180
+“Myrtanas karaļvalsts, karaļa Rhobara II apvienota”
+
+2
+00:00:29,900 --> 00:00:30,640
+Sveiki!
+
+3
+00:00:31,100 --> 00:00:33,460
+šeit Arkadiusz „Arkadikuss” Woźniak!
+
+4
+00:00:33,680 --> 00:00:36,460
+Kā jūs redzat, es varu runāt arī angļu valodā!
+
+5
+00:00:36,720 --> 00:00:42,280
+Mēs noteikti saprotam cik grūti jums ir skatīties mūsu materiālus Poļu valodā
+
+6
+00:00:42,420 --> 00:00:44,880
+un ar subtitriem jūsu dzimtajā valodā,
+
+7
+00:00:45,080 --> 00:00:48,920
+tāpēc mēs izlēmām izveidot īpašu video Angļu valodā,
+
+8
+00:00:49,120 --> 00:00:53,440
+domātu tieši priekš jums – "History of Khorinis" faniem
+
+9
+00:00:53,680 --> 00:00:56,260
+no ārzemēm un visas pasaules!
+
+10
+00:00:56,540 --> 00:01:00,940
+Kā jau parasti, esam arī sagatavojuši jums subtitrus vairākās valodās.
+
+11
+00:01:01,140 --> 00:01:05,240
+Šajā video mēs atbildēsim uz visiem svarīgajiem jautājumiem par projektu,
+
+12
+00:01:05,420 --> 00:01:11,780
+tā attīstību un par mums – Soulfire komandu, kas strādā pie šī projekta.
+
+13
+00:01:11,880 --> 00:01:15,260
+Tāpēc palieciet uz mirkli un jauku skatīšanos!
+
+14
+00:01:15,460 --> 00:01:20,120
+Pirms jautājumiem un atbildēm ļaujiet mums izstāstīt jums nedaudz svarīgas informācijas.
+
+15
+00:01:20,380 --> 00:01:23,360
+Pirmkārt, mēs gribam jums pateikties par atbalstu.
+
+16
+00:01:23,540 --> 00:01:28,030
+Neskaitot vairākus desmitus tūkstošus sekotāju no Polijas, daži tūkstoši no visas
+
+17
+00:01:28,030 --> 00:01:31,680
+pasaules seko mums sociālajos tīklos!
+
+18
+00:01:31,680 --> 00:01:36,520
+Jūs pārstāvat apmēram 20% skatītāju mūsu YouTube kanālā!
+
+19
+00:01:36,520 --> 00:01:42,940
+Mēs esam īpaši pateicīgi, jo jūs patiesībā sekojat Poļu projektam – kas joprojām turpinās.
+
+20
+00:01:43,100 --> 00:01:47,820
+Tas parāda ne tikai jūsu pieķeršanos "Gothic" sāgai, bet tas arī nozīmē to, ka šī spēle ir
+
+21
+00:01:47,820 --> 00:01:53,200
+unikāla un joprojām populāra starp jums pat ļoti ilgi pēc izlaišanas!
+
+22
+00:01:53,320 --> 00:01:56,179
+Nav svarīgi no KURAS valsts mēs esam!
+
+23
+00:01:56,180 --> 00:02:01,120
+MĒS VISI MĪLAM UN SLAVĒJAM ŠO EPISKO VĀCU SPĒLI, SAUKTU "GOTHIC"!
+
+24
+00:02:01,280 --> 00:02:03,720
+Un tas ir skaisti!
+
+25
+00:02:04,300 --> 00:02:09,640
+Kā papildu informāciju jums vajadzētu zināt ka "Gothic" Polijā tika pārdota
+
+26
+00:02:09,640 --> 00:02:14,140
+gandrīz miljons eksemplāros, kas ir NETICAMI!
+
+27
+00:02:14,140 --> 00:02:18,120
+Vislielākā skatītāju grupa protams ir vācieši un krievi,
+
+28
+00:02:18,260 --> 00:02:26,240
+kas līdz šai dienai pulcējas World of Gothic Deutschland, World of Players Russia un RPG Russia forumos.
+
+29
+00:02:26,520 --> 00:02:31,920
+Nākamā skaitliskākā grupa ir mūsu Serbu un Rumāņu brāļi, kuri pulcējas
+
+30
+00:02:32,100 --> 00:02:34,360
+World of Gothic Romania mājaslapā.
+
+31
+00:02:35,220 --> 00:02:40,800
+Vēlviena milzīga skatītāju grupa ir itāļi, kuru kopiena pulcējas Gothic Italia mājaslapā.
+
+32
+00:02:42,180 --> 00:02:47,760
+Cilvēki no Spānijas un to varenās mājaslapas Gothic Clan Espańa, kas izveidota
+
+33
+00:02:48,020 --> 00:02:54,600
+tieši pēc pirmās "Gothic" iznākšanas un kurā mēs varam sastapt daudzus cilvēkus arī no Dienvidamerikas.
+
+34
+00:02:55,000 --> 00:02:56,840
+Nākamā lielā grupa ir no Francijas,
+
+35
+00:02:56,920 --> 00:03:00,400
+kura pulcējas mājaslapā Gothic Universe France
+
+36
+00:03:00,560 --> 00:03:02,560
+kura mūsdienās vairs praktiski neeksistē.
+
+37
+00:03:02,880 --> 00:03:07,480
+Šajā brīdī mēs arī gribam pateikties jums, jo Polijā ir mīts, ka "Gothic" panākumi
+
+38
+00:03:07,480 --> 00:03:10,180
+rietumos bija ļoti vāji.
+
+39
+00:03:10,180 --> 00:03:16,090
+Protams tie bija mazāki, tomēr jūsu klātbūtne un interese šajā projektā parāda mums
+
+40
+00:03:16,090 --> 00:03:18,800
+cik ļoti jūs ir ietekmējusi "Gothic" pēc visiem šiem gadiem.
+
+41
+00:03:19,020 --> 00:03:21,700
+Jo īpaši cilvēkus no Latīņu valodu valstīm.
+
+42
+00:03:21,980 --> 00:03:29,520
+Mūsu brāļi no Ungārijas, Čehu Republikas un Slovākijas pulcējas mājaslapā Gothicz.net.
+
+43
+00:03:31,080 --> 00:03:36,460
+Turpretī, skaitliski mazāka grupa fanu no Ziemeļamerikas un Britu salām,
+
+44
+00:03:36,660 --> 00:03:39,000
+pulcējas Worldofgothic.com mājaslapā.
+
+45
+00:03:39,480 --> 00:03:44,900
+Turklāt, mūsu projektam moddb.com mājaslapā seko cilvēki no tādām valstīm kā
+
+46
+00:03:45,100 --> 00:03:49,180
+Slovēnijas, Latvijas, Marokas, Bulgārijas un Kolumbijas.
+
+47
+00:03:49,500 --> 00:03:50,660
+Vēlu jums visu to labāko!
+
+48
+00:03:51,300 --> 00:03:57,020
+Gotika ar pilnīgu vietējo valodu tekstu ierunāšanu tika izlaista tikai Vācijā, Polijā
+
+49
+00:03:57,140 --> 00:04:01,080
+Krievijā un angliski runājošās valstīs – ASV un Apvienotajā Karalistē.
+
+50
+00:04:01,440 --> 00:04:05,580
+Bet par jums pārējiem, mēs apbrīnojam, ka spēle, ko jūs spēlējāt ar subtitriem jūsu
+
+51
+00:04:05,580 --> 00:04:10,040
+valodās ar angliski ierunātu tekstu ir jūsos veidojusi tik lieliskas emocijas.
+
+52
+00:04:10,260 --> 00:04:12,860
+Jūs vēl joprojām par to interesējaties.
+
+53
+00:04:13,080 --> 00:04:15,520
+No mūsu skatapunkta tas ir neticami!
+
+54
+00:04:15,660 --> 00:04:21,440
+Un beigās jums vajadzētu zināt, ka jūs, visi fani no ārzemēm,
+
+55
+00:04:21,660 --> 00:04:25,980
+jūs esat mums tikpat SVARĪGI kā fani no Polijas.
+
+56
+00:04:26,000 --> 00:04:31,460
+Mēs jūs cienam, novērtējam un mēs mīlam šo spēli tik pat daudz cik jūs.
+
+57
+00:04:31,560 --> 00:04:32,720
+Vai esat gatavi?
+
+58
+00:04:32,880 --> 00:04:35,300
+Tad sāksim jautājumu un atbilžu daļu!
+
+59
+00:04:35,500 --> 00:04:38,480
+Kas ir "History of Khorinis"?
+
+60
+00:04:38,880 --> 00:04:44,040
+"History of Khorinis" ir neatkarīgs stāsts, kas norisinās pirms "Gothic" sāgas.
+
+61
+00:04:44,460 --> 00:04:49,520
+Tas ir stāsts, kas norisinās vienpadsmit gadu pirms pirmās "Gothic" notikumiem.
+
+62
+00:04:49,680 --> 00:04:54,020
+Notikumi norisinās gadu pirms maģiskās barjeras izveidošanas.
+
+63
+00:04:54,280 --> 00:04:59,700
+Projekta publicēšana paredzēta divās daļās – vispirms uz jaunās Vaduz salas
+
+64
+00:04:59,900 --> 00:05:02,140
+un pēctam uz Khorinis salas.
+
+65
+00:05:03,740 --> 00:05:08,220
+Projektā parādās jauna sala, jo mēs gribējām jums parādīt vēlvienu šīs
+
+66
+00:05:08,260 --> 00:05:13,300
+varenās karaļvalsts daļu un parādīt jums citu galvaspilsētu, ne tikai Khorinis pilsētu.
+
+67
+00:05:13,560 --> 00:05:17,600
+Turklāt, šī papildus sala padarīs mūsu stāstu interesantāku,
+
+68
+00:05:17,780 --> 00:05:19,640
+un jums būs jautrāk.
+
+69
+00:05:19,940 --> 00:05:26,180
+Tas arī raksturojas ar profesionālu tekstu ierunāšanu poļu valodā, nākotnē arī ar profesionālu
+
+70
+00:05:26,180 --> 00:05:31,140
+arī ar profesionālu tekstu ierunāšanu angļu valodā, un neparastu uzmanību detaļām.
+
+71
+00:05:31,500 --> 00:05:34,320
+"History of Khorinis" ir bezpeļņas projekts
+
+72
+00:05:34,600 --> 00:05:36,840
+un tas būs pieejams par velti.
+
+73
+00:05:38,500 --> 00:05:40,500
+Kā radās ideja par balss ierakstiem?
+
+74
+00:05:40,500 --> 00:05:43,480
+Kā jūs atradāt aktierus šim projektam?
+
+75
+00:05:43,760 --> 00:05:48,860
+Viena no svarīgākajām lietām, kas padarīja "Gothic" unikālu Polijā bija pasaules klases, brīnišķīgā
+
+76
+00:05:48,860 --> 00:05:52,860
+balsu ierakste, kurā piedalījās daudzi izcili poļu aktieri.
+
+77
+00:05:53,060 --> 00:05:58,020
+Tā kā komandas vadītājs nāk no labi pazīstamas filmu veidotāju ģimenes, mums izdevās
+
+78
+00:05:58,029 --> 00:06:03,960
+mums izdevās sameklēt daudzu filmu, teātru un aktierus - tekstu ierunātājus par brīvu.
+
+79
+00:06:04,360 --> 00:06:08,360
+Tas nozīmē, ka visi aktieri un lektors palīdz par velti –
+
+80
+00:06:08,620 --> 00:06:09,660
+ieskaitot mani.
+
+81
+00:06:09,820 --> 00:06:14,740
+Pateicoties mūsu draugu laipnībai mums arī ir brīva pieeja profesionālām balsu ierakstu studijām
+
+82
+00:06:14,820 --> 00:06:20,480
+trīs lielās pilsētās: Varšavā – Galvaspilsētā, Łódź un Wrocław (Breslau).
+
+83
+00:06:20,760 --> 00:06:26,080
+Tas mums ir atļāvis savākt sapņu komandu, jo mums nav jāuztraucas par nekādām izmaksām.
+
+84
+00:06:26,400 --> 00:06:31,960
+Mēs iedrošinām dažus aktierus individuāli, parādot tiem mūsu projekta apmērus, un godinām
+
+85
+00:06:31,960 --> 00:06:34,480
+viņus mūsu dokumentālajos video.
+
+86
+00:06:34,700 --> 00:06:39,879
+Turklāt, visus varoņus no Gotikas ierunās tie paši aktieri, kas tos ierunāja
+
+87
+00:06:39,880 --> 00:06:41,800
+oriģinālajā spēles poļu versijā.
+
+88
+00:06:42,400 --> 00:06:47,340
+Kādēļ mēs sākām ierakstīt balsis tieši tagad?
+
+89
+00:06:47,780 --> 00:06:53,500
+Galvenais iemesls ierakstu sākšanai ir dažu aktieru vecums un veselības stāvoklis.
+
+90
+00:06:53,740 --> 00:06:58,160
+Prioritāte ir dota vecākiem aktieriem –
+
+91
+00:06:58,440 --> 00:07:00,760
+astoņdesmit un deviņdesmits gadu vecumā.
+
+92
+00:07:00,960 --> 00:07:06,120
+Turklāt, prioritāte arī tiek dota aktieriem, kuri cieš no nopietnām slimībām.
+
+93
+00:07:06,300 --> 00:07:10,000
+Abos gadījumos nav iespējams atlikt ierakstīšanu.
+
+94
+00:07:10,180 --> 00:07:16,500
+Vēl viens svarīgs iemesls ir fakts, ka ierakstu studijas un lielākā daļa aktieru palīdz par velti.
+
+95
+00:07:16,720 --> 00:07:21,120
+Tādēļ, mums jāpielāgojas viņu brīvajam laikam.
+
+96
+00:07:21,280 --> 00:07:25,839
+Papildus jāņem vērā projekta apmēri, ir svarīgi sākt
+
+97
+00:07:25,840 --> 00:07:30,020
+ierakstus cik ātri vien iespējams un neatstāt tos uz pēdējo minūti.
+
+98
+00:07:30,180 --> 00:07:34,719
+Turklāt, nav nekā slikta tajā, ka ieraksti tiek veikti un ievietoti spēlē
+
+99
+00:07:34,720 --> 00:07:39,960
+attīstības posmā – līdzīgi tika darīts visās "Witcher" spēles daļās.
+
+100
+00:07:40,200 --> 00:07:44,940
+Tas ļauj MUMS – autoriem – redzēt mūsu vīziju praksē iekš spēles,
+
+101
+00:07:45,100 --> 00:07:51,580
+un dod mums iespēju parādīt JUMS visus mūsu balsu un skaņu efektus darbībā.
+
+102
+00:07:52,720 --> 00:07:56,040
+Cik gadus projekts ir ticis izstrādāts?
+
+103
+00:07:56,440 --> 00:08:01,160
+Projekts pašreizējā formā ir ticis veidots no 2015. gada beigām.
+
+104
+00:08:01,300 --> 00:08:04,220
+Pirmās idejas parādījās 2009. gadā.
+
+105
+00:08:04,540 --> 00:08:10,560
+Tajā laikā tas bija PAVISAM cits projekts, kura kvalitāte bija daudz zemāka nekā pašreizējam.
+
+106
+00:08:10,900 --> 00:08:15,560
+Mēs izveidosim atsevišķu video materiālu par projekta vēsturi nākotnē.
+
+107
+00:08:16,680 --> 00:08:19,580
+Kad "History of Khorinis" tiks izlaista?
+
+108
+00:08:19,820 --> 00:08:24,960
+Mūsu projekts ir posmā kurā jāsaliek visi elementi kopā – mēs pārrakstām
+
+109
+00:08:24,980 --> 00:08:30,060
+skriptus spēles kodā, izvietojam cilvēkus, priekšmetus un uzdevumus gatavajā pasaulē
+
+110
+00:08:30,240 --> 00:08:33,880
+un tajā pašā posmā pievienojam balss ierakstus.
+
+111
+00:08:34,020 --> 00:08:40,420
+Turklāt, mums jāizveido balsu ieraksti 50 aktieriem un iespējams šis skaitlis palielināsies.
+
+112
+00:08:40,820 --> 00:08:46,580
+Problēma ir tāda, ka liela kompānija var izīrēt ierakstu studiju un algot aktierus uz mēnesi.
+
+113
+00:08:46,760 --> 00:08:53,250
+Tāpēc ir neiespējami novērtēt precīzu izlaišanas datumu, jo neviens vēl nav veidojis
+
+114
+00:08:53,250 --> 00:08:56,620
+tik lielu bezpeļņas projektu.
+
+115
+00:08:57,060 --> 00:09:02,160
+Mēs pielāgojamies visiem, kuri mums palīdz par velti, kurus mēs pieminējām iepriekš.
+
+116
+00:09:02,400 --> 00:09:07,780
+Mēs nenosauksim nekādus izlaišanas datumus līdz nebūsim projekta beigu posmā.
+
+117
+00:09:08,620 --> 00:09:11,440
+Kad tiks izlaista projekta angļu valodas versija?
+
+118
+00:09:11,440 --> 00:09:14,480
+Un cik valodu versijas tiks gatavotas?
+
+119
+00:09:15,029 --> 00:09:19,920
+Sakarā ar to ka mēs veiksim izmaiņas mūsu projektā tā beigu posmā,
+
+120
+00:09:19,920 --> 00:09:26,940
+mēs izlēmām ka būs labāk sākt tulkošanu ar Poļu versijas izlaišanu.
+
+121
+00:09:27,200 --> 00:09:31,720
+Mēs pieņemam ka tulkošana angļu valodā aizņems apmēram 3 mēnešus.
+
+122
+00:09:31,980 --> 00:09:35,900
+Darbs pie tulkošanas būs gan ātrs, gan profesionāls.
+
+123
+00:09:36,260 --> 00:09:41,180
+Turklāt, mums ir apstiprinājums no Gothic Italia komandas, ka viņi uzņemsies
+
+124
+00:09:41,180 --> 00:09:46,000
+tulkošanu Itāļu valodā, tūlīt pēc angļu valodas tulkojuma.
+
+125
+00:09:46,160 --> 00:09:50,810
+Viņi ir pieredzējuši tulki, un ir atbildīgi par tulkojumiem
+
+126
+00:09:50,810 --> 00:09:56,060
+tādiem projektiem, kā "Community Story project", jeb "Gothic 3 official patch".
+
+127
+00:09:56,240 --> 00:10:02,660
+Mūsu galvenais programmētājs - Szymon “Szmyk” Żak – ir prasmīgs krievu valodā,
+
+128
+00:10:02,660 --> 00:10:06,980
+tāpēc viņš noteikti vadīs tulkošanu krievu valodā.
+
+129
+00:10:07,440 --> 00:10:13,080
+Pašsaprotamu iemeslu dēļ, mēs mēģināsim gūt palīdzību ar "History of Khorinis" tulkošanu vācu valodā.
+
+130
+00:10:13,260 --> 00:10:19,260
+Visas citas valodas versijas būs fanu rokās, atkarībā no to intereses un vēlmes palīdzēt.
+
+131
+00:10:19,660 --> 00:10:25,140
+Mēs arī plānojam izveidot profesionālus balss ierakstus angļu valodā, jo daudziem no mūsu jaunākajiem
+
+132
+00:10:25,280 --> 00:10:30,820
+aktieriem ir lielisks Angļu akcents, liela vēlme un profesionālisms
+
+133
+00:10:30,980 --> 00:10:33,180
+balsu ierakstīšanai priekš spēles.
+
+134
+00:10:33,400 --> 00:10:36,840
+Pašlaik mēs varam apstiprināt šādas četras valodu versijas:
+
+135
+00:10:37,040 --> 00:10:39,900
+angļu, itāļu, krievu, un vācu.
+
+136
+00:10:41,340 --> 00:10:45,940
+Kā mēs zinām ka barjera ir desmit gadus veca?
+
+137
+00:10:46,420 --> 00:10:50,280
+Oficiālajā komiksu grāmatā “Gothic Der Comic” kā arī spēles rokasgrāmatās saistītām ar
+
+138
+00:10:50,280 --> 00:10:54,180
+vienu no "Gothic" spēlēm, barjeras vecums parādās divreiz.
+
+139
+00:10:54,600 --> 00:10:58,420
+Viena saka, ka tā ir 10 gadus veca, otra 20.
+
+140
+00:10:58,660 --> 00:11:04,880
+Tad nu mums bija jāizdara izvēle sakarā ar īsto vecumu, kas vislabāk piestāvētu spēļu hronoloģijai.
+
+141
+00:11:05,220 --> 00:11:09,100
+Pašā spēlē, maģiskās barjeras vecums neparādās.
+
+142
+00:11:09,320 --> 00:11:13,140
+Ir tikai minēts, ka barjera varētu būt 10 vai 20 gadus veca.
+
+143
+00:11:13,380 --> 00:11:19,280
+Turklāt, 20 gadus veca barjera izraisītu loģiskas un hronoloģiskas problēmas.
+
+144
+00:11:19,720 --> 00:11:24,160
+Mēs drīz sagatavosim īpašu video sakarā ar maģiskās barjeras īsto vecumu.
+
+145
+00:11:24,280 --> 00:11:29,920
+Video būs subtitri visās valodās, lai jums izskaidrotu mūsu iemeslus par
+
+146
+00:11:29,920 --> 00:11:32,320
+10 gadus vecās barjeras izvēli.
+
+147
+00:11:33,000 --> 00:11:35,920
+Kādēļ jūs neveidojat paši savu spēli?
+
+148
+00:11:36,240 --> 00:11:38,620
+Daļa no cilvēkiem, kuri strādā pie mūsu projekta
+
+149
+00:11:38,860 --> 00:11:41,520
+ir strādājuši, vai turpina strādāt lielākajās Poļu un
+
+150
+00:11:41,820 --> 00:11:46,300
+pasaules datorspēļu kompānijās, elektronikas vai video industrijā.
+
+151
+00:11:46,580 --> 00:11:51,700
+Mēs ļoti labi apzināmies cik sarežģīts uzdevums būtu veidot pašiem savu spēli, cik daudz
+
+152
+00:11:51,700 --> 00:11:57,240
+finansiālu izmaksu tas prasītu un cik liela būtu tās izgāšanās iespējamība.
+
+153
+00:11:57,420 --> 00:12:01,000
+Tāpēc mums nav ambīciju šajā sakarā.
+
+154
+00:12:01,120 --> 00:12:06,140
+Mūsu mērķis ir godāt pirmo divu "Gothic" stāstu un atmosfēru,
+
+155
+00:12:06,380 --> 00:12:11,900
+un dot prieku simtiem tūkstošu fanu Polijā un pasaulē.
+
+156
+00:12:12,140 --> 00:12:18,220
+Mums visiem ir nopietna attieksme pret uzdevumiem kurus veic mūsu komanda, un pāri visam,
+
+157
+00:12:18,360 --> 00:12:23,400
+ticība projektam un mīlestība pret vareno spēli, "Gothic".
+
+158
+00:12:23,980 --> 00:12:26,120
+Vai mēs varam jūs kaut kā atbalstīt?
+
+159
+00:12:26,380 --> 00:12:32,280
+Visa informācija un saite ziedojumiem var tikt atrasta video aprakstā.
+
+160
+00:12:32,480 --> 00:12:35,920
+Vai Piranha Bytes zin par jūsu projektu?
+
+161
+00:12:36,200 --> 00:12:38,640
+Šis jautājums parādās ļoti bieži.
+
+162
+00:12:38,860 --> 00:12:44,880
+Mēs varam apstiprināt, ka oficiālais Piranha Bytes profils seko mūsu profilam Facebook,
+
+163
+00:12:45,140 --> 00:12:48,760
+tātad tas nozīmē, ka viņi apstiprina savu interesi oficiāli.
+
+164
+00:12:49,100 --> 00:12:54,340
+Kā papildinājumu, mēs gribētu teikt, ka projekts neaizskar stāstu un atrašanās vietas
+
+165
+00:12:54,340 --> 00:13:01,620
+no trešās "Gothic" daļas, jo mūsu projekta stāsts attiecās tikai uz pirmajām divām.
+
+166
+00:13:03,040 --> 00:13:07,520
+Šīs bija visas atbildes uz jūsu biežāk uzdotajiem jautājumiem.
+
+167
+00:13:07,820 --> 00:13:11,740
+Ja jūs vēlaties sekot šim brīnišķīgajam projektam, mēs iedrošinām jūs
+
+168
+00:13:11,900 --> 00:13:16,220
+abonēt mūsu YouTube kanālu un vērot mūs sociālajos tīklos!
+
+169
+00:13:16,440 --> 00:13:22,500
+Mēs rosinām jūs dalīties komentāros ar jūsu stāstiem un atmiņām par "Gothic".
+
+170
+00:13:22,780 --> 00:13:28,400
+mēs esam droši ka tas būs interesanti mums visiem, īpaši poļu "Gothic" faniem,
+
+171
+00:13:28,400 --> 00:13:32,620
+kuri nemaz īsti nezin par "Gothic" popularitāti pasaulē.
+
+172
+00:13:32,900 --> 00:13:34,500
+Pārsteidziet mūs!
+
+173
+00:13:34,860 --> 00:13:40,320
+Mums ir arī liels lūgums – lai sasniegtu vairāk "Gothic" fanu:
+
+174
+00:13:40,460 --> 00:13:46,080
+Lūdzu informējiet viņus par mūsu projektu kā vien varat, jūsu pašu valstīs!
+
+175
+00:13:46,640 --> 00:13:52,060
+Liels paldies Bartosz Biały par angļu valodas tulkojuma sagatavošanu šim video.
+
+176
+00:13:52,420 --> 00:13:56,060
+Viņš ir atbildīgs arī par visām pašreizējām tulkošanām.
+
+177
+00:13:56,860 --> 00:14:02,560
+Liels paldies vācu valodas tulkojuma sagatavošanā  Pierre “ThielHater”,
+
+178
+00:14:02,900 --> 00:14:10,140
+kurš ir liels Myrthana pasaules fans, kā mēs, un kurš ir strādājis pie "Gothic: Reloaded Mod" daudzus gadus.
+
+179
+00:14:10,480 --> 00:14:15,520
+Šīs modifikācijas mērķis ir uzlabot video detalizāciju pirmajai "Gothic" līdz
+
+180
+00:14:15,529 --> 00:14:22,579
+visaugstāk iespējamam līmenim, nezaudējot oriģinālo Raktuvju Ielejas un "Gothic" atmosfēru
+
+181
+00:14:22,580 --> 00:14:25,180
+no 2001. gada vienlaikus.
+
+182
+00:14:25,740 --> 00:14:34,180
+Mūsu sadarbība sākās atpakaļ 2010. gadā, kad Pierre dalījās savā remodelētajā, detalizētajā Vecās Nometnes modelī.
+
+183
+00:14:34,480 --> 00:14:38,060
+Projekts pašlaik ir beigu stadijā.
+
+184
+00:14:38,260 --> 00:14:43,460
+Tā demo versiju, kurā pieejama spēlējama pirmā nodaļa, var lejupielādēt oficiālajā mājaslapā.
+
+185
+00:14:43,680 --> 00:14:47,180
+Privāti Pierre strādā, kā profesionāls programmētājs.
+
+186
+00:14:47,360 --> 00:14:50,320
+Viņa komandas darba rezultāti ir vienkārši lieliski!
+
+187
+00:14:50,540 --> 00:14:55,100
+Mēs iedrošinām jūs apskatīt viņu projektu, un paldies tev, Pierre, par visu!
+
+188
+00:14:55,320 --> 00:14:57,800
+Laba vēlējumi visiem vāciešiem.
+
+189
+00:15:14,020 --> 00:15:19,980
+Tomēr, vislielākais paldies jāsaka Jakub Masztakowski, Tomasz Rutkowski & Dawid Szpilka, kuri tulkoja
+
+190
+00:15:20,180 --> 00:15:24,640
+visu poļu tekstu vācu valodā!
+
+191
+00:15:24,820 --> 00:15:28,980
+Vēl paldies par krievu tulkojumu Dmitriy Kovchenko,
+
+192
+00:15:29,160 --> 00:15:37,220
+kurš atbildīgs par tulkojumu video "Gothic Sequel", un palīdz mums vadīt mūsu profilu krievu VKontakte mājaslapā.
+
+193
+00:15:37,720 --> 00:15:42,360
+Tieši tāpat paldies Konstantin “tyson90” Kulichyov & Łukasz Wróbel,
+
+194
+00:15:42,540 --> 00:15:47,380
+kurš tulkoja tekstu tieši no poļu uz krievu valodu!
+
+195
+00:15:47,800 --> 00:15:53,320
+Starp citu, mēs ielūdzam visus fanus no VK sekot mūsu profilam.
+
+196
+00:16:07,400 --> 00:16:11,680
+Milzīgs paldies Gothic Italia komandai par itāļu tulkojumu.
+
+197
+00:16:11,900 --> 00:16:15,420
+Puiši veic lielisku darbu Leonardo vadībā.
+
+198
+00:16:15,720 --> 00:16:20,120
+Kā jau mēs minējām iepriekš, viņi ir atbildīgi par tādu projektu kā
+
+199
+00:16:20,120 --> 00:16:25,200
+"Community Story Project", "Quest Pack" vai "Content Mod" tulkošanu itāļu valodā.
+
+200
+00:16:25,440 --> 00:16:33,140
+Viņi arī ir atbildīgi par tulkojumiem visiem mūsu video materiāliem, un arī "History of Khorinis" nākotnē.
+
+201
+00:16:33,400 --> 00:16:37,300
+Turklāt, viņi drošvien ir lielāki "Gothic" fani nekā mēs.
+
+202
+00:16:37,560 --> 00:16:43,400
+Pierādījums tam ir fakts, ka viņi pat iztulkoja dokumentālo filmu par Andrzej Tomecki,
+
+203
+00:16:43,580 --> 00:16:46,240
+kurš ir saistīts ar Poļu spēles versiju!
+
+204
+00:16:46,440 --> 00:16:54,140
+Dark – mūsu komandas vadītājs – ir Itālijā vairākas reizes gadā, tādēļ viņš aicina jūs nākošreiz iedzert alu!
+
+205
+00:16:58,760 --> 00:17:03,320
+Mēs esam daudz parādā Darchy “Darko” Soyer par serbu valodas tulkojumu.
+
+206
+00:17:03,580 --> 00:17:12,360
+Darko ir apdāvināts grafikas dizaineris, kurš strādājis pie tekstūrām milzīgajam "Community Story Project" priekš Gothic 3 daudzus gadus atpakaļ.
+
+207
+00:17:12,620 --> 00:17:18,760
+Ar viņa tulkojumu, mūsu video var skatīties ne tikai serbi, bet arī pilsoņi
+
+208
+00:17:18,760 --> 00:17:24,040
+no iepriekšējās Dienvidslāvijas republikas – slovēņi, horvāti un bosnieši.
+
+209
+00:17:27,740 --> 00:17:32,560
+Liels paldies Filip “tonyskate” Richter par čehu tulkojumu,
+
+210
+00:17:32,880 --> 00:17:36,100
+kurš arī ir moderators gothiCZ.net mājaslapā.
+
+211
+00:17:39,580 --> 00:17:45,660
+Liels paldies Ohnedich, Losif Alexandru and Mircrea Enache par rumāņu tulkojumu,
+
+212
+00:17:45,880 --> 00:17:50,340
+kurš arī ir autors angļu valodas tulkojumam projektam “Intrusion”.
+
+213
+00:17:54,740 --> 00:18:01,600
+Par spāņu valodas tulkojumu īpašs paldies Carlos Fdez, kurš ir moderators LordSaradoc tiešraidēs!
+
+214
+00:18:12,640 --> 00:18:16,200
+Paldies Uldim Gailim & Norberts Dukurs par latviešu valodas tulkojumu.
+
+215
+00:18:18,860 --> 00:18:23,720
+Visa tā labākā vēlējumi no Arkadiusz Woźniak un "History of Khorinis" komandas.
+
+216
+00:18:24,160 --> 00:18:26,960
+Lai Innos vienmēr skatās pār jums!
+
+217
+00:18:53,440 --> 00:18:58,620
+Režisēts uz izpildīts -
+Piotr Czołnowski un Mateusz Pawłowski
+
+218
+00:18:58,860 --> 00:19:02,020
+Skaņa -
+Szymon Nawrocki
+
+219
+00:19:02,320 --> 00:19:05,960
+Tulkojumu koordinators: Szymon Żak 
+Ierunāja: Arkadiusz Woźniak
+
+220
+00:19:06,120 --> 00:19:11,320
+Liels paldies
+Krystian Ogonowski, Szymon Żak,
+Michał Wiśniewski un Mateusz Iwanek
+
+221
+00:19:15,740 --> 00:19:17,740
+Subtitri - Uldis Galis un Norberts "RangerOrbits" Dukurs
+

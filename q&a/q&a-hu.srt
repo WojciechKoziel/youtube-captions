@@ -1,0 +1,889 @@
+1
+00:00:08,600 --> 00:00:13,960
+“Myrtana Királysága, II. Rhobar király által egyesítve”
+
+2
+00:00:29,920 --> 00:00:30,720
+Üdv!
+
+3
+00:00:31,060 --> 00:00:33,120
+Arkadiusz “Arkadikuss” Woźniak vagyok!
+
+4
+00:00:33,580 --> 00:00:36,380
+Amint látjátok, angolul is beszélek!
+
+5
+00:00:36,720 --> 00:00:41,620
+Tisztában vagyunk vele, hogy mekkora kihívást jelent számotokra lengyel kommentárral
+
+6
+00:00:41,840 --> 00:00:44,220
+és angol felirattal nézni a videóinkat,
+
+7
+00:00:45,240 --> 00:00:48,920
+ezért elhatároztuk, hogy készítünk egy különleges videót angol kommentárral
+
+8
+00:00:49,120 --> 00:00:53,440
+kifejezetten nektek — a History of Khorinis rajongóinak,
+
+9
+00:00:53,680 --> 00:00:56,260
+a világ minden táján!
+
+10
+00:00:56,540 --> 00:01:00,940
+Szokás szerint készítettünk nektek különböző nyelvű feliratokat.
+
+11
+00:01:01,140 --> 00:01:05,240
+Ebben az anyagban adunk választ a projektet érintő összes fontos kérdésre,
+
+12
+00:01:05,420 --> 00:01:11,780
+a fejlesztésről, és rólunk — a SoulFire csapatról, amely a History of Khorinison dolgozik.
+
+13
+00:01:11,880 --> 00:01:15,260
+Maradj egy darabig, és élvezd a műsort!
+
+14
+00:01:15,460 --> 00:01:20,120
+Mielőtt rátérnénk a kérdésekre és válaszokra, megosztanánk veletek néhány fontos információt.
+
+15
+00:01:20,380 --> 00:01:23,360
+Először is, köszönjük a támogatásotokat!
+
+16
+00:01:23,540 --> 00:01:28,030
+A lengyel követők tízezrein kívül, néhány ezren
+
+17
+00:01:28,030 --> 00:01:31,680
+a világ többi részéről is követtek minket a közösségi médián!
+
+18
+00:01:31,680 --> 00:01:36,520
+Ugyancsak ti adjátok a You Tube-megtekintéseink kb. 20%-át!
+
+19
+00:01:36,520 --> 00:01:42,940
+Különösen hálásak vagyunk, amiért követtek egy lengyel projektet — amely jelenleg is zajlik.
+
+20
+00:01:43,100 --> 00:01:47,820
+Ez nem csak a Gothic-sorozat iránti rajongásotokat bizonyítja, hanem azt is, hogy ez a játék
+
+21
+00:01:47,820 --> 00:01:53,200
+különleges, és még mindig népszerű, ahhoz képest, hogy milyen régen jelent meg!
+
+22
+00:01:53,320 --> 00:01:56,179
+Nem számít, MELYIK országban élünk!
+
+23
+00:01:56,180 --> 00:02:01,120
+MIND SZERETJÜK ÉS DICSŐÍTJÜK A GOTHICOT, EZT A KIRÁLY NÉMET JÁTÉKOT!
+
+24
+00:02:01,280 --> 00:02:03,720
+És ez nagyszerű!
+
+25
+00:02:04,300 --> 00:02:09,640
+További információ, amit tudnotok kell, hogy a Gothicból Lengyelországban összesen
+
+26
+00:02:09,640 --> 00:02:14,140
+majdnem egymillió darabot adtak el, ami ELKÉPESZTŐ!
+
+27
+00:02:14,140 --> 00:02:18,120
+A megtekintők legnagyobb része természetesen német, vagy orosz,
+
+28
+00:02:18,260 --> 00:02:26,240
+akik a mai napig összegyűlnek a World of Gothic Deutschland, a World of Players Russia, illetve az RPG Russia oldalakon.
+
+29
+00:02:26,520 --> 00:02:31,920
+Szerb és román testvéreink alkotják a következő nagyszámú réteget, akik
+
+30
+00:02:32,100 --> 00:02:34,360
+a World of Gothic Romanián gyülekeznek.
+
+31
+00:02:35,220 --> 00:02:40,800
+Jelentős továbbá az olasz megtekintők száma, az ő közösségük a Gothic Italián csoportosul.
+
+32
+00:02:42,180 --> 00:02:47,760
+A spanyolok, és a Gothic Clan Espańa nevű dícső portáljuk, amely mindjárt
+
+33
+00:02:48,020 --> 00:02:54,600
+a Gothic 1 megjelenése után jött létre, és amelyet sok dél-amerikai is látogat.
+
+34
+00:02:55,000 --> 00:02:56,840
+További nagy csoport: a franciák,
+
+35
+00:02:56,920 --> 00:03:00,400
+akik a Gothic Universe France nevű, ma már nem működő
+
+36
+00:03:00,560 --> 00:03:02,560
+portálon gyűltek össze.
+
+37
+00:03:02,880 --> 00:03:07,480
+És most, köszönetet is mondunk nektek, mert Lengyelországban úgy gondolják, hogy Nyugaton
+
+38
+00:03:07,480 --> 00:03:10,180
+nem aratott nagy sikert a Gothic.
+
+39
+00:03:10,180 --> 00:03:16,090
+Ebben ugyan van igazság, azonban a jelenlétetek és a projekt iránti érdeklődésetek bizonyítja,
+
+40
+00:03:16,090 --> 00:03:18,800
+hogy a Gothic ILYEN SOK év után is fontos nektek.
+
+41
+00:03:19,020 --> 00:03:21,700
+Ez főleg az újlatin nyelvű országokban élőkre igaz.
+
+42
+00:03:21,980 --> 00:03:29,520
+A magyar, cseh, és szlovák testvéreink. Az ő oldaluk a Gothicz.net.
+
+43
+00:03:31,080 --> 00:03:36,460
+Hozzájuk képest kevesebb a rajongó Észak-Amerikában, és a Brit-szigeteken,
+
+44
+00:03:36,660 --> 00:03:39,000
+ők a WorldOfGothic.com oldalon gyülekeznek.
+
+45
+00:03:39,480 --> 00:03:44,900
+Továbbá, a projektünket követik a ModDB.com-on is, olyanok, akik például
+
+46
+00:03:45,100 --> 00:03:49,180
+Szlovéniában, Lettországban, Marokkóban, Bulgariában, és Kolumbiában élnek.
+
+47
+00:03:49,500 --> 00:03:50,660
+Üdvözöljük őket is!
+
+48
+00:03:51,300 --> 00:03:57,020
+A Gothic teljes anyanyelvű szinkronnal csak Németországban, Lengyelországban,
+
+49
+00:03:57,140 --> 00:04:01,080
+Oroszországban, valamint az USA-ban és az Egyesült Királyságban jelent meg.
+
+50
+00:04:01,440 --> 00:04:05,580
+Ami a többieket illeti, csodáljuk azt, hogy a játék, amit anyanyelvű
+
+51
+00:04:05,580 --> 00:04:10,040
+felirattal, és angol szinkronnal játszottatok, ilyen nagy érzelmeket vált ki belőletek.
+
+52
+00:04:10,260 --> 00:04:12,860
+Még ma is érdeklődtök a játék iránt.
+
+53
+00:04:13,080 --> 00:04:15,520
+Szerintünk ez elképesztő dolog!
+
+54
+00:04:15,660 --> 00:04:21,440
+Végül, de nem utolsó sorban — tudnotok kell, hogy ti, a külföldi rajongók,
+
+55
+00:04:21,660 --> 00:04:25,980
+ugyanolyan FONTOSAK vagytok nekünk, mint a lengyel rajongóink.
+
+56
+00:04:26,000 --> 00:04:31,460
+Tisztelünk és méltányolunk benneteket, és nagyon szeretjük EZT a játékot, épp úgy, mint ti.
+
+57
+00:04:31,660 --> 00:04:32,560
+Készen álltok?
+
+58
+00:04:32,680 --> 00:04:35,100
+Jöjjenek hát a kérdések, és a válaszok!
+
+59
+00:04:35,340 --> 00:04:39,720
+Mi az a History of Khorinis?
+
+60
+00:04:40,260 --> 00:04:45,560
+A History of Khorinis egy különálló történet, amely a Gothic-sorozat előzménye.
+
+61
+00:04:45,780 --> 00:04:50,660
+A történet tizenegy évvel a Gothic 1 cselekménye ELŐTT játszódik.
+
+62
+00:04:50,880 --> 00:04:55,060
+A kiegészítő cselekménye egy évvel a Mágikus Kupola létrehozása előtt zajlik.
+
+63
+00:04:55,300 --> 00:05:00,760
+A terv szerint a kiadványnak két része lesz — az első, az új szigeten, Vaduzon,
+
+64
+00:05:00,960 --> 00:05:03,420
+a következő pedig Khorinis szigetén játszódik.
+
+65
+00:05:03,740 --> 00:05:08,220
+Az új sziget azért kap helyet, mert meg akarjuk mutatni egy más részét is
+
+66
+00:05:08,260 --> 00:05:13,300
+eme dicső Királyságnak, illetve egy másik nagyvárost is, Khorinis városán kívül.
+
+67
+00:05:13,560 --> 00:05:17,600
+Azonkívül, az új sziget érdekesebbé is teszi a történetünket,
+
+68
+00:05:17,780 --> 00:05:19,640
+ami nagyobb élmény lesz számotokra.
+
+69
+00:05:19,940 --> 00:05:26,180
+Jellegzetessé teszi a játékot a profi lengyel szinkron, a jövőben tervezett
+
+70
+00:05:26,180 --> 00:05:31,140
+angol szinkronhoz hasonlóan, illetve a részletekre fordított odafigyelés.
+
+71
+00:05:31,500 --> 00:05:34,320
+A History of Khorinis egy non-profit projekt,
+
+72
+00:05:34,600 --> 00:05:36,840
+és INGYENESEN elérhető lesz.
+
+73
+00:05:38,500 --> 00:05:40,500
+Hogyan oldjátok meg a szinkront?
+
+74
+00:05:40,500 --> 00:05:43,480
+Hogyan találtatok színészeket a szinkronhoz?
+
+75
+00:05:43,760 --> 00:05:48,860
+Az egyik legfontosabb dolog, amely a Gothicot egyedivé tette Lengyelországban, az a világklasszis, bámulatos
+
+76
+00:05:48,860 --> 00:05:52,860
+szinkron, amelyben sok kiváló lengyel színész vett részt.
+
+77
+00:05:53,060 --> 00:05:58,020
+Mivel a csapat vezetője egy ismert filmkészítő család tagja, így
+
+78
+00:05:58,029 --> 00:06:03,960
+számos film-, színházi, és szinkronszínész áll rendelkezésünkre.
+
+79
+00:06:04,360 --> 00:06:08,360
+Azaz, a színészek és a lektorok mind ingyen segítenek,
+
+80
+00:06:08,620 --> 00:06:09,660
+engem is beleértve.
+
+81
+00:06:09,820 --> 00:06:14,740
+Barátaink jóvoltából ugyancsak INGYEN bejárásunk van a PROFI szinkronstúdiókba
+
+82
+00:06:14,820 --> 00:06:20,480
+három nagyvárosban: Varsóban - a fővárosban, Łódźban, és  Wrocławban (Breslau).
+
+83
+00:06:20,760 --> 00:06:26,080
+Megadatott nekünk, hogy álomcsapatot gyűjtsünk össze, mert nem kell a költségek miatt AGGÓDNUNK.
+
+84
+00:06:26,400 --> 00:06:31,960
+Néhány színészt személyesen buzdítunk, megmutatva nekik a projekt méretét, illetve
+
+85
+00:06:31,960 --> 00:06:34,480
+megtiszteljük őket a dokumentációs videóink sorozatával.
+
+86
+00:06:34,700 --> 00:06:39,879
+Továbbá, Az összes Gothic-karakternek ugyanaz a színész kölcsönzi a hangját, aki
+
+87
+00:06:39,880 --> 00:06:41,800
+a lengyel változatban is.
+
+88
+00:06:42,400 --> 00:06:47,340
+Miért kezdtük el már most a felvételt?
+
+89
+00:06:47,780 --> 00:06:53,500
+A legfontosabb ok, ami miatt elkezdtük, az néhány színész életkora, és egészségi állapota.
+
+90
+00:06:53,740 --> 00:06:58,160
+Elsőbbséget élveznek az előrehaladott korban lévő színészek –
+
+91
+00:06:58,440 --> 00:07:00,760
+ők a nyolvanas, kilencvenes éveikben járnak.
+
+92
+00:07:00,960 --> 00:07:06,120
+Továbbá prioritást élveznek azok a színészek is, akik komoly betegségben szenvednek.
+
+93
+00:07:06,300 --> 00:07:10,000
+Egyik esetben sem halogathatjuk a felvételt.
+
+94
+00:07:10,180 --> 00:07:16,500
+További fontos ok, hogy a szinkronstúdiók, és a színészek is ingyen segítenek nekünk.
+
+95
+00:07:16,720 --> 00:07:21,120
+Ezért MI alkalmazkodunk az Ő szabadidejükhöz.
+
+96
+00:07:21,280 --> 00:07:25,839
+Figyelembe véve, hogy milyen nagyszabású a projekt, fontos olyan korán elkezdeni
+
+97
+00:07:25,840 --> 00:07:30,020
+a felvételt, amennyire csak lehet — nem pedig az utolsó pillanatra hagyni.
+
+98
+00:07:30,180 --> 00:07:34,719
+Továbbá, nem okoz gondot beletenni a szinkront a játékba még a
+
+99
+00:07:34,720 --> 00:07:39,960
+fejlesztés ideje alatt — a Witcher-játékok esetében is hasonlóan jártak el.
+
+100
+00:07:40,200 --> 00:07:44,940
+Ez biztosítja NEKÜNK — az alkotóknak — hogy lássuk az elképzeléseinket a játékban,
+
+101
+00:07:45,100 --> 00:07:51,580
+illetve lehetőséget ad, hogy megmutassuk NEKTEK az összes effektet, a hangokkal együtt.
+
+102
+00:07:52,720 --> 00:07:56,040
+Hány éve tart a fejlesztés?
+
+103
+00:07:56,440 --> 00:08:01,160
+A projekt jelenlegi formájában 2015 végén kezdődött.
+
+104
+00:08:01,300 --> 00:08:04,220
+Az első koncepció 2005-ben jelent meg.
+
+105
+00:08:04,540 --> 00:08:10,560
+Akkor az még egy TELJESEN más projekt volt, amely alacsonyabb minőségű volt a mostaninál.
+
+106
+00:08:10,900 --> 00:08:15,560
+Ennek a történetéről egy külön videóanyagot készítünk majd a jövőben.
+
+107
+00:08:16,680 --> 00:08:19,580
+Mikor fog megjelenni a History of Khorinis?
+
+108
+00:08:19,820 --> 00:08:24,960
+A kiegészítőnk még az elemek összeillesztésének szakaszában van — újraírjuk a
+
+109
+00:08:24,980 --> 00:08:30,060
+scripteket a játék kódjában, elhelyezzük a karaktereket, tárgyakat, küldetéseket a befejezett világhoz,
+
+110
+00:08:30,240 --> 00:08:33,880
+és hozzáadjuk a szinkront, rögtön, ugyanabban a szakaszban.
+
+111
+00:08:34,020 --> 00:08:40,420
+Ezen felül, 50 színésszel kell szinkront készítenünk, és lehetséges, hogy ez a szám növekedni fog.
+
+112
+00:08:40,820 --> 00:08:46,580
+Az a baj, hogy egy nagy cég kibérelhet egy stúdiót, és szerződtethet színészeket egy hónapra.
+
+113
+00:08:46,760 --> 00:08:53,250
+Szóval, mi KÉPTELENEK vagyunk valós megjelenési dátumot meghatározni, mivel még SENKI sem tudott
+
+114
+00:08:53,250 --> 00:08:56,620
+ilyen nagyszabású projektet non-profit alapon véghez vinni.
+
+115
+00:08:57,060 --> 00:09:02,160
+MI azokhoz igazodunk, akik ingyen segítenek nekünk, ahogy korábban is említettük.
+
+116
+00:09:02,400 --> 00:09:07,780
+Nem mondunk SEMMILYEN megjelenési dátumot, amíg nem érkezünk el a projekt végső szakaszához.
+
+117
+00:09:08,620 --> 00:09:11,440
+Mikor fog megjelenni a kiegészítő angol változata?
+
+118
+00:09:11,440 --> 00:09:14,480
+És hány különböző nyelvű verzió fog készülni?
+
+119
+00:09:15,029 --> 00:09:19,920
+Abból kiindulva, hogy változtatásokat fogunk végezni a projektünkön a fejlesztés végéig,
+
+120
+00:09:19,920 --> 00:09:26,940
+úgy döntöttünk, hogy jobb lenne elkezdeni a fordítást a History of Khorinis lengyel verziójának megjelenésekor.
+
+121
+00:09:27,200 --> 00:09:31,720
+Úgy számolunk, hogy az angolra fordítás kb. három hónapot vesz majd igénybe.
+
+122
+00:09:31,980 --> 00:09:35,900
+A fordítási munkálatok gyorsak és szakszerűek lesznek.
+
+123
+00:09:36,260 --> 00:09:41,180
+Továbbá, ígéretük szerint a Gothic Italia csapata fog gondoskodni
+
+124
+00:09:41,180 --> 00:09:46,000
+az olasz fordításról, rögtön az angolra fordítást követően.
+
+125
+00:09:46,160 --> 00:09:50,810
+Tapasztaltak a fordítás terén. Ők felelősek például
+
+126
+00:09:50,810 --> 00:09:56,060
+a Community Story Project, és a hivatalos Gothic 3 patch fordításáért is.
+
+127
+00:09:56,240 --> 00:10:02,660
+A vezető programozónk — Szymon “Szmyk” Żak — jártas az orosz nyelv terén,
+
+128
+00:10:02,660 --> 00:10:06,980
+szóval az orosz fordítás irányítását biztosan ő vállalja majd.
+
+129
+00:10:07,440 --> 00:10:13,080
+Érthető okokból, próbálunk majd segítséget találni a History of Khorinis német fordításához.
+
+130
+00:10:13,260 --> 00:10:19,260
+Minden más nyelvű verzió a rajongóktól, illetve érdeklődésüktől, és hajlandóságuktól függ.
+
+131
+00:10:19,660 --> 00:10:25,140
+Szakszerű angol szinkront is tervezünk, mivel sok fiatal
+
+132
+00:10:25,280 --> 00:10:30,820
+színészünknek remek az angol kiejtése, illetve professzionális, és szívélyes módon állnak
+
+133
+00:10:30,980 --> 00:10:33,180
+a játék szinkronjához.
+
+134
+00:10:33,400 --> 00:10:36,840
+Négy féle nyelvű verziót tudunk jelenleg megígérni:
+
+135
+00:10:37,040 --> 00:10:39,900
+angol, olasz, orosz, és német.
+
+136
+00:10:41,340 --> 00:10:45,940
+Honnan tudjátok, hogy a Kupola 10 éves volt?
+
+137
+00:10:46,420 --> 00:10:50,280
+A hivatalos “Gothic Der Comic” képregény, és az egyik Gothic-játék kézikönyve
+
+138
+00:10:50,280 --> 00:10:54,180
+is szól a Kupola koráról, két alkalommal.
+
+139
+00:10:54,600 --> 00:10:58,420
+Az egyik 10, a másik 20 évet említ.
+
+140
+00:10:58,660 --> 00:11:04,880
+Választanunk kellet tehát, hogy melyik a valódi kor, és melyik illeszkedik igazán a játék kronológiájához.
+
+141
+00:11:05,220 --> 00:11:09,100
+Magában a játékban a Mágikus Kupola kora nem kerül elő.
+
+142
+00:11:09,320 --> 00:11:13,140
+Csak azt sugallja, hogy a Kupola 10, vagy 20 éves lehet.
+
+143
+00:11:13,380 --> 00:11:19,280
+Továbbá, a 20 éves Kupola logikai és kronológiai problémákat vet fel.
+
+144
+00:11:19,720 --> 00:11:24,160
+Nem sokára készítünk egy KÜLÖN videót, amelyben meghatározzuk a Kupola valódi korát.
+
+145
+00:11:24,280 --> 00:11:29,920
+A videó tartalmazni fog mindenféle nyelvű szöveget, hogy bizonyítsa nektek
+
+146
+00:11:29,920 --> 00:11:32,320
+a 10 éves Kupolára esett választásunkat.
+
+147
+00:11:33,000 --> 00:11:35,920
+Miért nem csináltok saját játékot?
+
+148
+00:11:36,240 --> 00:11:38,620
+A nálunk dolgozók egy része
+
+149
+00:11:38,860 --> 00:11:41,520
+dolgozott, vagy most is dolgozik a legnagyobb lengyel
+
+150
+00:11:41,820 --> 00:11:46,300
+és nemzetközi játékcégeknél, vagy az elektronikus és videós iparban.
+
+151
+00:11:46,580 --> 00:11:51,700
+Tisztában vagyunk vele, hogy egy saját játék milyen nehéz feladat lenne, mekkora
+
+152
+00:11:51,700 --> 00:11:57,240
+költségeket igényelne, és milyen nagy lenne a kudarc kockázata.
+
+153
+00:11:57,420 --> 00:12:01,000
+Továbbá, NINCSENEK is ilyen ambícióink e téren.
+
+154
+00:12:01,120 --> 00:12:06,140
+A mi célunk, hogy tisztelegjünk az első két Gothic-játék hangulata és sztorija előtt,
+
+155
+00:12:06,380 --> 00:12:11,900
+és hogy örömet szerezzünk a rajongók százezreinek, Lengyelországban, és világszerte.
+
+156
+00:12:12,140 --> 00:12:18,220
+A csapat minden tagja komolyan áll hozzá a feladathoz, és mindenekelőtt,
+
+157
+00:12:18,360 --> 00:12:23,400
+a projektbe vetett hittel, és szeretettel a dicső Gothic játék iránt.
+
+158
+00:12:23,980 --> 00:12:26,120
+Tudunk segíteni valahogy?
+
+159
+00:12:26,380 --> 00:12:32,280
+Minden információt és linket megtaláltok a videó leírásában.
+
+160
+00:12:32,480 --> 00:12:35,920
+A Piranha Bytes tud a projektetekről?
+
+161
+00:12:36,200 --> 00:12:38,640
+Ez egy gyakori kérdés.
+
+162
+00:12:38,860 --> 00:12:44,880
+Bizonyítani tudjuk, hogy a Piranha Bytes hivatalos profilja kedvel minket Facebookon,
+
+163
+00:12:45,140 --> 00:12:48,760
+ez azt jelenti, hogy hivatalosan is érdeklődnek irántunk.
+
+164
+00:12:49,100 --> 00:12:54,340
+Továbbá, szeretnénk kijelenteni, hogy a projekt nem érinti a Gothic 3 történetét
+
+165
+00:12:54,340 --> 00:13:01,620
+és helyszíneit, mivel a kiegészítő teljes sztorija a Gothic 1-re és Gothic 2-re alapszik.
+
+166
+00:13:03,040 --> 00:13:07,520
+Ezek voltak a válaszok a gyakran feltett kérdéseitekre.
+
+167
+00:13:07,820 --> 00:13:11,740
+Ha figyelemmel kísérnétek ezt a csodás projektet, javasoljuk, hogy
+
+168
+00:13:11,900 --> 00:13:16,220
+iratkozzatok fel a YouTube-csatornánkra, és kövessetek minket a közösségi felületeken!
+
+169
+00:13:16,440 --> 00:13:22,500
+Kérjük, a komment szekcióban osszátok meg velünk a Gothicos történeteiteket, és emlékeiteket!
+
+170
+00:13:22,780 --> 00:13:28,400
+Biztos érdekes lesz mindannyiunk, különösen a lengyel Gothic-rajongók
+
+171
+00:13:28,400 --> 00:13:32,620
+számára, akik nem tudják, mennyire népszerű a Gothic világszerte.
+
+172
+00:13:32,900 --> 00:13:34,500
+Lepjetek meg minket!
+
+173
+00:13:34,860 --> 00:13:40,320
+Kérnénk tőletek még egy dolgot — hogy minél több Gothic rajongót elérjünk,
+
+174
+00:13:40,460 --> 00:13:46,080
+kérjük, értesítsétek őket a projektünkről odahaza, bármilyen módon!
+
+175
+00:13:46,640 --> 00:13:52,060
+Nagy köszönet Bartosz Białynak, amiért elkészítette az angol fordítást ehhez a videóhoz.
+
+176
+00:13:52,420 --> 00:13:56,060
+Ugyancsak ő a felelős minden jelenlegi fordításért.
+
+177
+00:13:58,100 --> 00:14:02,280
+Nagy köszönet a német fordítás korrektúrázásáért Pierre-nek, más néven “ThielHater”-nek,
+
+178
+00:14:02,440 --> 00:14:10,140
+aki épp olyan nagy rajongója Myrtana világának, mint mi, és sok évig dolgozott a "Gothic Reloaded Mod"-on is.
+
+179
+00:14:10,480 --> 00:14:15,520
+Ennek a modnak a célja, hogy feljavítsa a Gothic 1 grafikáját, amilyen magas fokra
+
+180
+00:14:15,529 --> 00:14:22,579
+lehetséges, egyben a Bányavölgy eredeti hangulatát 100%-ban megtartva
+
+181
+00:14:22,580 --> 00:14:25,180
+2001 óta.
+
+182
+00:14:25,740 --> 00:14:34,180
+2010-ben kezdtünk együttműködni, amikor Pierre megosztotta velünk az Új Tábor részletes, újramodellezett verzióját.
+
+183
+00:14:34,480 --> 00:14:38,060
+A projekt a fejlesztés végső szakaszában jár.
+
+184
+00:14:38,260 --> 00:14:43,460
+A demója, ami tartalmazza az első játszható fejezetet, letölthető a hivatalos oldalról.
+
+185
+00:14:43,680 --> 00:14:47,180
+Magunk közt szólva, Pierre profi programozó.
+
+186
+00:14:47,360 --> 00:14:50,320
+A csapata munkája elképesztő hatást vált ki!
+
+187
+00:14:50,540 --> 00:14:55,100
+Javasoljuk, hogy kövessétek a projektjeit, és köszönünk mindent, Pierre!
+
+188
+00:14:55,320 --> 00:14:57,800
+Szívélyes üdvözlet, minden németnek!
+
+189
+00:15:14,260 --> 00:15:19,980
+Azonban, a legnagyobb köszönet Jakub Masztakowskinak & Tomasz Rutkowskinak jár, akik lefordították
+
+190
+00:15:20,180 --> 00:15:24,640
+a teljes lengyel szöveget németre!
+
+191
+00:15:24,820 --> 00:15:28,980
+Továbbá köszönet az orosz fordításért Dmitriy Kovchenkónak,
+
+192
+00:15:29,160 --> 00:15:37,220
+aki a Gothic Sequelről készült videó fordításáért felelt, illetve segít működtetni a profilunkat az Russian VKontakte-n.
+
+193
+00:15:37,720 --> 00:15:42,360
+Ugyanekkora köszönet jár Konstantin “tyson90” Kulichyovnak és Łukasz Wróbelnek,
+
+194
+00:15:42,540 --> 00:15:47,380
+akik a lengyel szöveget fordították le oroszra!
+
+195
+00:15:47,800 --> 00:15:53,320
+Egyébiránt, minden VK-s rajongónak javasoljuk, hogy kövessék a profilunkat.
+
+196
+00:16:07,400 --> 00:16:11,680
+Óriási köszönet a Gothic Italia csapatának az olasz fordításért.
+
+197
+00:16:11,900 --> 00:16:15,420
+A srácok Leonardo vezetésével remek munkát végeztek.
+
+198
+00:16:15,720 --> 00:16:20,120
+Ahogy korábban említettük, ők a felelősek olyan projektek olasz fordításáért, mint a
+
+199
+00:16:20,120 --> 00:16:25,200
+Community Story Project, a Quest Pack, vagy a Content Mod.
+
+200
+00:16:25,440 --> 00:16:33,140
+Ugyancsak ők fordították le az összes videónkat, ahogy the History of Khorinisszal is teszik majd.
+
+201
+00:16:33,400 --> 00:16:37,300
+Mindazonáltal, ők még nálunk is nagyobb Gothic-rajongók lehetnek.
+
+202
+00:16:37,560 --> 00:16:43,400
+Ezt bizonyítja az, hogy még az Andrzej Tomeckivel készült dokumentumfilmet is lefordították,
+
+203
+00:16:43,580 --> 00:16:46,240
+aki részt vett a játék lengyel változatában!
+
+204
+00:16:46,440 --> 00:16:54,140
+Dark — a csapatunk vezetője — sokszor jár Olaszországban, úgyhogy legközelebb a vendégei vagytok egy sörre!
+
+205
+00:16:58,760 --> 00:17:03,320
+Sokkal tartozunk Darchy “Darko” Soyernek a szerb fordításért.
+
+206
+00:17:03,580 --> 00:17:12,360
+Darko egy tehetséges grafikus, aki dolgozott a Gothic 3 gigantikus Community Story Projectjének textúráin sok évvel ezelőtt.
+
+207
+00:17:12,620 --> 00:17:18,760
+A fordításának hála, a videóink fogyaszthatóbbak nem csak a szerbek, hanem a volt Jugoszlávia
+
+208
+00:17:18,760 --> 00:17:24,040
+többi polgára — szlovének, horvátok és bosnyákok - számára is.
+
+209
+00:17:27,740 --> 00:17:32,560
+Nagy köszönet jár Filip “tonyskate” Richternek a cseh fordításért.
+
+210
+00:17:32,880 --> 00:17:36,100
+Ő egyben a GothiCZ.net moderátora is.
+
+211
+00:17:39,580 --> 00:17:45,660
+Nagy köszönet Ohnedichnek, Losif Alexandrunak és Mircrea Enachénak a román fordításért,
+
+212
+00:17:45,880 --> 00:17:50,340
+utóbbi részt vett az “Intrusion” című projekt angol fordításában is.
+
+213
+00:17:54,740 --> 00:18:01,600
+A spanyol fordításért külön köszönet Carlos Fernandeznek, aki egyben Lord Saradoc streamjeit moderálja!
+
+214
+00:18:12,640 --> 00:18:16,200
+Köszönet Uldis Gailisnak és Norberts Dukursnak a lett fordításért.
+
+215
+00:18:18,860 --> 00:18:23,720
+Szívélyes üdvözlet Arkadiusz Woźniaktól, és a History of Khorinis csapatától.
+
+216
+00:18:24,160 --> 00:18:26,960
+Innos vigyázzon rátok!
+
+217
+00:18:53,440 --> 00:18:58,620
+Rendezte és kivitelezte
+Piotr Czołnowski és Mateusz Pawłowski
+
+218
+00:18:58,860 --> 00:19:02,020
+Hang
+Szymon Nawrocki
+
+219
+00:19:02,320 --> 00:19:05,960
+A fordítást koordinálta: Szymon Żak
+Narrátor: Arkadiusz Woźniak
+
+220
+00:19:06,120 --> 00:19:11,320
+Külön köszönet
+Krystian Ogonowskinak, Szymon Żaknak,
+Michał Wiśniewskinek és Mateusz Iwaneknek
+
+221
+00:19:15,740 --> 00:19:17,740
+A magyar szöveget írta: Forró Norbert
+

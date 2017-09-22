@@ -1,0 +1,889 @@
+1
+00:00:08,600 --> 00:00:13,960
+“Myrtana Krallığı, Kral 2. Rhobar tarafından birleştirildi”
+
+2
+00:00:29,920 --> 00:00:30,720
+Merhaba!
+
+3
+00:00:31,060 --> 00:00:33,120
+Ben Arkadiusz “Arkadikuss” Woźniak!
+
+4
+00:00:33,580 --> 00:00:36,380
+Gördüğünüz gibi, İngilizce de konuşabiliyorum!
+
+5
+00:00:36,720 --> 00:00:41,620
+İçeriklerimizi Polakça seslendirme ve kendi dillerinizde alt-yazı ile izlemenin 
+
+6
+00:00:41,840 --> 00:00:44,220
+sizin için ne kadar sıkıntı olduğunun farkındayız,
+
+7
+00:00:45,240 --> 00:00:48,920
+bu yüzden sizlere İngilizce seslendirme ile özel bir video hazırlamaya karar verdik,
+
+8
+00:00:49,120 --> 00:00:53,440
+doğrudan sizlere özel - dünyanın her bir köşesinden
+
+9
+00:00:53,680 --> 00:00:56,260
+History of Khorinis takipçileri için!
+
+10
+00:00:56,540 --> 00:01:00,940
+Her zamanki gibi, aynı zamanda size bazı dillerde alt-yazı hazırladık.
+
+11
+00:01:01,140 --> 00:01:05,240
+Bu videoda proje ile alakalı bütün önemli soruları cevaplandıracağız,
+
+12
+00:01:05,420 --> 00:01:11,780
+hem projenin kendisi hem de bizimle, History of Khorinis üzerinde çalışan SoulFire ekibi ile alakalı.
+
+13
+00:01:11,880 --> 00:01:15,260
+Öyleyse, bizimle kalın ve iyi seyirler!
+
+14
+00:01:15,460 --> 00:01:20,120
+Sorulara ve cevaplara geçmeden önce, sizlere bazı önemli bilgileri aktarmamıza izin verin.
+
+15
+00:01:20,380 --> 00:01:23,360
+Öncelikle, destekleriniz için teşekkür ediyoruz.
+
+16
+00:01:23,540 --> 00:01:28,030
+Polonya'dan binlerce takipçimiz dışında, birkaç bin kişi de
+
+17
+00:01:28,030 --> 00:01:31,680
+bizi bütün dünyadan sosyal medyada takip ediyor!
+
+18
+00:01:31,680 --> 00:01:36,520
+Sizler aynı zamanda YouTube kanalımızın izleyicilerinin %20'sini oluşturuyorsunuz.
+
+19
+00:01:36,520 --> 00:01:42,940
+Bizler özellikle buna minnettarız, çünkü sizler aslında bir - hala devam eden - Polonya projesini takip ediyorsunuz.
+
+20
+00:01:43,100 --> 00:01:47,820
+Bu sadece Gothic destanına olan bağlılığınızı göstermekle kalmıyor, aynı zamanda da bu oyunun
+
+21
+00:01:47,820 --> 00:01:53,200
+çok eski bir tarihte yayınlanmış olmasına rağmen ne kadar popüler ve özel olduğunu ifade ediyor!
+
+22
+00:01:53,320 --> 00:01:56,179
+Hangi ülkeden olursanız olun!
+
+23
+00:01:56,180 --> 00:02:01,120
+HER BİRİMİZ DESTANSI ALMAN OYUNU GOTHIC'İ SEVİYOR VE YÜCELTİYORUZ!
+
+24
+00:02:01,280 --> 00:02:03,720
+Ve bu da çok güzel!
+
+25
+00:02:04,300 --> 00:02:09,640
+Ekstra bilgi olarak bilmenizde fayda var ki, Gothic Polonya'da neredeyse 
+
+26
+00:02:09,640 --> 00:02:14,140
+1 milyon kopya sattı, bu da İNANILMAZ!
+
+27
+00:02:14,140 --> 00:02:18,120
+İzleyici sayısı en yüksek olan ülkeler elbette Almanya ve Rusya,
+
+28
+00:02:18,260 --> 00:02:26,240
+ki bu ülkelerdekiler günümüzde bile hala World of Gothic Deutschland, World of Player Russia ve RPG Russia'da toplanıyor.
+
+29
+00:02:26,520 --> 00:02:31,920
+Ondan sonra gelen en kalabalık grup Sırbistan ve Romanya'lı kardeşlerimiz, onlar da
+
+30
+00:02:32,100 --> 00:02:34,360
+World of Gothic Romania'da toplanıyor.
+
+31
+00:02:35,220 --> 00:02:40,800
+Bir başka büyük izleyici grubu ise İtalya'dan, onlar da Gothic Italia'da toplanıyor.
+
+32
+00:02:42,180 --> 00:02:47,760
+İçinde Güney Amerika'dan da insanlar bulabileceğimiz, Gothic 1'in çıkışından hemen sonra 
+
+33
+00:02:48,020 --> 00:02:54,600
+açılan muhteşem Gothic Clan Espańa ve İspanyol takipçileri de.
+
+34
+00:02:55,000 --> 00:02:56,840
+Ondan sonraki büyük grup Fransızlar,
+
+35
+00:02:56,920 --> 00:03:00,400
+onlar da Gothic Universe France ismindeki portalda toplanıyorlardı
+
+36
+00:03:00,560 --> 00:03:02,560
+gerçi bu günlerde kapalı olsa da.
+
+37
+00:03:02,880 --> 00:03:07,480
+Bu noktada, sizlere ayrıca teşekkür etmek istiyoruz, çünkü Polanya'da Gothic'in Batı'da başarılı
+
+38
+00:03:07,480 --> 00:03:10,180
+olmadığına dair bir şehir efsanesi vardı.
+
+39
+00:03:10,180 --> 00:03:16,090
+Tabii ki daha azdı, ancak projenin yanında duruşunuz ve ona ilginiz Gothic'in BUNCA YILDAN SONRA
+
+40
+00:03:16,090 --> 00:03:18,800
+bile sizi ne kadar etkilediğini gösterir.
+
+41
+00:03:19,020 --> 00:03:21,700
+Özellikle de Latince konuşan ülkelerdekiler.
+
+42
+00:03:21,980 --> 00:03:29,520
+Macaristan, Çek Cumhuriyeti ve Slovakya'daki kardeşlerimiz, ki onların yeri de Gothicz.net sitesidir.
+
+43
+00:03:31,080 --> 00:03:36,460
+Öte yandan, daha azınlıktaki, Kuzey Amerika ve Britanya Adaları'ndaki takipçiler,
+
+44
+00:03:36,660 --> 00:03:39,000
+WorldOfGothic.om sitesinde toplanıyor.
+
+45
+00:03:39,480 --> 00:03:44,900
+Ayrıca, projemiz ModDB.com sitesindeki Slovenya, Letonya, Fas, Bulgaristan ve Kolombiya
+
+46
+00:03:45,100 --> 00:03:49,180
+gibi ülkelerdekiler tarafından da takip ediliyor.
+
+47
+00:03:49,500 --> 00:03:50,660
+Saygılarımızla!
+
+48
+00:03:51,300 --> 00:03:57,020
+Gothic, komple ana dilde seslendirmesiyle Almanya, Polonya, Rusya ve İngilizce konuşan
+
+49
+00:03:57,140 --> 00:04:01,080
+ABD ve Birleşik Krallık gibi ülkelerde yayınlanmıştı.
+
+50
+00:04:01,440 --> 00:04:05,580
+Geriye kalanlar için, İngilizce seslendirme üzerine kendi altyazılarınızla 
+
+51
+00:04:05,580 --> 00:04:10,040
+oynadığınız bu oyunun size ne kadar büyük duygular kattığına hayranlık duyuyoruz.
+
+52
+00:04:10,260 --> 00:04:12,860
+Bu güne kadar bile o oyunla ilgilisiniz.
+
+53
+00:04:13,080 --> 00:04:15,520
+Bizim açımızdan bu inanılmaz bir şey!
+
+54
+00:04:15,660 --> 00:04:21,440
+Son, bir o kadar da önemli olarak — bilmeniz gerekiyor ki, bütün dünyadan takipçilerimiz,
+
+55
+00:04:21,660 --> 00:04:25,980
+sizler bizim için en az Polonya'lı takipçilerimiz kadar ÖNEMLİSİNİZ.
+
+56
+00:04:26,000 --> 00:04:31,460
+Size saygı duyuyor, takdir ediyor ve sizler gibi biz de BU OYUNU çok seviyoruz.
+
+57
+00:04:31,660 --> 00:04:32,560
+Hazır mısınız?
+
+58
+00:04:32,680 --> 00:04:35,100
+O zaman S&C'a başlayalım!
+
+59
+00:04:35,340 --> 00:04:39,720
+History of Khoriniz nedir?
+
+60
+00:04:40,260 --> 00:04:45,560
+History of Khorinis, Gothic destanının ÖNCESİNDE geçen bağımsız bir hikayedir.
+
+61
+00:04:45,780 --> 00:04:50,660
+Gothic 1'deki olaylardan onbir yıl EVVEL gerçekleşmiş bir hikayeyi anlatır.
+
+62
+00:04:50,880 --> 00:04:55,060
+Eklentinin bir kısmı Büyülü Bariyer'in oluşturulmasından bir yıl öncesinde geçiyor.
+
+63
+00:04:55,300 --> 00:05:00,760
+Projenin yayınlanmasının iki safhada yapılması planlanıyor — ilk kısmı yeni ada olan Vaduz'da
+
+64
+00:05:00,960 --> 00:05:03,420
+sonraki kısmı da Khorinis Adası'nda.
+
+65
+00:05:03,740 --> 00:05:08,220
+Bu eklentide yeni bir ada ortaya çıkıyor, çünkü bu muhteşem Krallık'ın başka bir tarafını
+
+66
+00:05:08,260 --> 00:05:13,300
+ve Khorinis Şehri'nden başka bir metropolü de sizlere göstermek istedik.
+
+67
+00:05:13,560 --> 00:05:17,600
+Ayrıca, bu ilave ada hikayemizi çok daha enteresanlaştıracak,
+
+68
+00:05:17,780 --> 00:05:19,640
+dolayısıyla daha çok eğleneceksiniz.
+
+69
+00:05:19,940 --> 00:05:26,180
+Burası aynı zamanda profesyonel Polonyalı ses sanatçıları tarafından olağanüstü bir özveriyle 
+
+70
+00:05:26,180 --> 00:05:31,140
+canlandırıldı, gelecekte profseyonel İngilizce ses işçiliği olacak.
+
+71
+00:05:31,500 --> 00:05:34,320
+History of Khorinis kâr amacı gütmeyen bir projedir
+
+72
+00:05:34,600 --> 00:05:36,840
+ve bittiğinde ÜCRETSİZ ulaşılabilir olacaktır.
+
+73
+00:05:38,500 --> 00:05:40,500
+Seslendirme için aklınızdakiler neydi?
+
+74
+00:05:40,500 --> 00:05:43,480
+Bu proje için aktorlere nasıl ulaştınız?
+
+75
+00:05:43,760 --> 00:05:48,860
+Gothic'i Polonya'da özel yapan en önemli şeylerden bir tanesi de evrensel kalitedeki muhteşem
+
+76
+00:05:48,860 --> 00:05:52,860
+seslendirme işçiliğiydi, biz de bu noktada harika Polak aktörler bulabiliyoruz.
+
+77
+00:05:53,060 --> 00:05:58,020
+Takım liderinin çok bilindik bir film yapımcısı aileden geldiği gerçeği de, bizim
+
+78
+00:05:58,029 --> 00:06:03,960
+bir çok film, tiyatro ve ses sanatçısının katkısına ÜCRETSİZ sahip olmamızı sağladı.
+
+79
+00:06:04,360 --> 00:06:08,360
+Bu da bütün sanatçı ve okuyucuların ücretsiz yardım ettiği anlamına geliyor,
+
+80
+00:06:08,620 --> 00:06:09,660
+ben dahil.
+
+81
+00:06:09,820 --> 00:06:14,740
+Dostlarımızın nazikliğine de minnettarız ki aynı zamanda şu şehirlerdeki profesyonel ses stüdyolarına 
+
+82
+00:06:14,820 --> 00:06:20,480
+da ücretsiz erişimimiz var: Başkent Varşova, Łódź ve Wrocław.
+
+83
+00:06:20,760 --> 00:06:26,080
+Bu bize bir rüya takımı oluşturma fırsatı verdi, çünkü herhangi bir gider hakkında endişe etmemize gerek yok.
+
+84
+00:06:26,400 --> 00:06:31,960
+Projemizin büyüklüğünü göstererek, bazı döküman videoları göstererek aktörlerimizi
+
+85
+00:06:31,960 --> 00:06:34,480
+bireysel olarak cesaretlendiriyoruz.
+
+86
+00:06:34,700 --> 00:06:39,879
+Ayrıca, oyunun Polakça versiyonundaki bütün karakterler onları seslendiren aynı 
+
+87
+00:06:39,880 --> 00:06:41,800
+aktörler tarafından seslendirilecek.
+
+88
+00:06:42,400 --> 00:06:47,340
+Neden kayıtlara şu an başladık?
+
+89
+00:06:47,780 --> 00:06:53,500
+Kayıtlara başlamamızın en önemli sebebi bazı aktörlerin yaş ve sağlık problemleri.
+
+90
+00:06:53,740 --> 00:06:58,160
+Yaşı ileride olan aktörlere öncelik tanınıyor –
+
+91
+00:06:58,440 --> 00:07:00,760
+80'ler ve 90'larında olanlara.
+
+92
+00:07:00,960 --> 00:07:06,120
+Ayrıca ciddi hastalık sahibi aktörlere de öncelik tanınıyor.
+
+93
+00:07:06,300 --> 00:07:10,000
+Her iki durumda da kayıtları ertelemenin imkanı yok.
+
+94
+00:07:10,180 --> 00:07:16,500
+Bir başka önemli sebep te hem kayıt stüdyolarının hem de aktörlerin bize ücretsiz yardım ediyor olması.
+
+95
+00:07:16,720 --> 00:07:21,120
+Dolayısıyla kendimizi, ONLARIN boş vaktine göre ayarlamamız gerekiyor.
+
+96
+00:07:21,280 --> 00:07:25,839
+Aynı zamanda projenin büyüklüğü de ele alındığında, bir an önce kayıtlara
+
+97
+00:07:25,840 --> 00:07:30,020
+başlamak da hepsini son dakikaya bırakmamak için önemli.
+
+98
+00:07:30,180 --> 00:07:34,719
+Dolayısıyla, geliştirme sürecinde kaydetme ve yerleştirme yapmanın hiç bir sakıncası yok
+
+99
+00:07:34,720 --> 00:07:39,960
+benzer yöntem Witcher oyunlarının bütün bölümlerinde de gerçekleştirildi.
+
+100
+00:07:40,200 --> 00:07:44,940
+Bu bize - ekibe - vizyonumuzdakileri uygulamada görme olanağı sağlıyor,
+
+101
+00:07:45,100 --> 00:07:51,580
+aynı zamanda da yaptıklarımızı size komple ses işçiliğiyle gösterebilmemizi sağlıyor.
+
+102
+00:07:52,720 --> 00:07:56,040
+Proje kaç yıldır yapım aşamasında?
+
+103
+00:07:56,440 --> 00:08:01,160
+Projenin şu anki hali 2015'in sonlarından beri yapım aşamasında.
+
+104
+00:08:01,300 --> 00:08:04,220
+İlk konseptleri 2009 yılında ortaya çıkmıştı.
+
+105
+00:08:04,540 --> 00:08:10,560
+O zamanlar TAMAMEN farklı bir projeydi, kalitesi de şu anki halinden daha düşüktü.
+
+106
+00:08:10,900 --> 00:08:15,560
+İleri vakitlerde bütün bu süreci gösteren bir video da hazırlayacağız.
+
+107
+00:08:16,680 --> 00:08:19,580
+History of Khorinis ne zaman yayınlanacak?
+
+108
+00:08:19,820 --> 00:08:24,960
+Eklentimiz şu anda bütün elementleri bir araya getirme aşamasında — kodlarımızı 
+
+109
+00:08:24,980 --> 00:08:30,060
+oyun koduna çeviriyor, karakterleri, eşyaları ve görevleri bitmiş dünyaya yerleştiriyor,
+
+110
+00:08:30,240 --> 00:08:33,880
+ve aynı evrede de seslendirmeleri direkt olarak oyuna yerleştiriyoruz.
+
+111
+00:08:34,020 --> 00:08:40,420
+Ayrıca, 50 tane aktör için seslendirme yapmamız gerekiyor ve bu sayının artma ihtimali de var.
+
+112
+00:08:40,820 --> 00:08:46,580
+Problem şu ki, büyük bir şirket bir kayıt stüdyosunu ve aktörleri bir ay için kiralayabilir.
+
+113
+00:08:46,760 --> 00:08:53,250
+Dolayısıyla, bizim için kesin bir çıkış tarihi vermek İMKANSIZ, çünkü HİÇKİMSE şu ana kadar
+
+114
+00:08:53,250 --> 00:08:56,620
+bu kadar büyük bir projeyi kazançsız bir şekilde gerçekleştiremedi.
+
+115
+00:08:57,060 --> 00:09:02,160
+BİZ kendimizi, bize karşılıksız yardım eden herkese göre ayarlıyoruz, önceden de bahsettiğimiz gibi.
+
+116
+00:09:02,400 --> 00:09:07,780
+Projenin son aşamasına gelene kadar ASLA bir çıkış tarihi vermeyeceğiz.
+
+117
+00:09:08,620 --> 00:09:11,440
+Eklentinin İngilizce versiyonu ne zaman yayınlanacak?
+
+118
+00:09:11,440 --> 00:09:14,480
+Ve başka kaç dil hazırlanmış olacak?
+
+119
+00:09:15,029 --> 00:09:19,920
+Geliştirme sürecinin sonuna kadar değişiklikler yapacağımızdan ötürü,
+
+120
+00:09:19,920 --> 00:09:26,940
+History of Khorinis'in Polakça versiyonunun çıkışından sonra çevirilere başlamanın daha iyi olacağına karar verdik.
+
+121
+00:09:27,200 --> 00:09:31,720
+Tahminimizce İngilizce'ye çeviri yaklaşık üç ayımızı alacak.
+
+122
+00:09:31,980 --> 00:09:35,900
+Çeviri işçiliği profesyonel olduğu kadar hızlı da olacak.
+
+123
+00:09:36,260 --> 00:09:41,180
+Bundan ayrıca, Gothic Italia takımından aldığımız onaya göre İngilizce çevirinin
+
+124
+00:09:41,180 --> 00:09:46,000
+hemen ardından İtalyanca çeviri işlemleri de başlayacak.
+
+125
+00:09:46,160 --> 00:09:50,810
+Onlar da çeviri işinde tecrübeliler, Gothic 3 projelerinden Community Story Project
+
+126
+00:09:50,810 --> 00:09:56,060
+ve resmi Gothic 3 yamasının çevirilerinden sorumluydular.
+
+127
+00:09:56,240 --> 00:10:02,660
+Baş yazılımcımız - Szymon “Szmyk” Żak - Rus dilinde usta,
+
+128
+00:10:02,660 --> 00:10:06,980
+o yüzden Rusça'ya çeviri de onun liderliği altında yapılacak.
+
+129
+00:10:07,440 --> 00:10:13,080
+Bariz sebeplerden dolayı, History of Khorinis'in Almanca'ya çevirisi için de yardım almaya çalışacağız.
+
+130
+00:10:13,260 --> 00:10:19,260
+Diğer bütün dillerdeki çeviriler takipçilerimizin ilgili ve azimli yardım ellerine bakacak.
+
+131
+00:10:19,660 --> 00:10:25,140
+Aynı zamanda da profesyonel bir İngilizce ses sanatçılığı ortaya koymak istiyoruz, çünkü
+
+132
+00:10:25,280 --> 00:10:30,820
+daha genç aktörlerimizin bir çoğu oyunu seslendirmek için harika İngilizce aksana, oldukça
+
+133
+00:10:30,980 --> 00:10:33,180
+yeterli profesyonelliğe ve azime sahipler.
+
+134
+00:10:33,400 --> 00:10:36,840
+Şu anda dört dil için versiyon garanti verebiliyoruz:
+
+135
+00:10:37,040 --> 00:10:39,900
+İngilizce, İtalyanca, Rusça ve Almanca.
+
+136
+00:10:41,340 --> 00:10:45,940
+Bariyer'in 10 yaşında olduğunu nereden biliyoruz?
+
+137
+00:10:46,420 --> 00:10:50,280
+Resmi bir karikatür yayını olan "Gothic Der Comic"'ın yanı sıra bir Gothic oyununun
+
+138
+00:10:50,280 --> 00:10:54,180
+yanında gelen kitapçıkta da Bariyer'in yaşı iki defa geçiyor.
+
+139
+00:10:54,600 --> 00:10:58,420
+Bir tanesi 20, diğeri de 10 yaşında olduğunu söylüyor.
+
+140
+00:10:58,660 --> 00:11:04,880
+Biz de serinin kronolojisine en uygun olacak şekilde doğru çağı yakalayabilmek için bir karar vermek zorundaydık.
+
+141
+00:11:05,220 --> 00:11:09,100
+Oyunun kendisinde Büyülü Bariyer'in yaşı bulunmuyor.
+
+142
+00:11:09,320 --> 00:11:13,140
+Bariyer'in yaşının sadece 10 ya da 20 yaşında olduğu söyleniyor.
+
+143
+00:11:13,380 --> 00:11:19,280
+Ayrıca, yirmi yaşında bariyer mantıksal ve kronolojik problemlere yol açıyor.
+
+144
+00:11:19,720 --> 00:11:24,160
+Yakında Büyülü Bariyer'in gerçek yaşı hakkında ÖZEL bir video hazırlayacağız.
+
+145
+00:11:24,280 --> 00:11:29,920
+O video da bariyerin on yaşında olmasıyla alakalı gerekçelerimizi
+
+146
+00:11:29,920 --> 00:11:32,320
+bütün dillerdeki alt-yazılarla birlikte içerecektir.
+
+147
+00:11:33,000 --> 00:11:35,920
+Neden kendi oyununuzu yapmıyorsunuz?
+
+148
+00:11:36,240 --> 00:11:38,620
+Projemizde çalışanların bir kısmı
+
+149
+00:11:38,860 --> 00:11:41,520
+devasa Polak ve global oyun, elektronik
+
+150
+00:11:41,820 --> 00:11:46,300
+ve video endüstrilerindeki şirketlerle çalışmış insanlar.
+
+151
+00:11:46,580 --> 00:11:51,700
+Projenin kendi oyunumuz olmasının, bize finansal maliyetinin ne kadar olacağını ve
+
+152
+00:11:51,700 --> 00:11:57,240
+başarısız olma olasılığının ne kadar büyük olabileceğinin gerçekten farkındayız.
+
+153
+00:11:57,420 --> 00:12:01,000
+Dolayısıyla böyle bir konuda herhangi bir hırsımız YOK.
+
+154
+00:12:01,120 --> 00:12:06,140
+Hedefimiz, ilk iki Gothic oyunun iklimi ve hikayesini onurlandırmak,
+
+155
+00:12:06,380 --> 00:12:11,900
+aynı zamanda da Polonya'da ve dünyadaki yüzbinlerce takipçiye bu tadı yaşatmak.
+
+156
+00:12:12,140 --> 00:12:18,220
+Ekibimizde yapılan işlere hepimiz ortak bir ciddiyetle yaklaşıyoruz, herşeyden öte,
+
+157
+00:12:18,360 --> 00:12:23,400
+projeye inancımız ve Gothic'in ne kadar muhteşem bir oyun olduğuna dair mütabakatımız var.
+
+158
+00:12:23,980 --> 00:12:26,120
+Sizi bir şekilde destekleyebilir miyiz?
+
+159
+00:12:26,380 --> 00:12:32,280
+Bağışlar için gereken bütün linkler bu videonun açıklama kısmında bulunabilir.
+
+160
+00:12:32,480 --> 00:12:35,920
+Piranha Bytes'ın projenizden haberi var mı?
+
+161
+00:12:36,200 --> 00:12:38,640
+Bu soru karşımıza çıkıyor.
+
+162
+00:12:38,860 --> 00:12:44,880
+Şunu onaylayabiliriz ki Piranha Bytes'ın Facebook'taki resmi sayfası bizim sayfamızı beğeniyor,
+
+163
+00:12:45,140 --> 00:12:48,760
+bu da onların resmi yollardan bile ilgilerini gösterdikleri anlamına geliyor.
+
+164
+00:12:49,100 --> 00:12:54,340
+Ek olarak, projenin Gothic 3'teki hikaye ve yerlere el atmadığını söylemek isteriz,
+
+165
+00:12:54,340 --> 00:13:01,620
+çünkü eklentimizin bütün hikayesi yanlızca Gothic 1 ve Gothic 2'nin ilkelerine yöneliktir.
+
+166
+00:13:03,040 --> 00:13:07,520
+Ve bunlar sizlerin sıkça sorduğu soruların yanıtlarıydı.
+
+167
+00:13:07,820 --> 00:13:11,740
+Eğer bu olağanüstü projeden devamlı haberdar olmak istiyorsanız, sizleri
+
+168
+00:13:11,900 --> 00:13:16,220
+YouTube kanalımıza abone olmaya ve resmi sosyal medya hesaplarımızı takip etmeye teşvik ediyoruz!
+
+169
+00:13:16,440 --> 00:13:22,500
+Sizleri içtenlikle yorum kısmına Gothic ile alakalı hikaye ve hatıralarınızı yazmaya davet ediyoruz.
+
+170
+00:13:22,780 --> 00:13:28,400
+Hepimize ilgi çekici geleceğinden eminiz, özellikle Gothic'in dünya çapında
+
+171
+00:13:28,400 --> 00:13:32,620
+popülerliğinden tam haberdar olmayan Polonyalı takipçilerine.
+
+172
+00:13:32,900 --> 00:13:34,500
+Lütfen, bizi şaşırtın!
+
+173
+00:13:34,860 --> 00:13:40,320
+Sizden, Gothic'in takipçilerinden daha fazlasına ulaşabilmemiz için bir isteğimiz de var:
+
+174
+00:13:40,460 --> 00:13:46,080
+Lütfen, kendi ülkenizdeki Gothic hayranlarına projemizden her anlamda bahsedin!
+
+175
+00:13:46,640 --> 00:13:52,060
+Bu videonun İngilizce'ye çevirisini hazırlayan Bartosz Biały'ye çok teşekkürler.
+
+176
+00:13:52,420 --> 00:13:56,060
+Kendisi aynı zamanda şu anki bütün çevirilerden de sorumlu.
+
+177
+00:13:58,100 --> 00:14:02,280
+Büyük bir teşekkür de Alman çevirilerinde düzeltme yapan, "ThielHater" olarak da tanınan Pierre'e,
+
+178
+00:14:02,440 --> 00:14:10,140
+kendisi bizim kadar Myrthana dünyasının hayranı, ve "Gothic Reloaded Mod" için yıllarca çalıştı.
+
+179
+00:14:10,480 --> 00:14:15,520
+Bu değişimin amaçlarından bir tanesi de Gothic 1'in görsel detayını 2001'deki Mine Valley'in
+
+180
+00:14:15,529 --> 00:14:22,579
+orijinal atmosferini de %100 tutarak
+
+181
+00:14:22,580 --> 00:14:25,180
+olabildiğince geliştirmek.
+
+182
+00:14:25,740 --> 00:14:34,180
+Birlikteliğimiz, Pierre'in 2010'da Old Camp'ın tekrar modellenmiş ve daha detaylı halini bizimle paylaşmasıyla başladı.
+
+183
+00:14:34,480 --> 00:14:38,060
+Proje şu anda final geliştirme aşamalarında.
+
+184
+00:14:38,260 --> 00:14:43,460
+Oynanabilir ilk bölümlü halinin demosu, resmi internet sitesinden indirilebilir.
+
+185
+00:14:43,680 --> 00:14:47,180
+Özelde, Pierre profesyonel yazılımcı olarak çalışıyor.
+
+186
+00:14:47,360 --> 00:14:50,320
+Onun ve ekibinin etkisi tek kelimeyle mükemmel!
+
+187
+00:14:50,540 --> 00:14:55,100
+Onların projesine göz atmanızı öneriyoruz, ve teşekkürler Pierre, herşey için!
+
+188
+00:14:55,320 --> 00:14:57,800
+Bütün Almanlara sevgiler.
+
+189
+00:15:14,260 --> 00:15:19,980
+Ancak, en büyük teşekkürler Polakça bütün uyarlamayı direkt olarak Almanca'ya 
+
+190
+00:15:20,180 --> 00:15:24,640
+çeviren Jakub Masztakowski ve Tomasz Rutkowski'ye!
+
+191
+00:15:24,820 --> 00:15:28,980
+Rusça çeviri için başka bir teşekkür de Dmitriy Kovchenko'ya,
+
+192
+00:15:29,160 --> 00:15:37,220
+kendisi Gothic Sequel videosunun çevirisinden sorumluydu ve aynı zamanda Russian VKontakte'deki profilimizi yürütmede bize yardımcı oluyor.
+
+193
+00:15:37,720 --> 00:15:42,360
+Aynı zamanda büyük bir teşekkür de Konstantin “tyson90” Kulichyov ve Łukasz Wróbel'a,
+
+194
+00:15:42,540 --> 00:15:47,380
+onlar da uyarlamayı Polakça'dan Rusçaya çevirdiler!
+
+195
+00:15:47,800 --> 00:15:53,320
+Bu arada, VK'daki bütün takipçileri profilimize göz atmaya davet ediyoruz.
+
+196
+00:16:07,400 --> 00:16:11,680
+İtalyanca çevirisi için Gothic Italia'ya büyük teşekkürler.
+
+197
+00:16:11,900 --> 00:16:15,420
+Leonardo'nun liderliği altında harika işler yapıyorlar.
+
+198
+00:16:15,720 --> 00:16:20,120
+Daha önceden de bahsettiğimiz gibi, Community Story Project, Quest Pack ve Content Mod gibi
+
+199
+00:16:20,120 --> 00:16:25,200
+projelerin İtalyanca'ya çevirisinden de onlar sorumluydular.
+
+200
+00:16:25,440 --> 00:16:33,140
+Aynı zamanda bütün videoların ve ileride History of Khorinis'in bütün çevirilerinden de onlar sorumlu.
+
+201
+00:16:33,400 --> 00:16:37,300
+Ayrıca, büyük ihtimalle Gothic'in bizden daha büyük hayranlarılar.
+
+202
+00:16:37,560 --> 00:16:43,400
+Bunun da kanıtı onların oyunun Polakça versiyonuyla ilişkili olan Andrzej Tomecki ile alakalı
+
+203
+00:16:43,580 --> 00:16:46,240
+dökümantasyon filmini bile çevirdikleridir!
+
+204
+00:16:46,440 --> 00:16:54,140
+Dark — ekibimizin lideri — her yıl birkaç defa İtalya'yı ziyaret ediyor ve sizi bir dahaki sefere biraya davet ediyor!
+
+205
+00:16:58,760 --> 00:17:03,320
+Sırpça çeviri için Darchy “Darko” Soyer'a borçluyuz.
+
+206
+00:17:03,580 --> 00:17:12,360
+Darko daha önce Community Story Project ve Gothic 3 gibi devasa projelerin texture işçiliğinde çalışmış yetenekli bir görsel tasarımcı.
+
+207
+00:17:12,620 --> 00:17:18,760
+Onun çevirileri sayesinde videolarımız, yanlızca Sırplar tarafından değil, aynı zamanda
+
+208
+00:17:18,760 --> 00:17:24,040
+eski Yugoslavya Cumhuriyeti vatandaşları - Slovenyalılar, Hırvatlar ve Bosnalılar tarafından da izlenebiliyor.
+
+209
+00:17:27,740 --> 00:17:32,560
+Çekçe çeviri için Filip "tonyskate" Richter'a büyük teşekkürler,
+
+210
+00:17:32,880 --> 00:17:36,100
+kendisi aynı zamanda GothiCZ.net'in bir moderatorü.
+
+211
+00:17:39,580 --> 00:17:45,660
+Romence çeviri için Ohnedich, Losif Alexandru ve Mircrea Enache'ye büyük teşekkürler,
+
+212
+00:17:45,880 --> 00:17:50,340
+kendileri aynı zamanda "Intrusion" isimli projenin çevirisin sahibiydiler.
+
+213
+00:17:54,740 --> 00:18:01,600
+İspanyolca çeviri için ayrıca Carlos Fernandez'e teşekkürler, kendisi aynı zamanda Lord Saradoc'un yayınlarında moderatör!
+
+214
+00:18:12,640 --> 00:18:16,200
+Letonca çevirisi için Uldis Gailis ve Norberts Dukurs'a da teşekkürler.
+
+215
+00:18:18,860 --> 00:18:23,720
+Arkadiusz Woźniak'tan ve History of Khorinis ekibinden sevgilerle.
+
+216
+00:18:24,160 --> 00:18:26,960
+Innos sizi koruyup kollasın!
+
+217
+00:18:53,440 --> 00:18:58,620
+Yöneten ve düzenleyen
+Piotr Czołnowski ve Mateusz Pawłowski
+
+218
+00:18:58,860 --> 00:19:02,020
+Sesler
+Szymon Nawrocki
+
+219
+00:19:02,320 --> 00:19:05,960
+Çeviri Koordinatörü: Szymon Żak
+Narrator: Arkadiusz Woźniak
+
+220
+00:19:06,120 --> 00:19:11,320
+Ayrıca teşekkürler:
+Krystian Ogonowski, Szymon Żak,
+Michał Wiśniewski ve Mateusz Iwanek
+
+221
+00:19:15,740 --> 00:19:17,740
+İngilizce alt-yazılar Bartosz Biały ve Szymon Żak tarafından yapıldı.
+
