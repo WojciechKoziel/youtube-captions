@@ -1,5 +1,8 @@
 # The History of Khorinis - captions of YouTube [channel](https://www.youtube.com/c/dziejekhorinismod) videos
 
+## [AKTOR Andrzej Gawroński 'Deckard Cain' - GOTHIC II DK | Film dokumentalny](https://www.youtube.com/watch?v=gxqIevNcAd4)
+* [English](gawronski/gawronski-en.srt)
+
 ## [GOTHIC IS BACK! The HISTORY of KHORINIS](https://www.youtube.com/watch?v=9F3_k5cBDq0)
 * [Polish](q&a/q&a-pl.srt)
 * [English](q&a/q&a-en.srt)
