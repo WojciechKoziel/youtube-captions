@@ -18,6 +18,8 @@
 * [Hungarian](q&a/q&a-hu.srt) by **Forró Norbert**
 * [Slovak](q&a/q&a-sl.srt) by **Marek33** & **Frosty98**
 * [Turkish](q&a/q&a-tu.srt) by **["Ali Kara"](mailto:smomovic@gmail.com)**
+* [Croatian](q&a/q&a-hr.srt) by **[Joanna Wentland](mailto:asia@kseroplast.pl)**
+* [Dutch](q&a/q&a-nl.srt) by **[Max Frijns](mailto:max.frijns@gmail.com)**
 
 ## [Krwawa Kompania - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=EWjxMZIeLjY)
 * [Polish](kompania/kompania-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
