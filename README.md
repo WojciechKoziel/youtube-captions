@@ -7,10 +7,10 @@
 ## [GOTHIC IS BACK! The HISTORY of KHORINIS](https://www.youtube.com/watch?v=9F3_k5cBDq0)
 * [Polish](q&a/q&a-pl.srt)
 * [English](q&a/q&a-en.srt)
-* [German](q&a/q&a-de.srt) by **Jakub Masztakowski** & **Tomasz Rutkowski** & **Pierre Beckmann**
-* [Russian](q&a/q&a-ru.srt) by **Konstantin Kuliczow** & **Łukasz Wróbel** & **Szymon Żak**
-* [Italian](q&a/q&a-it.srt) by **Enrico Blasoni**
-* [Romanian](q&a/q&a-ro.srt) by **Andrei Florin**
+* [German](q&a/q&a-de.srt) by **[Jakub Masztakowski](https://www.facebook.com/jakub.masztakowski.1)** & **[Tomasz Rutkowski](https://www.facebook.com/tomek.rutkowski.1800)** & **Pierre Beckmann**
+* [Russian](q&a/q&a-ru.srt) by **[Konstantin Kuliczow](mailto:kostek.website@gmail.com)** & **[Łukasz Wróbel](https://vk.com/kangur007)** & **[Szymon Żak](http://szymonzak.pl)**
+* [Italian](q&a/q&a-it.srt) by **[Enrico Blasoni](https://www.facebook.com/enrico.blasoni)**
+* [Romanian](q&a/q&a-ro.srt) by **[Andrei Florin](https://www.facebook.com/Lelmateimnotproudofyou)**
 * [Czech](q&a/q&a-cz.srt) by **Filip Richter**
 * [Serbian](q&a/q&a-srb.srt) by **Darko Socher**
 * [Spanish](q&a/q&a-sp.srt) by **Carlos Fernández**
@@ -38,7 +38,7 @@
 * [Spanish](tomecki-studio/tomecki-studio-sp.srt) by [**Wojciech Koziel**](mailto:wkoziel3@gmail.com)
 * [Russian](tomecki-studio/tomecki-studio-ru.srt) by [**Łukasz Wróbel**](mailto:idkfa007@gmail.com)
 * [German](tomecki-studio/tomecki-studio-de.srt) by **Patrick Holubarz**
-* [Romanian](tomecki-studio/tomecki-studio-ro.srt) by **Marius 'sykaTHEoNe' Sirbu**
+* [Romanian](tomecki-studio/tomecki-studio-ro.srt) by **[Marius 'sykaTHEoNe' Sirbu](https://www.facebook.com/sykaTHEoNe?ref=br_rs)**
 
 ## [ACTOR Andrzej 'Greg' Tomecki - Gothic II The History of Khorinis - Documentary ](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
 * [Polish](tomecki/tomecki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
