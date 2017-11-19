@@ -2,6 +2,7 @@
 
 ## [AKTOR Andrzej Gawroński 'Deckard Cain' - GOTHIC II DK | Film dokumentalny](https://www.youtube.com/watch?v=gxqIevNcAd4)
 * [English](gawronski/gawronski-en.srt)
+* [Italian](gawronski/gawronski-it.srt) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/)
 
 ## [GOTHIC IS BACK! The HISTORY of KHORINIS](https://www.youtube.com/watch?v=9F3_k5cBDq0)
 * [Polish](q&a/q&a-pl.srt)
@@ -26,14 +27,14 @@
 * [English](kompania/kompania-en.sbv) by **[Radosław Rak](https://www.facebook.com/Radek.Revo.Rak)** & [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [German](kompania/kompania-ge.sbv) by **[Tomasz Rutkowski](https://www.facebook.com/tomek.rutkowski.1800)** & **[Dawid Szpilka](https://www.facebook.com/tomek.rutkowski.1800)**
 * [Russian](kompania/kompania-ru.sbv) by **[Тлучкевич "Tiber" Артём (Tluchkevich "Tiber" Artem)](https://www.youtube.com/user/artemtluchkevich)**
-* [Italian](kompania/kompania-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
+* [Italian](kompania/kompania-it.sbv) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 * [Romanian](kompania/kompania-ro.sbv) by **Debucean Caius**
 * [Czech](kompania/kompania-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 
 ## [TORREZ i nie tylko - Gothic II Dzieje Khorinis - Andrzej Tomecki](https://www.youtube.com/watch?v=jarXyWleCDc)
 * [Polish](tomecki-studio/tomecki-studio-pl.srt) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki-studio/tomecki-studio-en.srt) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
-* [Italian](tomecki-studio/tomecki-studio-it.srt) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
+* [Italian](tomecki-studio/tomecki-studio-it.srt) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 * [Spanish](tomecki-studio/tomecki-studio-sp.srt) by [**Wojciech Koziel**](mailto:wkoziel3@gmail.com)
 * [Russian](tomecki-studio/tomecki-studio-ru.srt) by [**Łukasz Wróbel**](mailto:idkfa007@gmail.com)
 * [German](tomecki-studio/tomecki-studio-de.srt) by **Patrick Holubarz**
@@ -42,7 +43,7 @@
 ## [AKTOR Andrzej 'Greg' Tomecki - Gothic II Dzieje Khorinis - Film Dokumentalny](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
 * [Polish](tomecki/tomecki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki/tomecki-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com) & [**Szymon Żak**](http://szymonzak.pl)
-* [Italian](tomecki/tomecki-it.srt) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Alesandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
+* [Italian](tomecki/tomecki-it.srt) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Alesandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 
 ## [ANULOWANY OFICJALNY DODATEK DO GOTHIC 1 - Gothic Sequel](https://www.youtube.com/watch?v=SS_RRuNCe6Y)
 * [Polish](sequel/sequel-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
@@ -52,13 +53,13 @@
 * [Serbian](sequel/sequel-se.sbv) by **[Darko "Darchy" Socher](mailto:ddarchy@yahoo.com)**
 * [Romanian](sequel/sequel-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
 * [Czech](sequel/sequel-cz.sbv) by **[Filip ‘tonyskate‘ Richter](mailto:Tonyskate@seznam.cz)**
-* [Italian](sequel/sequel-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
+* [Italian](sequel/sequel-it.sbv) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 
 ## [NIEZNANE GOTHICOWE CIEKAWOSTKI + Fabularne FAQ Dziejów Khorinis](https://www.youtube.com/watch?v=vnoVmUTamXM)
 * [Polish](ciekawostki-faq/faq-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](ciekawostki-faq/faq-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [Russian](ciekawostki-faq/faq-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) & [**Szymon Żak**](http://szymonzak.pl)
-* [Italian](ciekawostki-faq/faq-it.sbv) by [Piranha Bytes Italia](https://www.facebook.com/groups/staffrisenitalia) ([**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone), [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Domenico "Zorinik" Giambra**](https://www.facebook.com/Zorinik). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
+* [Italian](ciekawostki-faq/faq-it.sbv) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Alessandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone), [**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Domenico "Zorinik" Giambra**](https://www.facebook.com/Zorinik). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 * [Romanian](ciekawostki-faq/faq-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
 * [Czech](ciekawostki-faq/faq-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 
