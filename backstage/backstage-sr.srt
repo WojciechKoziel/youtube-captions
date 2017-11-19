@@ -1,0 +1,1044 @@
+1
+00:00:25,140 --> 00:00:29,120
+Pozdrav! Arkadiusz ‘Arkadikuss’ Woźniak je ovde!
+
+2
+00:00:29,120 --> 00:00:32,300
+U ovom materijalu obrazložiti ćemo
+
+3
+00:00:32,300 --> 00:00:35,100
+kako tačno funkcioniše SoulFire tim
+
+4
+00:00:35,100 --> 00:00:38,080
+i kako se Istorija Khorinisa proizvodi.
+
+5
+00:00:38,080 --> 00:00:42,040
+Video je stvoren kao odgovor
+
+6
+00:00:42,040 --> 00:00:45,820
+na vaša pitanja o procesu stvaranja i upravljanja projektom.
+
+7
+00:00:45,820 --> 00:00:47,960
+Vi nas zaista inspirišete,
+
+8
+00:00:47,960 --> 00:00:50,640
+na čemu smo vam veoma zahvalni!
+
+9
+00:00:50,640 --> 00:00:52,780
+U ovom materijalu ćemo vam objasniti
+
+10
+00:00:52,780 --> 00:00:56,360
+kako upravljamo našim radom u svakoj diviziji projekta:
+
+11
+00:00:56,360 --> 00:00:59,300
+Divizija za razvoj igre, odgovorna za proizvodnju Istorije Khorinisa,
+
+12
+00:00:59,300 --> 00:01:02,740
+Video odeljenje, koje vam pretstavlja video materijal vezan za ovu modifikaciju
+
+13
+00:01:02,740 --> 00:01:05,160
+i održava naš YouTube kanal,
+
+14
+00:01:05,160 --> 00:01:09,260
+i na kraju, ali ne i poslednje, Odeljenje za dabing koje je fokusirano na produkciju zvuka.
+
+15
+00:01:09,260 --> 00:01:13,020
+Ponekad naša objašnjenja mogu biti pojednostavljena
+
+16
+00:01:13,020 --> 00:01:15,100
+ali naš glavni cilj je da osiguramo
+
+17
+00:01:15,100 --> 00:01:17,680
+da je SVE jasno shvaćeno
+
+18
+00:01:17,680 --> 00:01:20,060
+od strane SVAKE OSOBE koja gleda video.
+
+19
+00:01:20,060 --> 00:01:22,260
+A sada, sa svim rečenim, 
+
+20
+00:01:22,260 --> 00:01:24,160
+da počnemo!
+
+21
+00:01:24,160 --> 00:01:26,460
+Kao prvo, moramo istaći
+
+22
+00:01:26,460 --> 00:01:31,120
+da su Divizija za razvoj igre i Video divizija
+
+23
+00:01:31,120 --> 00:01:34,360
+dve ODVOJENE podgrupe jednog tima,
+
+24
+00:01:34,360 --> 00:01:38,660
+sa veoma različitim zadacima i ciljevima.
+
+25
+00:01:38,660 --> 00:01:44,900
+Što se njihovih poslova tiče, on nisu ni najmanje povezani jedan sa drugim.
+
+26
+00:01:44,900 --> 00:01:47,340
+Da postavimo stvari ovako:
+
+27
+00:01:47,340 --> 00:01:49,980
+upoznajte Szimona i Mateusza.
+
+28
+00:01:49,980 --> 00:01:52,160
+Szimon je programer
+
+29
+00:01:52,160 --> 00:01:54,820
+a Mateusz zna kako da edituje video zapise.
+
+30
+00:01:54,820 --> 00:01:57,620
+Pošto su njihove veštine različite, nema smisla
+
+31
+00:01:57,620 --> 00:02:00,140
+forsirati Mateusza da radi na razvoju modifikacije,
+
+32
+00:02:00,140 --> 00:02:02,240
+a Szimona da edituje video materijal.
+
+33
+00:02:02,240 --> 00:02:07,000
+Ipak, jedna kao i druga, Divizija za razvoj igre i Video divizija su ujedinjene pod banerom SoulFire tima.
+
+34
+00:02:07,000 --> 00:02:09,720
+Oba odeljenja podržavaju naš tim na sebi svojstven način:
+
+35
+00:02:09,720 --> 00:02:15,800
+Divizija za razvoj igre proizvodi samu igru, dok Video divizija stvara video materijal povezan sa kompletnim projektom.
+
+36
+00:02:15,800 --> 00:02:19,560
+Pošto smo primili mnoga pitanja koja se tiču ovoga
+
+37
+00:02:19,560 --> 00:02:23,640
+odlučili smo da u ovom videu jasno obrazložimo obrazac našeg rad.
+
+38
+00:02:23,640 --> 00:02:26,700
+Pregledajući sekciju komentara na našim YouTube i Facebook profilima, primetili smo 
+
+39
+00:02:26,700 --> 00:02:32,560
+da neke od vas interesuje iz kog razloga pravimo dokumentarne filmove o starijim glumcima.
+
+40
+00:02:32,560 --> 00:02:36,280
+Moramo vas podsetiti da svi ovi glumci
+
+41
+00:02:36,280 --> 00:02:39,440
+pomažu projekat potpuno BESPLATNO i IZ SOPSTVENE LJUBAZNOSTI!
+
+42
+00:02:39,440 --> 00:02:44,960
+Molimo shvatite da smo ih mogli pitati da samo "odglume" glasove za mod, ali to nije ono što smo želeli.
+
+43
+00:02:44,960 --> 00:02:48,980
+Želimo da odamo počast njihovom teškom radu u obliku ovih dokumentaraca,
+
+44
+00:02:48,980 --> 00:02:52,880
+i želimo to da uradimo za njihovog života.
+
+45
+00:02:52,880 --> 00:02:57,740
+Sve što su učinili za ovaj projekat, učinili su dobrovoljno, iz čiste ljubaznosti.
+
+46
+00:02:57,740 --> 00:03:00,600
+Naše namere su 100% čiste,
+
+47
+00:03:00,600 --> 00:03:04,240
+i ne možete očekivati od nas da objektivizujemo ove veličanstvene glumce. 
+
+48
+00:03:04,240 --> 00:03:07,160
+Štaviše, podsećamo vas da je Istorija Khorinisa neprofitabilni projekat
+
+49
+00:03:07,160 --> 00:03:10,780
+i mi ne možemo priuštiti plaćanje glumaca za dabing.
+
+50
+00:03:10,780 --> 00:03:15,440
+Vredi napomenuti da neki od starijih, na primer g. Tomecki,
+
+51
+00:03:15,440 --> 00:03:18,520
+više ne glume u kompjuterskim igrama. 
+
+52
+00:03:18,520 --> 00:03:20,780
+On iskrano priznaje
+
+53
+00:03:20,780 --> 00:03:24,380
+da odbija svaki predlog za komercijalni dabing
+
+54
+00:03:24,380 --> 00:03:27,560
+već duži niz godina.
+
+55
+00:03:27,560 --> 00:03:32,040
+Shvatamo, naravno, da neki ljudi možda ne uživaju u ovim video snimcima,
+
+56
+00:03:32,040 --> 00:03:35,200
+i zainteresovani su samo za igranje Istorije Khorinisa.
+
+57
+00:03:35,200 --> 00:03:40,160
+Kojeg god stanovišta da ste, molimo vas razumite
+
+58
+00:03:40,160 --> 00:03:45,580
+da vam ovi video zapisi i naš rad na njima omogućavaju igranje igre sa neverovatnom glasovnom glumom,
+
+59
+00:03:45,580 --> 00:03:50,320
+što će samo poboljšati igru i vaše iskustvo u igri.
+
+60
+00:03:50,320 --> 00:03:56,880
+Zato očekujemo vaše uvažavanje i respekt za taj deo snimanja i glume našeg tima.
+
+61
+00:03:56,880 --> 00:04:00,420
+Video klipovi se kreiraju i po vašim zahtevima,
+
+62
+00:04:00,420 --> 00:04:04,180
+i dok god želite i uživate u njima,
+
+63
+00:04:04,180 --> 00:04:06,880
+njihova proizvodnja ima smisla.
+
+64
+00:04:06,880 --> 00:04:09,180
+Podela rada
+
+65
+00:04:09,180 --> 00:04:11,680
+Rad na Istoriji Khorinisa rukovodi vođa tima,
+
+66
+00:04:11,680 --> 00:04:16,360
+on se bavi doslednošću projekta i njegovim umetničkim menadžmentom u Odeljenju razvoja igre,
+
+67
+00:04:16,360 --> 00:04:21,200
+te nadgleda proces usmeravanja odeljenja za Video i Dabing.
+
+68
+00:04:21,200 --> 00:04:24,060
+Sada, kao što smo obećali, detaljnije ćemo pokriti sve sekcije našeg tima.
+
+69
+00:04:24,060 --> 00:04:26,020
+Odeljenje za razvoj igre
+
+70
+00:04:26,020 --> 00:04:30,080
+Odeljenje za razvoj igre je podeljeno u nekoliko podgrupa
+
+71
+00:04:30,080 --> 00:04:31,920
+programeri, scenaristi,
+
+72
+00:04:31,920 --> 00:04:34,020
+grafički i level dizajneri.
+
+73
+00:04:34,020 --> 00:04:36,280
+Svima njima rukovode različiti kooridnatori,
+
+74
+00:04:36,280 --> 00:04:40,820
+koji vode i organizuju posao samo unutar njihove podgrupe tima.
+
+75
+00:04:40,820 --> 00:04:45,480
+Nekada, dok se SoulFire team sastojao od šačice ljudi, radni poredak je bio sledeći,
+
+76
+00:04:45,480 --> 00:04:49,460
+a vođa tima je direktno koordinirao svačiji rad.
+
+77
+00:04:49,460 --> 00:04:52,600
+Ali, kako je projekat dobijao na veličini,
+
+78
+00:04:52,600 --> 00:04:55,400
+broj članova tima se multiplicirao,
+
+79
+00:04:55,400 --> 00:05:00,020
+i druge stavke su se pojavile, kao što su video materijali i glasovna gluma.
+
+80
+00:05:00,020 --> 00:05:04,360
+Sistem koordinatora se pokazao više efikasnim i od tada primenjujemo ovaj metod rada.
+
+81
+00:05:04,360 --> 00:05:08,280
+Kordinatori su ti koji održavaju projakat,
+
+82
+00:05:08,280 --> 00:05:14,440
+a tempo našeg rada zavisi od načina kojim oni upravljaju raspodelom zadataka među ostalim članovima tima.
+
+83
+00:05:14,440 --> 00:05:17,900
+Često ima toliko zadataka za distribuciju,
+
+84
+00:05:17,900 --> 00:05:22,000
+da ovaj posao zauzima najveći deo njihovog vremena posvećenog projektu.
+
+85
+00:05:22,000 --> 00:05:23,920
+Obaveze koordinatora su takođe
+
+86
+00:05:23,920 --> 00:05:29,300
+da sakuplja sve delove koje su članovi tima dostavili, 
+
+87
+00:05:29,300 --> 00:05:33,380
+i da sarađuje sa koordinatorima drugih podgrupa Divizije za razvoj igara.
+
+88
+00:05:33,380 --> 00:05:37,700
+Koordinatori gotovo da rade puno radno vreme.
+
+89
+00:05:37,700 --> 00:05:41,960
+Upravljanje tako velikim timom
+
+90
+00:05:41,960 --> 00:05:45,440
+zahteva od njih stalnu dostupnost,
+
+91
+00:05:45,440 --> 00:05:48,000
+barem putem telefona. 
+
+92
+00:05:48,000 --> 00:05:50,340
+Njihova dostupnost je krucijalna u situacijama
+
+93
+00:05:50,340 --> 00:05:55,000
+gde neko potrbuje informacije koje se tiču problema određene podgrupe
+
+94
+00:05:55,000 --> 00:05:57,940
+ili kada se novi zadaci distribuiraju između članova tima.
+
+95
+00:05:57,940 --> 00:06:00,380
+S' druge strane,
+
+96
+00:06:00,380 --> 00:06:03,060
+oni rade samo u slobodno vreme.
+
+97
+00:06:03,060 --> 00:06:07,980
+sklapanje fajlova projekta moguće je zahvaljujući sistemu kontrole verzija Git,
+
+98
+00:06:07,980 --> 00:06:10,620
+koji je popularan alat korišćen za internet projekte.
+
+99
+00:06:10,620 --> 00:06:15,000
+On omogućava svim članovima tima - programerima, grafičkim dizajnerima i scenaristima - 
+
+100
+00:06:15,000 --> 00:06:17,500
+da otpremaju datoteke u kolektivno spremište.
+
+101
+00:06:17,500 --> 00:06:20,700
+Sve je organizovano u foldere i kategorije.
+
+102
+00:06:20,700 --> 00:06:23,120
+Zadatak sastavljanja svih fajlova zajedno, zatim,
+
+103
+00:06:23,120 --> 00:06:25,780
+ne leži samo na plećima jedne osobe.
+
+104
+00:06:25,780 --> 00:06:32,160
+Štaviše, koordinator programera je napravio poseban alat koji omogućava sastavljanje same igre.
+
+105
+00:06:32,160 --> 00:06:36,660
+Svaki član tima koji poseduje program
+
+106
+00:06:36,660 --> 00:06:40,960
+može pristupiti ažuriranju Istorije Khorinisa u bilo kojem trenutku  
+
+107
+00:06:40,960 --> 00:06:43,260
+i igrati poslednju verziju igre,
+
+108
+00:06:43,260 --> 00:06:49,040
+čak iako su podaci modifikovani samo nekoliko minuta ranije.
+
+109
+00:06:49,040 --> 00:06:51,340
+Kompletan sistem je zaista revolucionaran.
+
+110
+00:06:51,340 --> 00:06:54,740
+Do sada, jedini Gothic mod koji je koristio sličan alat napravljen isključivo za potrebe projekta
+
+111
+00:06:54,740 --> 00:06:58,520
+bio Gothic: Reloaded Mod -
+
+112
+00:06:58,520 --> 00:07:01,000
+jedino što je taj alat bio dosta jednostavniji.
+
+113
+00:07:09,180 --> 00:07:13,860
+Ideja za alat bazirana je na internim bildovima nekih razvojnih studija
+
+114
+00:07:13,860 --> 00:07:18,480
+i da budem iskren, samo zahvaljujući ovom alatu smo u mogućnosti da držimo fajlove same igre urednim
+
+115
+00:07:18,480 --> 00:07:22,900
+i održimo efikasnost sistema rada na ovako složenom projektu.
+
+116
+00:07:22,900 --> 00:07:26,440
+Mnogi ljudi nas pitaju da li se svi timovi Istorije Khorinisa
+
+117
+00:07:26,440 --> 00:07:30,340
+sastoje od profesionalaca iz oblasti I.T.-a ili elektronske zabave.
+
+118
+00:07:30,340 --> 00:07:31,660
+Mi odgovaramo:
+
+119
+00:07:31,660 --> 00:07:34,660
+nije svaka osoba u timu profesionalac.
+
+120
+00:07:34,660 --> 00:07:37,480
+Tim je mnogo sličan Babelovoj kuli.
+
+121
+00:07:37,480 --> 00:07:41,500
+Projekat okuplja ljude koji rade kao profesionalni grafički dizajneri
+
+122
+00:07:41,500 --> 00:07:43,580
+kao i amatere koji poseduju dovoljno veštine
+
+123
+00:07:43,580 --> 00:07:47,940
+da nam pomognu oko moda.
+
+124
+00:07:47,940 --> 00:07:50,760
+Profesionalci su ovde u manjini,
+
+125
+00:07:50,760 --> 00:07:55,860
+bilo bi praktično nemoguće sastaviti neprofitni tim koji se sastoji isključivo od profesionalaca.
+
+126
+00:07:55,860 --> 00:07:58,940
+I to je slučaj sa svim podgrupama projekta.
+
+127
+00:07:58,940 --> 00:08:01,360
+Štaviše, obično su neprofesionalci ti
+
+128
+00:08:01,360 --> 00:08:04,220
+koji mogu više vremena posvetiti projektu,
+
+129
+00:08:04,220 --> 00:08:06,740
+te nam omogućavaju da održimo dobar radni tempo.
+
+130
+00:08:06,740 --> 00:08:08,940
+Rad na ovakvom projektu
+
+131
+00:08:08,940 --> 00:08:11,720
+je takođe sjana prilika za ljude koji razmišljaju o tome da postanu pro
+
+132
+00:08:11,720 --> 00:08:16,140
+u razvoju igara ili I.T. industriji.
+
+133
+00:08:16,140 --> 00:08:19,500
+Tako članovi tima mogu pomoći jedni drugima da razvijaju svoje veštine.
+
+134
+00:08:19,500 --> 00:08:21,640
+U timu možete pronaći sve vrste ljudi:
+
+135
+00:08:21,640 --> 00:08:26,880
+učenike škola, studente tehničkih i grafičkih univerziteta, kao i profesionalce.
+
+136
+00:08:26,880 --> 00:08:29,140
+Dodatno, želimo da istaknemo
+
+137
+00:08:29,140 --> 00:08:31,840
+da mi NE funkcionišemo kao profesionalni razvojni studio,
+
+138
+00:08:31,840 --> 00:08:34,040
+niti ćemo ikada biti jedan.
+
+139
+00:08:34,040 --> 00:08:38,380
+Pošto smo rasuti po čitavoj zemlji, projekat je rađen online
+
+140
+00:08:38,380 --> 00:08:40,920
+te se ne može smatrati full-time profesionalnim poslom.
+
+141
+00:08:40,920 --> 00:08:44,640
+Kao i u svakoj kompaniji, ponekad se događaju sukobi i sporovi.
+
+142
+00:08:44,640 --> 00:08:49,760
+Razlika je u tome što niko ovde nije plaćen za svoj naporan rad, 
+
+143
+00:08:49,760 --> 00:08:52,000
+a zato što se projekat odvija daljinski,
+
+144
+00:08:52,000 --> 00:08:55,720
+često moramo improvizovati kako bismo postigli željene ciljeve.
+
+145
+00:08:55,720 --> 00:08:58,740
+Ponekad se morate savijati unazad kako biste ispravili stvari.
+
+146
+00:08:58,740 --> 00:09:01,260
+Još jedan fenomen sa kojim se tim mora nositi
+
+147
+00:09:01,260 --> 00:09:06,360
+je rotacija osoblja, što ometa razvoj mnogih neprofitnih projekata.
+
+148
+00:09:06,360 --> 00:09:09,100
+Naravno, ljudi imaju svoje poslove i odgovornosti,
+
+149
+00:09:09,100 --> 00:09:13,060
+što je razlog zašto nekima ponekad treba slobodnog vremena,
+
+150
+00:09:13,060 --> 00:09:15,720
+dok drugi moraju trajno da napuste projekat.
+
+151
+00:09:15,720 --> 00:09:21,140
+Kada se to desi, drugi ljudi iz tima moraju preuzeti odbaveze odsustne osobe.
+
+152
+00:09:21,140 --> 00:09:24,200
+Rotacija osoblja je jedan od razloga
+
+153
+00:09:24,200 --> 00:09:27,940
+zašto vam ne možemo dati niti tačan niti pretpostavljen datum pokretanja moda.
+
+154
+00:09:27,940 --> 00:09:33,260
+Uprkos činjenici da svakodnevno armija zapošljenih radi profesionalno na razvoju igre,
+
+155
+00:09:33,260 --> 00:09:37,680
+CD Projekt nisu uspeli da izdaju The Witcher 3 na vreme i imali su tromesečno kašnjenje.
+
+156
+00:09:37,680 --> 00:09:39,980
+Ako čak i profesionalni razvojni tim može pogrešno proceniti svoje mogućnosti 
+
+157
+00:09:39,980 --> 00:09:45,120
+ne bi bilo u redu da se očekuje preciznost od nas, entuzijasta koji rade na projektu samo u slobodno vreme.
+
+158
+00:09:45,120 --> 00:09:47,940
+Naravno, veličina našeg poduhvata nije u potpunosti ista.
+
+159
+00:09:47,940 --> 00:09:52,040
+Istorija Khorinisa nije AAA igra sa potpuno novim endžinom, kao što je to slučaj sa The Witcher.
+
+160
+00:09:52,040 --> 00:09:55,060
+To je samo ekstenzija postojeće igre Gothic,
+
+161
+00:09:55,060 --> 00:09:58,320
+ali problemi sa kojima se susrećemo tokom procesa razvoja Istorije Khorinisa
+
+162
+00:09:58,320 --> 00:10:01,900
+su često nezgodniji nego oni sa kojima se susreću profesionalni razvojni studiji.
+
+163
+00:10:01,900 --> 00:10:05,800
+Možemo samo računati na vreme i dobru volju članova tima,
+
+164
+00:10:05,800 --> 00:10:08,160
+koji, nakon svega ipak rade besplatno,
+
+165
+00:10:08,160 --> 00:10:12,360
+a da pritom ne pominjemo ograničanja Zengine-a,
+
+166
+00:10:12,360 --> 00:10:14,480
+pokretačke mašine igre Gothic.
+
+167
+00:10:14,480 --> 00:10:19,180
+Proces rada čitavog tima baziran je na pouzdanosti i uzajamnom poštovanju,
+
+168
+00:10:19,180 --> 00:10:21,460
+i verujemo da sve dok ih održavamo,
+
+169
+00:10:21,460 --> 00:10:25,060
+moći ćemo, lagano ali sigurno, postići naš glavni cilj.
+
+170
+00:10:25,060 --> 00:10:28,600
+To je to što se tiče Razvojne divizije našeg tima!
+
+171
+00:10:28,600 --> 00:10:31,840
+Video i glumačka divizija
+
+172
+00:10:31,840 --> 00:10:34,720
+Zbog toga što je njihova saradnja veoma bliska, obe grupe su koordinirane od strane direktora tima,
+
+173
+00:10:34,720 --> 00:10:40,620
+Odlučili smo da diskutujemo o obe podele istovremeno. 
+
+174
+00:10:40,620 --> 00:10:43,560
+Pored toga, postoje članovi SoulFire tima koji istovremeno pripadaju obema divizijama,
+
+175
+00:10:43,560 --> 00:10:46,220
+odnosno zvučnim tehničarima.
+
+176
+00:10:46,220 --> 00:10:49,780
+Pošto smo već govorili o zadacima video divizije u uvodu,
+
+177
+00:10:49,780 --> 00:10:52,820
+možemo samo dodati da smo zahvaljujući njihovim naporima
+
+178
+00:10:52,820 --> 00:10:57,860
+uspeli ostvariti saradnju sa Ministarstvom kulture i nacionalne baštine,
+
+179
+00:10:57,860 --> 00:11:01,800
+naime sa Poljskom Nacionalnom Filmskom Arhivom i Nacionalnim Audiovizuelnim Institutom
+
+180
+00:11:01,800 --> 00:11:04,140
+u okviru projekta "Seniori".
+
+181
+00:11:04,140 --> 00:11:07,980
+Ekipa Video divizije je odgovorna za stupanje u kontakt sa glumcima,
+
+182
+00:11:07,980 --> 00:11:11,520
+i zahvaljujući njima, mi možemo raditi sa toliko izuzetnih ljudi.
+
+183
+00:11:11,520 --> 00:11:15,580
+Oni vam takođe prikazuju kako rad na Istoriji Khorinisa izgleda
+
+184
+00:11:15,580 --> 00:11:19,060
+i proizvode druge audio-vizuelne materijale.
+
+185
+00:11:19,060 --> 00:11:21,720
+Video i Dabing divizije blisko sarađuju.
+
+186
+00:11:21,720 --> 00:11:26,220
+Dok prva od njih sprovodi proces snimanja glasa,
+
+187
+00:11:26,220 --> 00:11:31,820
+druga stavlja snimljeni materijal, dok zvučni tehničari radi individualno na svojim privatnim računarima.
+
+188
+00:11:31,820 --> 00:11:36,360
+Kada je reč o glasovnoj glumi, potrebno je pomenuti dve važne činjenice.
+
+189
+00:11:36,360 --> 00:11:39,660
+Prvo, gotovo svi akteri uključeni u projekat žive u glavnom gradu Poljske, Varšavi,
+
+190
+00:11:39,660 --> 00:11:44,720
+stoga se oko 95% sesija snimanja održava tamo.
+
+191
+00:11:44,720 --> 00:11:48,760
+Varšava je takođe mesto gde se nalazi studio za snimanje 'Start International Polska'. 
+
+192
+00:11:48,760 --> 00:11:51,960
+Tamo je snimana glasovna gluma za Gothic i Gothic II;
+
+193
+00:11:51,960 --> 00:11:56,520
+Pravo je malo čudo, činjnica da većina glumaca živi u toj oblasti.
+
+194
+00:11:56,520 --> 00:12:00,640
+Drugo, upravo sada snimamo samo glumce koji su trminalno bolesni,
+
+195
+00:12:00,640 --> 00:12:03,480
+u poodmaklom dobu, ili čiji su dijalozi već završeni,
+
+196
+00:12:03,480 --> 00:12:10,400
+što je slučaj sa nekim sporednim likovima u igri.
+
+197
+00:12:10,400 --> 00:12:14,080
+Većina snimanja će se obaviti samo nekoliko meseci pre pokretanja moda.
+
+198
+00:12:14,080 --> 00:12:19,440
+To se prvenstveno odnosi na glavne likove, 
+
+199
+00:12:19,440 --> 00:12:22,100
+čiji se dijalozi i dalje menjaju ili dodaju.
+
+200
+00:12:22,100 --> 00:12:26,880
+Međutim, probe za uloge protagonista igre sigurno će početi znatno ranije
+
+201
+00:12:26,880 --> 00:12:30,480
+tako da možemo odabrati najboljeg glumca za svakog lika.
+
+202
+00:12:30,480 --> 00:12:35,240
+Ne smemo zaboraviti na Kamil Jedrzejevski, našeg muzičkog kompozitora, koji takođe pripada zvučnom delu projekta. 
+
+203
+00:12:35,240 --> 00:12:39,660
+To je uglavnom sve što smo vam želeli reći o Video i glasovnoj glumi.
+
+204
+00:12:39,660 --> 00:12:44,300
+Četvrtu diviziju sačinjavaju ljudi koji podržavaju projekat na različite načine.
+
+205
+00:12:44,300 --> 00:12:47,460
+Na primer, administriramo zasebnu prevodilačku podgrupu.
+
+206
+00:12:47,460 --> 00:12:53,700
+Osim toga, postoje i ljudi odgovorni za e-poštu i Facebook profil, oni odgovaraju na vaše poruke.
+
+207
+00:12:53,700 --> 00:12:59,780
+Ovom prilikom toplo zahvaljujemo svim gorepomenutim osobama za njihovu neprocenjivu pomoć!
+
+208
+00:12:59,780 --> 00:13:03,060
+To je sve što trebate znati o našoj produkcijskoj grupi.
+
+209
+00:13:03,060 --> 00:13:06,760
+Trudili smo se da stvorimo najefikasniji, a istovremeno i najmanje apsorbujući sistem rada,
+
+210
+00:13:06,760 --> 00:13:11,060
+tako da ne gubimo ni vaše ni naše vreme.
+
+211
+00:13:11,060 --> 00:13:15,740
+Skromno se nadamo da će ovaj film rezrešiti sve vaše nedoumice,
+
+212
+00:13:15,740 --> 00:13:20,180
+bar što se tiče generalnog sistema organizacije rada na Istoriji Khorinisa.
+
+213
+00:13:20,180 --> 00:13:23,180
+Sa svim tim rečima, želimo da se obratimo
+
+214
+00:13:23,180 --> 00:13:27,880
+na vaše zahteve za više informacija o radnji Istorije Khorinisa.
+
+215
+00:13:27,880 --> 00:13:32,060
+U ovoj fazi produkcije namerno izbegavamo davanje previše detalja,
+
+216
+00:13:32,060 --> 00:13:36,880
+što je standardna procedura u razvojnoj industriji i ne bi trebalo da bude iznenađujuće. 
+
+217
+00:13:36,880 --> 00:13:43,380
+Naravno, možete očekivati i teaser ili prolog video pre nego što objavimo igru,
+
+218
+00:13:43,380 --> 00:13:46,060
+ali kreirati ih sada bilo bi besmisleno.
+
+219
+00:13:46,060 --> 00:13:51,240
+Kao najbolji primer kada se takve stvari trebaju objaviti služi igri Elex,
+
+220
+00:13:51,240 --> 00:13:55,120
+gde je prolog predstavljen samo nekoliko meseci pre nego što je igra puštena
+
+221
+00:13:55,120 --> 00:13:59,120
+kako bi se povećalo isčekivanje među igračima u odgovarajućem trenutku.
+
+222
+00:13:59,120 --> 00:14:02,420
+Po pitanju ove stvari zasigurno ćemo pratiti korake Piranha Bites-a.
+
+223
+00:14:02,420 --> 00:14:05,160
+Za sada vas molimo za strpljenje,
+
+224
+00:14:05,160 --> 00:14:09,720
+i ohrabrujete vas da pogledate kratak tizer na internet stranici našeg projekta.
+
+225
+00:14:09,720 --> 00:14:12,280
+Možete nam verovati po ovom pitanju,
+
+226
+00:14:12,280 --> 00:14:15,880
+jer smo često dokazivali 
+
+227
+00:14:15,880 --> 00:14:20,700
+da svoj posao shvatamo veoma ozbiljno.
+
+228
+00:14:20,700 --> 00:14:26,920
+Na kraju, želeli bismo da preciziramo kakva vrsta pomoći nam je neophodna tekom projekta Istorija Khorinisa,
+
+229
+00:14:26,920 --> 00:14:30,000
+jer mnogo ljudi se za to raspituje.
+
+230
+00:14:30,000 --> 00:14:34,700
+Što se tiče zapošljavanja, trenutno su nam u velikoj meri potrebni:
+
+231
+00:14:34,700 --> 00:14:39,460
+- Skripteri sa dobrim poznavanjem DEDALUS programskog jezika,
+
+232
+00:14:39,460 --> 00:14:41,560
+koji je sličan sa C++
+
+233
+00:14:41,560 --> 00:14:44,700
+ali i dalje zahteva specifično znanje i iskustvo.
+
+234
+00:14:44,700 --> 00:14:50,860
+Osim toga, naši skripteri moraju biti barem upoznati sa sistemima kontrole u ​​Git verziji.
+
+235
+00:14:50,860 --> 00:14:54,780
+- Scenaristi odgovorni za stvaranje likova i njihovih dijaloga.
+
+236
+00:14:54,780 --> 00:15:00,440
+Možda će vas podstaknuti činjenica da će vaše dijaloge pročitati visokoprofilni glumci,
+
+237
+00:15:00,440 --> 00:15:04,540
+pa ako imate kreativan stil pisanja, očekujemo vašu prijavu!
+
+238
+00:15:04,540 --> 00:15:05,580
+Vredi!
+
+239
+00:15:05,580 --> 00:15:10,540
+Imajte na umu da je glavna priča već napisana,
+
+240
+00:15:10,540 --> 00:15:14,100
+i trebamo pomoć uglavnom s pisanjem dijaloga
+
+241
+00:15:14,100 --> 00:15:17,180
+za podpriče i sporedne zadatke.
+
+242
+00:15:17,180 --> 00:15:24,320
+- 3D grafički dizajneri i najmanje jedan 2D grafički dizajner visokog kvaliteta u svom zanatu. 
+
+243
+00:15:24,320 --> 00:15:27,240
+- Izvođači i konceptualni umetnici.
+
+244
+00:15:27,240 --> 00:15:30,200
+- ruski i nemački prevodioci,
+
+245
+00:15:30,200 --> 00:15:34,080
+za sada samo da pomognu u prevođenju video materijala.
+
+246
+00:15:34,100 --> 00:15:38,480
+Studenti filologije su dobrodošli, kao i ljudi sa jezičkim sertifikatima
+
+247
+00:15:38,480 --> 00:15:41,520
+bar na B2 nivou poznavanja jezika. 
+
+248
+00:15:41,520 --> 00:15:46,340
+Za više informacija o zahtevima za ove pozicije i obrazac za prijavu
+
+249
+00:15:46,340 --> 00:15:52,680
+posetite www.dzieje-khorinis.pl/praca
+
+250
+00:15:52,680 --> 00:15:58,260
+Takođe možete pronaći više informacija o drugim pozicijama za koje možete da se prijavite!
+
+251
+00:15:58,260 --> 00:16:01,400
+To je sve za danas.
+
+252
+00:16:01,400 --> 00:16:04,200
+Hvala na svoj vašoj pažnji.
+
+253
+00:16:04,200 --> 00:16:09,500
+Podsećamo vas da možete podržati naše audio-vizuelne projekte na Patronitu!
+
+254
+00:16:09,500 --> 00:16:14,540
+Ne zaboravite da se sabskrajbujete kako bih uvek bili u toku sa projektom.
+
+255
+00:16:14,540 --> 00:16:22,400
+Dame i gospodo, budite spremni za još mnogo toga!
+
+256
+00:16:13,780 --> 00:16:14,920
+Posebnu zahvalnost dugujemo:
+
+257
+00:16:15,280 --> 00:16:21,120
+Video produkcija: Mateusz Pawłowski
+
+258
+00:16:22,520 --> 00:16:29,160
+Machinima: Miłosz Duda
+
+259
+00:16:30,640 --> 00:16:41,600
+Materijali o razvoju igre obezbedili: Szymon Żak, Michał Wiśniewski, Miłosz Duda, Krystian Ogonowski
+
+260
+00:16:42,860 --> 00:16:48,980
+Koordinacija prevoda: Daria Gędoś
+
+261
+00:16:50,820 --> 00:16:56,800
+Narator: Arkadiusz 'Arkadikuss' Woźniak
+

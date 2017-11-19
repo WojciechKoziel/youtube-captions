@@ -1,0 +1,1044 @@
+1
+00:00:25,140 --> 00:00:29,120
+Salutare! Arkadiusz ‘Arkadikuss’ Wozniak aici!
+
+2
+00:00:29,120 --> 00:00:32,300
+In acest material iti voi explica
+
+3
+00:00:32,300 --> 00:00:35,100
+cum lucreaza mai exact echipa SoulFire
+
+4
+00:00:35,100 --> 00:00:38,080
+si cum e realizat The History of Khorinis.
+
+5
+00:00:38,080 --> 00:00:42,040
+Acest clip a fost creat ca un raspuns
+
+6
+00:00:42,040 --> 00:00:45,820
+la intrebarile legat de managementul si crearea proiectului.
+
+7
+00:00:45,820 --> 00:00:47,960
+Cu totii ne-ati inspirat,
+
+8
+00:00:47,960 --> 00:00:50,640
+si va multumim pentru asta!
+
+9
+00:00:50,640 --> 00:00:52,780
+In acest material va vom explica,
+
+10
+00:00:52,780 --> 00:00:56,360
+cum impartim munca pe fiecare divizie a proiectului:
+
+11
+00:00:56,360 --> 00:00:59,300
+Divizia de game development, responsabila pentru The History of Khorinis,
+
+12
+00:00:59,300 --> 00:01:02,740
+Divizia video, care prezinta toate materialele video legate de acest mod
+
+13
+00:01:02,740 --> 00:01:05,160
+si se ocupa si de canalul de youtube,
+
+14
+00:01:05,160 --> 00:01:09,260
+si in cele din urma, divizia de sunet, care se ocupa de audio.
+
+15
+00:01:09,260 --> 00:01:13,020
+Uneori explicatiile noastre pot fi simpliste,
+
+16
+00:01:13,020 --> 00:01:15,100
+dar scopul nostru principal este
+
+17
+00:01:15,100 --> 00:01:17,680
+ca absolut TOTUL sa fie inteles bine
+
+18
+00:01:17,680 --> 00:01:20,060
+de ORICE PERSOANA care urmareste acest video.
+
+19
+00:01:20,060 --> 00:01:22,260
+Cu toate acestea spuse,
+
+20
+00:01:22,260 --> 00:01:24,160
+hai sa incepem!
+
+21
+00:01:24,160 --> 00:01:26,460
+Mai intai trebuie sa evidentiez
+
+22
+00:01:26,460 --> 00:01:31,120
+faptul ca devizia de game development si devizia video
+
+23
+00:01:31,120 --> 00:01:34,360
+sunt 2 subgrupuri separate ale unei singure echipe,
+
+24
+00:01:34,360 --> 00:01:38,660
+cu scopuri foarte diferite.
+
+25
+00:01:38,660 --> 00:01:44,900
+In ceea ce priveste munca lor, nu sunt conectate nici macar un strop una cu cealalta.
+
+26
+00:01:44,900 --> 00:01:47,340
+Hai sa punem in felul urmator:
+
+27
+00:01:47,340 --> 00:01:49,980
+faceti cunostinta cu Szymon si Mateusz.
+
+28
+00:01:49,980 --> 00:01:52,160
+Szymon e un programator
+
+29
+00:01:52,160 --> 00:01:54,820
+si Mateusz stie cum sa modifice clipuri video.
+
+30
+00:01:54,820 --> 00:01:57,620
+Avand in vedere ca skilurile lor sunt foarte diferite, nu are nici o logica
+
+31
+00:01:57,620 --> 00:02:00,140
+sa il fortam pe Mateusz sa lucreze la modificari ale jocului
+
+32
+00:02:00,140 --> 00:02:02,240
+si Szymon sa lucreze la editari video.
+
+33
+00:02:02,240 --> 00:02:07,000
+Dar, ambele divizii sunt unite sub bannerul aceleeasi echipe : The SoulFire Team.
+
+34
+00:02:07,000 --> 00:02:09,720
+Fiecare divizie suporta echipa in felul ei unic:
+
+35
+00:02:09,720 --> 00:02:15,800
+Divizia de Game Development produce tot jocul, in timp ce divizia video produce materiale legate de proiect.
+
+36
+00:02:15,800 --> 00:02:19,560
+Avand in vedere ca tot obtinem multe intrebari legate de acest lucru...
+
+37
+00:02:19,560 --> 00:02:23,640
+am decis sa explicam foarte clar paternul nostru de lucru.
+
+38
+00:02:23,640 --> 00:02:26,700
+Uitandu-ne prin comentariile unora am observat ca
+
+39
+00:02:26,700 --> 00:02:32,560
+unii dintre voi sunt curiosi de ce facem aceste comentarii despre actorii mai in varsta.
+
+40
+00:02:32,560 --> 00:02:36,280
+Trebuie sa va reamintim ca toti acesti actori
+
+41
+00:02:36,280 --> 00:02:39,440
+ne ajuta PE GRATIS si pentru ca sunt niste persoane GENEROASE!
+
+42
+00:02:39,440 --> 00:02:44,960
+Va rugam sa intelegeti ca am fi putut sa ii rugam doar sa ajute la traduceri, dar nu asta a fost intentia noastra.
+
+43
+00:02:44,960 --> 00:02:48,980
+Vrem sa ii onoram pentru munca depusa prin aceste comentarii,
+
+44
+00:02:48,980 --> 00:02:52,880
+si vrem sa facem asta cat timp lucreaza.
+
+45
+00:02:52,880 --> 00:02:57,740
+Faptul ca ei ne ajuta cu vocile caracterelor e un gest aditional al generozitatii lor.
+
+46
+00:02:57,740 --> 00:03:00,600
+Intentiile noastre sunt 100% pure,
+
+47
+00:03:00,600 --> 00:03:04,240
+si nu puteti sa aveti asteptari de la noi sa nu includem acesti minunati actori.
+
+48
+00:03:04,240 --> 00:03:07,160
+Mai mult decat atat... va reamintim ca History of Khorinis este un proiect non profit,
+
+49
+00:03:07,160 --> 00:03:10,780
+si nu ne permitem sa platim acesti actori.
+
+50
+00:03:10,780 --> 00:03:15,440
+Este important de mentionat ca unii dintre oamenii mai in varsta, de exemplu Domnul Tomecki,
+
+51
+00:03:15,440 --> 00:03:18,520
+nu se mai ocupa de vocile caracterelor in jocuri pe PC.
+
+52
+00:03:18,520 --> 00:03:20,780
+A recunoscut sincer
+
+53
+00:03:20,780 --> 00:03:24,380
+ca a refuzat fiecare propunere care i s-a ivit in cale pana acuma
+
+54
+00:03:24,380 --> 00:03:27,560
+timp de ani la rand.
+
+55
+00:03:27,560 --> 00:03:32,040
+Realizam, desigur, ca unii oameni nu sunt atrasi de genul asta de clipuri,
+
+56
+00:03:32,040 --> 00:03:35,200
+si sunt interesati doar in a juca modul The History of Khorinis.
+
+57
+00:03:35,200 --> 00:03:40,160
+Indiferent de punctul de vedere pe care il ai, va rugam sa intelegeti ca
+
+58
+00:03:40,160 --> 00:03:45,580
+aceste clipuri si munca noastra va da posibilitatea sa jucati jocul cu niste dublaje extraordinare ale caracterelor,
+
+59
+00:03:45,580 --> 00:03:50,320
+ceea ce va imbunatati gameplay-ul si atmosfera.
+
+60
+00:03:50,320 --> 00:03:56,880
+De asta vrem respectul si considerarea pentru aceasta echipa care lucreaza la clipurile video si la dublaje.
+
+61
+00:03:56,880 --> 00:04:00,420
+Clipurile video sunt create de asemenea la cerintele voastre,
+
+62
+00:04:00,420 --> 00:04:04,180
+si atata timp cat le vreti si va bucurati de ele,
+
+63
+00:04:04,180 --> 00:04:06,880
+productia lor are logica.
+
+64
+00:04:06,880 --> 00:04:09,180
+Divizia de munca
+
+65
+00:04:09,180 --> 00:04:11,680
+Munca laThe History of Khorinis este guvernata de liderul echipei
+
+66
+00:04:11,680 --> 00:04:16,360
+care se ocupa de consistenta proiectului si managementul lui in cadrul diviziei de Game Development,
+
+67
+00:04:16,360 --> 00:04:21,200
+si supravegheaza procesul de realizare a clipurilor video si a dublajelor.
+
+68
+00:04:21,200 --> 00:04:24,060
+Now, as promised, we will cover each of the team’s sections in more detail.
+
+69
+00:04:24,060 --> 00:04:26,020
+Divizia de Game Development
+
+70
+00:04:26,020 --> 00:04:30,080
+Divizia de Game Development este impartita in mai multe subdivizii:
+
+71
+00:04:30,080 --> 00:04:31,920
+programatori, scenaristi,
+
+72
+00:04:31,920 --> 00:04:34,020
+designeri grafici si designeri de nivel.
+
+73
+00:04:34,020 --> 00:04:36,280
+Fiecare din ei e condus de organizatori diferiti,
+
+74
+00:04:36,280 --> 00:04:40,820
+care conduc si organizeaza subdivizia lor fara sa intervina in alte subdivizii.
+
+75
+00:04:40,820 --> 00:04:45,480
+Candva, echipa SoulFire era formata din cativa membri cu cateva responsabilitati...
+
+76
+00:04:45,480 --> 00:04:49,460
+si liderul echipei coordona munca fiecaruia direct.
+
+77
+00:04:49,460 --> 00:04:52,600
+Dar, pe masura ce proiectul a inceput sa creasca,
+
+78
+00:04:52,600 --> 00:04:55,400
+numarul de oameni a inceput sa creasca,
+
+79
+00:04:55,400 --> 00:05:00,020
+si alte probleme au aparut, cum ar fi materialele video.
+
+80
+00:05:00,020 --> 00:05:04,360
+Sistemul de coordonatori multipli s-a dovedit a fi mai eficient si folosim aceasta metoda de atunci.
+
+81
+00:05:04,360 --> 00:05:08,280
+Coordonatorii fac ca acest proiect sa isi pastreze continuitatea,
+
+82
+00:05:08,280 --> 00:05:14,440
+si viteza de lucru depine de managementul diviziilor in cadrul membrilor nostri
+
+83
+00:05:14,440 --> 00:05:17,900
+Sunt multe task-uri atribuite frecvent,
+
+84
+00:05:17,900 --> 00:05:22,000
+si acest lucru ia o buna parte din timp.
+
+85
+00:05:22,000 --> 00:05:23,920
+Job-ul coordonatorului este de asemenea
+
+86
+00:05:23,920 --> 00:05:29,300
+sa puna cap la cap toate partile trimise de membrii unei echipe,
+
+87
+00:05:29,300 --> 00:05:33,380
+si apoi colaboreaza cu coordonatorii celorlalte divizii din cadrul Diviziei totale de Game development.
+
+88
+00:05:33,380 --> 00:05:37,700
+Coordonatorii lucreaza aproape full time.
+
+89
+00:05:37,700 --> 00:05:41,960
+A menaja o echipa asa de mare
+
+90
+00:05:41,960 --> 00:05:45,440
+e necesar ca ei sa fie valabili tot timpul,
+
+91
+00:05:45,440 --> 00:05:48,000
+macar la telefon daca nu fata in fata.
+
+92
+00:05:48,000 --> 00:05:50,340
+Accesabilitatea lor e critica in situatiile in care
+
+93
+00:05:50,340 --> 00:05:55,000
+cineva are nevoie de informtatii legate de o problema de la divizie specifica
+
+94
+00:05:55,000 --> 00:05:57,940
+sau cand apar task-uri noi care trebuiesc distribuite intre membrii unei echipe.
+
+95
+00:05:57,940 --> 00:06:00,380
+Membrii fiecarei subdivizii, pe de alta parte,
+
+96
+00:06:00,380 --> 00:06:03,060
+lucreaza doar in timpul lor liber.
+
+97
+00:06:03,060 --> 00:06:07,980
+Asamblarea fisierelor este posibila datorita unui sistem de control numit Git,
+
+98
+00:06:07,980 --> 00:06:10,620
+care reprezinta un instrument popular pentru proiectele de pe internet.
+
+99
+00:06:10,620 --> 00:06:15,000
+Da voie la toti membrii echipei - programatori, designerii de grafica si scenaristilor -
+
+100
+00:06:15,000 --> 00:06:17,500
+sa uplodeze fisierele intr-un singur loc public.
+
+101
+00:06:17,500 --> 00:06:20,700
+Totul este organizat in foldere si categorii.
+
+102
+00:06:20,700 --> 00:06:23,120
+Task-ul de a pune toate fisierele impreuna, apoi,
+
+103
+00:06:23,120 --> 00:06:25,780
+nu este alocat unei singure persoane.
+
+104
+00:06:25,780 --> 00:06:32,160
+Mai mutl decat atat, coordonatorul de programatori a creat un program special care asigura integrarea tuturor partilor in tot modul.
+
+105
+00:06:32,160 --> 00:06:36,660
+Fiecare membru al echipei care downlodeaza programul
+
+106
+00:06:36,660 --> 00:06:40,960
+poate accesa update-uri la History of Khorinis in orice moment
+
+107
+00:06:40,960 --> 00:06:43,260
+si poate juca cea mai recenta versiune a jocului,
+
+108
+00:06:43,260 --> 00:06:49,040
+chiar daca fisierele au fost modificate cu cateva minute in urma.
+
+109
+00:06:49,040 --> 00:06:51,340
+Tot acest sistem este intr-adevar revolutionar.
+
+110
+00:06:51,340 --> 00:06:54,740
+Pana acum, singurul mod Gothic care a folosit un program similar
+
+111
+00:06:54,740 --> 00:06:58,520
+facut special pentru acest gen de proiect, a fost Gothic: Reloaded Mod -
+
+112
+00:06:58,520 --> 00:07:01,000
+numai ca programelul era putin mai simplu.
+
+113
+00:07:01,080 --> 00:07:05,520
+Ideea pentru acest program a fost bazata pe build-uri internet ale studiourilor de creeare a jocurilor
+
+114
+00:07:05,520 --> 00:07:10,320
+si ca sa fim sinceri...datorita acestui program putem pastra toate fisierile jocului in ordine...
+
+115
+00:07:10,320 --> 00:07:14,720
+si mentine un mod eficient de lucru intr-un proiect asa de complex.
+
+116
+00:07:14,720 --> 00:07:18,220
+Multi oameni ne intreaba daca toti oamenii din echipa mod-ului History of Khorinis
+
+117
+00:07:18,220 --> 00:07:22,040
+e formata din profesionisti in domeniul I.T sau domeniul electronic.
+
+118
+00:07:22,040 --> 00:07:23,620
+Asa ca raspundem:
+
+119
+00:07:23,620 --> 00:07:26,360
+nu fiecare persoana de la noi e un pro.
+
+120
+00:07:26,360 --> 00:07:29,260
+Echipa e mai mult ca Turnul lui Babel.
+
+121
+00:07:29,260 --> 00:07:33,300
+Proiectul aduna atat oamenii profesionisti in design grafic
+
+122
+00:07:33,300 --> 00:07:35,280
+cat si amatorii care sunt destui de buni
+
+123
+00:07:35,280 --> 00:07:39,540
+ca sa pot ajuta la modul nostru.
+
+124
+00:07:39,540 --> 00:07:42,380
+Profesionistii sunt in minoritate aici,
+
+125
+00:07:42,380 --> 00:07:47,520
+si e aproape imposibil sa recrutam o echipa non profit formata in totalitate din profesionisti.
+
+126
+00:07:47,520 --> 00:07:50,420
+Asa e cazul cu toate subdiviziile proiectului nostru.
+
+127
+00:07:50,420 --> 00:07:53,160
+Mai mult decat atat, deobiceii non profesionistii
+
+128
+00:07:53,160 --> 00:07:55,800
+isi pot lua mai mult timp liber de la proiect,
+
+129
+00:07:55,800 --> 00:07:58,360
+si ne permit sa avem un mediu de lucru fain.
+
+130
+00:07:58,360 --> 00:08:00,800
+Munca la acest proiect
+
+131
+00:08:00,800 --> 00:08:03,380
+reprezinta o oportunitate extraordinara pentru oamenii
+
+132
+00:08:03,380 --> 00:08:07,800
+care vor sa devina profesionisti in game development sau industriile I.T
+
+133
+00:08:07,800 --> 00:08:11,120
+In felul acesta oamenii din echipa se pot ajuta unul pe altul si isi imbunatatesc skilurile.
+
+134
+00:08:11,120 --> 00:08:13,260
+Poti gasi tot felul de oameni in echipa:
+
+135
+00:08:13,260 --> 00:08:18,560
+Elevi, studenti ai universitatilor tehnice si grafice si profesionisti.
+
+136
+00:08:18,560 --> 00:08:20,980
+Vrem sa mai mentionam ca
+
+137
+00:08:20,980 --> 00:08:23,720
+nu operam ca o industrie profesionala de game development
+
+138
+00:08:23,720 --> 00:08:25,940
+si nici nu vom fi vreodata una.
+
+139
+00:08:25,940 --> 00:08:30,140
+Pentru ca suntem imprastiati peste tot in tara, proiectul se desfasoara online
+
+140
+00:08:30,140 --> 00:08:32,660
+si nu poate fi considerat un job profesional full time.
+
+141
+00:08:32,660 --> 00:08:36,520
+Ca in orice companie, certuri si conflicte apar uneori.
+
+142
+00:08:36,520 --> 00:08:41,440
+Diferenta e ca nimeni nu e platit aici pentru munca depusa
+
+143
+00:08:41,440 --> 00:08:43,760
+si pentru ca proiectul e realizat cap coada,
+
+144
+00:08:43,760 --> 00:08:47,360
+de multe ori trebuie sa improvizam ca sa ne atingem scopurile.
+
+145
+00:08:47,360 --> 00:08:50,380
+Uneori trebuie sa faci niste sacrificii ca sa ducem lucrurile la capat.
+
+146
+00:08:50,400 --> 00:08:52,940
+Un alt fenomen important e 
+
+147
+00:08:52,940 --> 00:08:58,120
+rotatia staff-ului, care impiedica realizarea multor proiecte non profit..
+
+148
+00:08:58,120 --> 00:09:00,780
+Bineinteles, oamenii au job-urile lor si responsabilitatile lor in viata reala,
+
+149
+00:09:00,780 --> 00:09:04,760
+si de aia uneori unii oameni trebuie sa isi ia un concediu,
+
+150
+00:09:04,760 --> 00:09:07,400
+iar altii renunta permanent.
+
+151
+00:09:07,400 --> 00:09:12,800
+Cand se intampla asta, alti oameni din echipa trebuie sa preia responsabilitati suplimentare de la aia absenti.
+
+152
+00:09:12,800 --> 00:09:15,880
+Inlocuirea oamenilor e unul din motive 
+
+153
+00:09:15,880 --> 00:09:19,580
+pentru care nu iti putem da o data exacta sau estimativa de lansare a modului nostru.
+
+154
+00:09:19,580 --> 00:09:24,920
+Desi aveau o armata de angajati care lucrau profesional la un joc in fiecare zi,
+
+155
+00:09:24,920 --> 00:09:29,280
+CD Projekt au esuat in a da drumul la public la Witcher 3 in timp si au amanat data de lansare cu 3 luni.
+
+156
+00:09:29,280 --> 00:09:31,660
+Daca pana si o echipa profesionala de gamedev poate gresi in a estima responsabilitatile
+
+157
+00:09:31,660 --> 00:09:36,740
+atunci nu e normal sa va asteptati la precizie absoluta de la noi, oamenii entuziasmati care lucreaza la acest proiect doar in timpul lor liber.
+
+158
+00:09:36,740 --> 00:09:39,480
+Bineinteles, proiectul nostru nu e chiar asa de mare.
+
+159
+00:09:39,480 --> 00:09:43,520
+The History of Khorinis nu e un joc AAA cu un engine complet nou, cum e cazul la The Witcher.
+
+160
+00:09:43,520 --> 00:09:46,560
+E doar o expansiune la un joc deaja existent Gothic,
+
+161
+00:09:46,560 --> 00:09:49,960
+dar problemele care le intampinam in timpul procesului de dezvoltare al modului The History of Khorinis
+
+162
+00:09:49,960 --> 00:09:53,460
+sunt uneori mai complexe decat studiourile de gamedev profesioniale.
+
+163
+00:09:53,460 --> 00:09:57,420
+Putem sa ne bazam doar pe timpul si bunavointa membrilor din echipa,
+
+164
+00:09:57,420 --> 00:09:59,740
+care, pana la urma, lucreaza pe gratis,
+
+165
+00:09:59,740 --> 00:10:03,920
+ca sa nu mai mentionam limitarile lui Zengine,
+
+166
+00:10:03,920 --> 00:10:06,000
+engine-ul la jocul Gothic insine.
+
+167
+00:10:06,000 --> 00:10:10,660
+Intreaga munca a echipei e bazata pe responsabilitate si respect reciproc,
+
+168
+00:10:10,660 --> 00:10:13,100
+si noi credem ca atata timp cat putem pastra asta,
+
+169
+00:10:13,100 --> 00:10:16,780
+noi vom ajunge la scopul propus incetul cu incetul.
+
+170
+00:10:16,780 --> 00:10:20,300
+Si cam asta e tot despre divizia de game development pana acuma!
+
+171
+00:10:20,300 --> 00:10:23,500
+Diviziile de dublaj si video
+
+172
+00:10:23,500 --> 00:10:26,340
+Am decis sa discutam ambele divizii simultan.
+
+173
+00:10:26,340 --> 00:10:32,340
+pentru ca ele coopereaza foarte aproape si sunt coordinate direct de liderul echipei.
+
+174
+00:10:32,340 --> 00:10:35,240
+Aditional, exista membrii ai echipei SoulFire cae apartin la ambele divizii
+
+175
+00:10:35,240 --> 00:10:37,880
+in special tehnicienii de sunet.
+
+176
+00:10:37,880 --> 00:10:41,440
+Cum am discutat deaja responsabilitatile diviziei de sunet in introducere,
+
+177
+00:10:41,440 --> 00:10:44,420
+putem adauga ca e datorita eforturilor lor
+
+178
+00:10:44,420 --> 00:10:49,460
+am putut forma o colaborare cu Ministry of Culture & National Heritage,
+
+179
+00:10:49,460 --> 00:10:53,520
+in special cu Polish National Film Archive and National Audiovisual Institute
+
+180
+00:10:53,520 --> 00:10:55,800
+in cadrul framework-ului proiectului "The Seniors"
+
+181
+00:10:55,800 --> 00:10:59,600
+Divizia video este responsabila de a lua legatura cu actorii,
+
+182
+00:10:59,600 --> 00:11:03,140
+si datorita lor putem lucra acum cu foarte multi oameni extraordinari.
+
+183
+00:11:03,140 --> 00:11:07,180
+Tot ei iti arata cum lucreaza The History of Khorinis si cum arata
+
+184
+00:11:07,180 --> 00:11:10,640
+si produc alte materiale audiovizuale.
+
+185
+00:11:10,640 --> 00:11:13,260
+Devizia video si de dublaj coopereaza tot timpul.
+
+186
+00:11:13,260 --> 00:11:17,760
+In timp ce una din ele se ocupa de inregistrarea vocilor,
+
+187
+00:11:17,760 --> 00:11:23,360
+cea de-a doua pune materialele video impreuna, cu fiecare tehnician al sunetului care lucreaza individual de pe PC-ul lui.
+
+188
+00:11:23,360 --> 00:11:27,800
+Cand vine vorba de creearea vocilor, doua chestii importante trebuiesc mentionate.
+
+189
+00:11:27,800 --> 00:11:31,180
+Mai intai, aproape toti actorii implicatii in proiect traiesc in capitala Poloniei, Varsovia,
+
+190
+00:11:31,180 --> 00:11:36,280
+deci aproape  95% din sesiunile de inregistrare sunt tinute acolo.
+
+191
+00:11:36,280 --> 00:11:40,240
+Varsovia este de asemenea locul unde studioul international 'Start International Polska' e localizat.
+
+192
+00:11:40,240 --> 00:11:43,500
+Acolo au fost realizare si dublajele pentru Gothic I si Gothic II
+
+193
+00:11:43,500 --> 00:11:48,100
+Deci e de asteptat ca sa fie actori care traiesc in zona aia.
+
+194
+00:11:48,100 --> 00:11:52,300
+In al doilea rand, acuma inregistram actorii care au boli terminale,
+
+195
+00:11:52,300 --> 00:11:55,320
+la o varsta inaintata, sau a caror dialoguri sunt deaja complete,
+
+196
+00:11:55,320 --> 00:12:02,060
+cum e cazul cu unele caractere secundare din jocul nostru.
+
+197
+00:12:02,060 --> 00:12:05,680
+Majoritatea inregistrarilor vor fi realizate cu cateva luni inainte de lansarea modului
+
+198
+00:12:05,680 --> 00:12:11,160
+si se vor ocupa de vocea caracterului principal... liniile lui de dialog
+
+199
+00:12:11,160 --> 00:12:13,800
+sunt inca modificate sau adaugate.
+
+200
+00:12:13,800 --> 00:12:18,560
+Totusi, repetitiile pentru rolul principal vor incepe mult mai devreme
+
+201
+00:12:18,560 --> 00:12:22,080
+ca sa putem selecta cel mai bun actor sa realizeze vocea caracterului.
+
+202
+00:12:22,080 --> 00:12:26,800
+Sa nu uitam de Kamil Jedrzejewski, compozitorul nostru muzical, care apartine si el diviziei de sunet.
+
+203
+00:12:26,800 --> 00:12:31,220
+Cam asta e tot ce putem spune despre devizia de dublaj si video.
+
+204
+00:12:31,220 --> 00:12:35,780
+A 4 a devizie e formata din oameni care sustin proiectul in multe alte moduri.
+
+205
+00:12:35,780 --> 00:12:39,000
+De exemplu, consideram ca exista o devizie separata de traducatori.
+
+206
+00:12:39,000 --> 00:12:45,260
+In afara de asta, exista oameni responsabili pentru e-mail si profilul de facebook, unde raspund la mesajele voastre.
+
+207
+00:12:45,260 --> 00:12:51,340
+Cu aceasta ocazie, multumim cu caldura toti oamenii mentionati mai sus pentru contributia lor!
+
+208
+00:12:51,340 --> 00:12:54,600
+Asta e tot ce trebuie sa stiti despre diviziile de productie.
+
+209
+00:12:54,600 --> 00:12:58,400
+Am incercat sa creem cel mai eficienta, si cel mai bun sistem de lucru,
+
+210
+00:12:58,400 --> 00:13:02,660
+ca sa nu pierdem nici timpul nostru si nici pe al tau.
+
+211
+00:13:02,660 --> 00:13:07,340
+Speram ca acest clip sa iti raspunda la toate dubbile si intrebarile tale,
+
+212
+00:13:07,340 --> 00:13:11,900
+cel putin in ceea ce priveste sistemul general de lucru in cadrul proiectului The History of Khorinis.
+
+213
+00:13:11,900 --> 00:13:14,860
+Cu toate acestea spuse, vrem sa discutam legat de
+
+214
+00:13:14,860 --> 00:13:19,560
+cererea voastra cu privire la mai multe informatii despre povestea din The History of Khorinis.
+
+215
+00:13:19,560 --> 00:13:23,780
+In acest stagiu de productie evitam in mod delibrat sa dam prea multe detalii,
+
+216
+00:13:23,780 --> 00:13:28,660
+ceea ce reprezinta o procedura standard in cadrul industriilor de realizare a jocurilor... deci nu e o surpriza.
+
+217
+00:13:28,660 --> 00:13:35,180
+Desigur, va puteti astepta la un teaser sau prolog inainte de data de lansare a jocului,
+
+218
+00:13:35,180 --> 00:13:38,000
+dar sa facem unul acuma ar fi nefolositor.
+
+219
+00:13:38,000 --> 00:13:43,160
+Ca si exemplu concret cand ar trebui lansate aceste lucruri ... ne putem lua dupa ELEX,
+
+220
+00:13:43,160 --> 00:13:46,960
+unde prologul a fost prezentat cu cateva luni inainte de where the prologue was presented just a couple of months before the game was released
+
+221
+00:13:46,960 --> 00:13:50,940
+ca sa creeze tensiune in jucatori la momentul potrivit - smecherie.
+
+222
+00:13:50,940 --> 00:13:54,280
+urmand acelasi exemplu vom urma pasii realizati de Piranha Bytes.
+
+223
+00:13:54,280 --> 00:13:56,980
+Pentru moment, va rugam sa aveti rabdare,
+
+224
+00:13:56,980 --> 00:14:01,480
+si va incurajam sa verificati un teaser scurt valabil pe site-ul nostru.
+
+225
+00:14:01,480 --> 00:14:03,980
+Puteti sa aveti incredere in noi,
+
+226
+00:14:03,980 --> 00:14:07,720
+pentru ca am dovedit frecvent
+
+227
+00:14:07,720 --> 00:14:12,600
+ca luam in serios munca noastra.
+
+228
+00:14:12,600 --> 00:14:18,800
+In final, ce fel de ajutor avem nevoie exact in proiectul History of Khorinis...
+
+229
+00:14:18,800 --> 00:14:21,900
+avand in vedere ca multi oameni au intrebat.
+
+230
+00:14:21,900 --> 00:14:26,620
+Pentru moment avem mare nevoie de :
+
+231
+00:14:26,620 --> 00:14:31,360
+Scripteri cu o experienta buna in limbajul de programare DEDALUS,
+
+232
+00:14:31,360 --> 00:14:33,580
+care e similar cu C++
+
+233
+00:14:33,580 --> 00:14:36,780
+dar tot are nevoie de cunostinte specifice si experienta.
+
+234
+00:14:36,780 --> 00:14:42,900
+In afara de asta, programatorii trebuie sa fie familiari cu sistemul de control in versiunea Git.
+
+235
+00:14:42,900 --> 00:14:46,780
+Screenwriters responsabili pentru creearea caracterelor si dialogurilor.
+
+236
+00:14:46,780 --> 00:14:52,460
+Ai putea sa fii incurajat de faptul ca dialogurile tale vor fi citite de actori cu profil ridicat...
+
+237
+00:14:52,460 --> 00:14:56,500
+deci daca ai un stil de scris creativ, asteptam aplicatia ta!
+
+238
+00:14:56,500 --> 00:14:57,640
+Se merita!
+
+239
+00:14:57,640 --> 00:15:02,620
+Luati in considerare ca subiectul principal al mod-ului e deaja facut,
+
+240
+00:15:02,620 --> 00:15:06,120
+si avem nevoie de ajutor mai mult cu scrierea dialogurilor
+
+241
+00:15:06,120 --> 00:15:09,160
+la misiuni secundare si subiecte subploturi.
+
+242
+00:15:09,160 --> 00:15:16,280
+3D graphic designers, si macar un singur  2D graphic designer cu experienta ridicata.
+
+243
+00:15:16,280 --> 00:15:19,140
+Drafters si concept artists.
+
+244
+00:15:19,140 --> 00:15:22,200
+Translatori germani si rusi,
+
+245
+00:15:22,200 --> 00:15:26,060
+pentru a ajuta cu traducerea materialelor video.
+
+246
+00:15:26,060 --> 00:15:30,540
+Studentii la filologie sunt bineveniti, cat si oameni cu certificate in limbi
+
+247
+00:15:30,540 --> 00:15:33,560
+macar nivelul B2 in proeficienta limbajului.
+
+248
+00:15:33,560 --> 00:15:38,380
+Pentru mai multe informatii legate de ceea ce cautam pentru aceste pozitii si aplicatii :
+
+249
+00:15:38,380 --> 00:15:44,680
+visitati www.dzieje-khorinis.pl/praca
+
+250
+00:15:44,680 --> 00:15:50,340
+Acolo, puteti afla mai multe informatii legate de alte job-uri pentru care puteti aplica:
+
+251
+00:15:50,340 --> 00:15:53,400
+Cam atat pentru astazi.
+
+252
+00:15:53,400 --> 00:15:56,280
+Va multumim pentru toata atentia voastra!
+
+253
+00:15:56,280 --> 00:16:01,540
+Vrem sa va reamintim ca puteti sa ne sprijinity proiectul nostru la Patronite!
+
+254
+00:16:01,540 --> 00:16:06,360
+Nu uitati sa dati subscribe ca sa fiti la curent cu noutatile despre proiectul nostru.
+
+255
+00:16:06,360 --> 00:16:13,280
+Domnilor si Doamnelor pregatiti-va pentru mai multe noutati!
+
+256
+00:16:13,780 --> 00:16:14,920
+Multumiri speciale:
+
+257
+00:16:15,280 --> 00:16:21,120
+Productie video: Mateusz Pawlowski
+
+258
+00:16:22,520 --> 00:16:29,160
+Machinima: Milosz Duda
+
+259
+00:16:30,640 --> 00:16:41,600
+Materiale de Game development aprovizionate de: Szymon Zak, Michal Wisniewski, Milosz Duda, Krystian Ogonowski
+
+260
+00:16:42,860 --> 00:16:48,980
+Coordonator de traduceri: Daria Gedos
+
+261
+00:16:50,820 --> 00:16:56,800
+Povestite de Arkadiusz 'Arkadikuss' Wozniak
+

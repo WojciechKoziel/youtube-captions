@@ -1,5 +1,11 @@
 # The History of Khorinis - captions of YouTube [channel](https://www.youtube.com/c/dziejekhorinismod) videos
 
+## [GOTHIC 2 The History of Khorinis from the backstage! ](https://www.youtube.com/watch?v=gxqIevNcAd4)
+* [English](backstage/backstage-en.srt) by **Daria Gędoś** (coordinator) & **Adamus91** & **Artur Kaczor** & **Rafał 'Bootleg' Stradomski** & **Krzysztof 'Kaziu' Zabiegliński** & **Kacper 'KacperCe' Czubak** & **Amadeusz 'Karwelas' Szlezyngier** & **Rafał 'H4rbing3r' Komar** (proofreading)
+* [Russian](backstage/backstage-ru.srt) by **[Konstantin "tyson90" Kuliczow](mailto:kostek.website@gmail.com)** (coordinator) & **Sir Valdusha** & **TechNoirMK** & **Aram1r** & **Evgenij**
+* [Serbian](backstage/backstage-sr.srt) by **Darko "Dalek" Sojevich**
+* [Romanian](backstage/backstage-ro.srt)
+
 ## [Actor Andrzej Gawroński - Gothic II HoK | Documental Movie](https://www.youtube.com/watch?v=gxqIevNcAd4)
 * [English](gawronski/gawronski-en.srt)
 * [Italian](gawronski/gawronski-it.srt) by **[Piranha Bytes Italia](http://www.piranhabytesitalia.it/)**
@@ -8,7 +14,7 @@
 * [Polish](q&a/q&a-pl.srt)
 * [English](q&a/q&a-en.srt)
 * [German](q&a/q&a-de.srt) by **[Jakub Masztakowski](https://www.facebook.com/jakub.masztakowski.1)** & **[Tomasz Rutkowski](https://www.facebook.com/tomek.rutkowski.1800)** & **Pierre Beckmann**
-* [Russian](q&a/q&a-ru.srt) by **[Konstantin Kuliczow](mailto:kostek.website@gmail.com)** & **[Łukasz Wróbel](https://vk.com/kangur007)** & **[Szymon Żak](http://szymonzak.pl)**
+* [Russian](q&a/q&a-ru.srt) by **[Konstantin "tyson90" Kuliczow](mailto:kostek.website@gmail.com)** & **[Łukasz Wróbel](https://vk.com/kangur007)** & **[Szymon Żak](http://szymonzak.pl)**
 * [Italian](q&a/q&a-it.srt) by **[Enrico Blasoni](https://www.facebook.com/enrico.blasoni)**
 * [Romanian](q&a/q&a-ro.srt) by **[Andrei Florin](https://www.facebook.com/Lelmateimnotproudofyou)**
 * [Czech](q&a/q&a-cz.srt) by **Filip Richter**
