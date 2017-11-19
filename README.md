@@ -1,8 +1,8 @@
 # The History of Khorinis - captions of YouTube [channel](https://www.youtube.com/c/dziejekhorinismod) videos
 
-## [AKTOR Andrzej Gawroński 'Deckard Cain' - GOTHIC II DK | Film dokumentalny](https://www.youtube.com/watch?v=gxqIevNcAd4)
+## [Actor Andrzej Gawroński - Gothic II HoK | Documental Movie](https://www.youtube.com/watch?v=gxqIevNcAd4)
 * [English](gawronski/gawronski-en.srt)
-* [Italian](gawronski/gawronski-it.srt) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/)
+* [Italian](gawronski/gawronski-it.srt) by **[Piranha Bytes Italia](http://www.piranhabytesitalia.it/)**
 
 ## [GOTHIC IS BACK! The HISTORY of KHORINIS](https://www.youtube.com/watch?v=9F3_k5cBDq0)
 * [Polish](q&a/q&a-pl.srt)
@@ -22,7 +22,7 @@
 * [Croatian](q&a/q&a-hr.srt) by **[Joanna Wentland](mailto:asia@kseroplast.pl)**
 * [Dutch](q&a/q&a-nl.srt) by **[Max Frijns](mailto:max.frijns@gmail.com)**
 
-## [Krwawa Kompania - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=EWjxMZIeLjY)
+## [The Bloody Band - Gothic II The History of Khorinis](https://www.youtube.com/watch?v=EWjxMZIeLjY)
 * [Polish](kompania/kompania-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](kompania/kompania-en.sbv) by **[Radosław Rak](https://www.facebook.com/Radek.Revo.Rak)** & [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [German](kompania/kompania-ge.sbv) by **[Tomasz Rutkowski](https://www.facebook.com/tomek.rutkowski.1800)** & **[Dawid Szpilka](https://www.facebook.com/tomek.rutkowski.1800)**
@@ -31,7 +31,7 @@
 * [Romanian](kompania/kompania-ro.sbv) by **Debucean Caius**
 * [Czech](kompania/kompania-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 
-## [TORREZ i nie tylko - Gothic II Dzieje Khorinis - Andrzej Tomecki](https://www.youtube.com/watch?v=jarXyWleCDc)
+## [TORREZ and not only - Gothic II The History of Khorinis - Andrzej Tomecki](https://www.youtube.com/watch?v=jarXyWleCDc)
 * [Polish](tomecki-studio/tomecki-studio-pl.srt) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki-studio/tomecki-studio-en.srt) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [Italian](tomecki-studio/tomecki-studio-it.srt) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
@@ -40,12 +40,12 @@
 * [German](tomecki-studio/tomecki-studio-de.srt) by **Patrick Holubarz**
 * [Romanian](tomecki-studio/tomecki-studio-ro.srt) by **Marius 'sykaTHEoNe' Sirbu**
 
-## [AKTOR Andrzej 'Greg' Tomecki - Gothic II Dzieje Khorinis - Film Dokumentalny](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
+## [ACTOR Andrzej 'Greg' Tomecki - Gothic II The History of Khorinis - Documentary ](https://www.youtube.com/watch?v=O9-r6dbUpfQ)
 * [Polish](tomecki/tomecki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](tomecki/tomecki-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com) & [**Szymon Żak**](http://szymonzak.pl)
 * [Italian](tomecki/tomecki-it.srt) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Alesandro "Melvasul" Timpone**](https://www.facebook.com/alessandro.timpone). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 
-## [ANULOWANY OFICJALNY DODATEK DO GOTHIC 1 - Gothic Sequel](https://www.youtube.com/watch?v=SS_RRuNCe6Y)
+## [CANCELLED OFFICIAL GOTHIC 1 ADDON  - Gothic Sequel](https://www.youtube.com/watch?v=SS_RRuNCe6Y)
 * [Polish](sequel/sequel-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](sequel/sequel-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [German](sequel/sequel-ge.srt) by [**Simon 'Holymole' Ritzmann**](mailto:ritzmanns@gmx.ch)
@@ -55,7 +55,7 @@
 * [Czech](sequel/sequel-cz.sbv) by **[Filip ‘tonyskate‘ Richter](mailto:Tonyskate@seznam.cz)**
 * [Italian](sequel/sequel-it.sbv) by [Piranha Bytes Italia](http://www.piranhabytesitalia.it/) ([**Enrico "-Henry-" Blasoni**](https://www.facebook.com/enrico.blasoni) & [**Marco "Colmar" Colombo**](https://www.facebook.com/marco.colombo.395). Coordinator: [**Leonardo "Sakkio" Sassi**](https://www.facebook.com/leonardo.sassi.1975))
 
-## [NIEZNANE GOTHICOWE CIEKAWOSTKI + Fabularne FAQ Dziejów Khorinis](https://www.youtube.com/watch?v=vnoVmUTamXM)
+## [Unknown and untold Gothic secrets + History of Khorinis story FAQ](https://www.youtube.com/watch?v=vnoVmUTamXM)
 * [Polish](ciekawostki-faq/faq-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](ciekawostki-faq/faq-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [Russian](ciekawostki-faq/faq-ru.sbv) by [**Данил 'Неизвестен'** (**Danił 'Unknown'**)](https://vk.com/id23654784) & [**Szymon Żak**](http://szymonzak.pl)
@@ -63,7 +63,7 @@
 * [Romanian](ciekawostki-faq/faq-ro.sbv) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
 * [Czech](ciekawostki-faq/faq-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 
-## [KRÓL RHOBAR II - Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=8TrLWoSo49c)
+## [KING RHOBAR II - Gothic II: The History of Khorinis](https://www.youtube.com/watch?v=8TrLWoSo49c)
 * [Polish](rhobar-ii/palac-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](rhobar-ii/palac-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 * [German](rhobar-ii/palac-pl.sbv) by **Pierre 'ThielHater' Beckmann**
@@ -77,11 +77,11 @@
 * [Portuguese](rhobar-ii/palac-pt.sbv) by **["ThEndGuy"](https://steamcommunity.com/id/Iamdispenser/)**
 * [French](rhobar-ii/palac-fr.sbv) by [**Michał Szydłowski**](mailto:michal.k.szydlowski@gmail.com)
 
-## [AKTOR Krzysztof Zakrzewski w Gothic II Dzieje Khorinis](https://www.youtube.com/watch?v=ZAo2kCCU7oQ)
+## [ACTOR Krzysztof Zakrzewski in Gothic II The History of Khorinis](https://www.youtube.com/watch?v=ZAo2kCCU7oQ)
 * [Polish](zakrzewski/zakrzewski-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](zakrzewski/zakrzewski-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
 
-## [Profesjonalni aktorzy w Gothic II Dzieje Khorinis – Próbki Dubbingu](https://www.youtube.com/watch?v=dTKrype5Wss)
+## [Professional actors in Gothic II A History of Khorinis - Polish Dubbing Samples](https://www.youtube.com/watch?v=dTKrype5Wss)
 * [Polish](probki/probki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](probki/probki-en.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
 * [Czech](probki/probki-cz.sbv) by **[Tomáš Moravec](https://www.facebook.com/Tmthetom)**
