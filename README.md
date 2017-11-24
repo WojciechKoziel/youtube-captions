@@ -4,7 +4,11 @@
 * [English](backstage/backstage-en.srt) by **Daria Gędoś** (coordinator) & **Adamus91** & **Artur Kaczor** & **Rafał 'Bootleg' Stradomski** & **Krzysztof 'Kaziu' Zabiegliński** & **Kacper 'KacperCe' Czubak** & **Amadeusz 'Karwelas' Szlezyngier** & **Rafał 'H4rbing3r' Komar** (proofreading)
 * [Russian](backstage/backstage-ru.srt) by **[Konstantin "tyson90" Kuliczow](mailto:kostek.website@gmail.com)** (coordinator) & **Sir Valdusha** & **TechNoirMK** & **Aram1r** & **Evgenij**
 * [Serbian](backstage/backstage-sr.srt) by **Darko "Dalek" Sojevich**
-* [Romanian](backstage/backstage-ro.srt)
+* [Romanian](backstage/backstage-ro.srt) by **[Mircea Enache](mailto:mircea.enache5@gmail.com)**
+* [Ukrainian](backstage/backstage-ua.srt) by **[Alexander Sheremeta (Олександр Шеремета)](playkroll@gmail.com)**
+* [Italian](backstage/backstage-it.srt) by **[Piranha Bytes Italia](http://www.piranhabytesitalia.it/)**
+* [German](backstage/backstage-de.srt) by **Przemysław 'DragonSlayer94' Gosk**
+* [Czech](backstage/backstage-cz.srt) by **[Jakub 'James'](james@gamepark.cz)**
 
 ## [Actor Andrzej Gawroński - Gothic II HoK | Documental Movie](https://www.youtube.com/watch?v=gxqIevNcAd4)
 * [English](gawronski/gawronski-en.srt)

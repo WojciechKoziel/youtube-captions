@@ -1,0 +1,1048 @@
+1
+00:00:25,140 --> 00:00:29,120
+Ciao! Io sono Arkadiusz ‘Arkadikuss’ Woźniak!
+
+2
+00:00:29,120 --> 00:00:32,300
+In questo video vi spiegheremo
+
+3
+00:00:32,300 --> 00:00:35,100
+come lavora il team SoulFire
+
+4
+00:00:35,100 --> 00:00:38,080
+e come viene prodotta la modifica La Storia di Khorinis.
+
+5
+00:00:38,080 --> 00:00:42,040
+Il video è stato creato in risposta
+
+6
+00:00:42,040 --> 00:00:45,820
+alle vostre domande circa il processo di creazione e gestione del progetto.
+
+7
+00:00:45,820 --> 00:00:47,960
+Siete stati una grande fonte d'ispirazione,
+
+8
+00:00:47,960 --> 00:00:50,640
+ve ne siamo grati!
+
+9
+00:00:50,640 --> 00:00:52,780
+Vi spiegheremo
+
+10
+00:00:52,780 --> 00:00:56,360
+come gestiamo il lavoro all'interno delle varie divisioni del progetto:
+
+11
+00:00:56,360 --> 00:00:59,300
+La Divisione Sviluppo, responsabile della produzione de La Storia di Khorinis,
+
+12
+00:00:59,300 --> 00:01:02,740
+La Divisione Video, che crea materiale audiovisivo legato alla modifica
+
+13
+00:01:02,740 --> 00:01:05,160
+e gestisce il nostro canale YouTube,
+
+14
+00:01:05,160 --> 00:01:09,260
+e, ultima ma non ultima, la Divisione Doppiaggio, che si concentra sull'audio.
+
+15
+00:01:09,260 --> 00:01:13,020
+A volte le nostre spiegazioni potranno sembrarvi un po' semplicistiche,
+
+16
+00:01:13,020 --> 00:01:15,100
+ma il nostro obiettivo principale è far sì
+
+17
+00:01:15,100 --> 00:01:17,680
+che sia TUTTO chiarissimo
+
+18
+00:01:17,680 --> 00:01:20,060
+a CHIUNQUE guardi il video.
+
+19
+00:01:20,060 --> 00:01:22,260
+E ora, fatte le dovute premesse,
+
+20
+00:01:22,260 --> 00:01:24,160
+iniziamo!
+
+21
+00:01:24,160 --> 00:01:26,460
+Innanzitutto, dobbiamo evidenziare
+
+22
+00:01:26,460 --> 00:01:31,120
+come la Divisione Sviluppo e quella Video
+
+23
+00:01:31,120 --> 00:01:34,360
+siano due sottogruppi SEPARATI di un unico team, 
+
+24
+00:01:34,360 --> 00:01:38,660
+ciascuno con compiti e obiettivi molto diversi.
+
+25
+00:01:38,660 --> 00:01:44,900
+Per quanto riguarda il loro lavoro, non c'è il benché minimo legame.
+
+26
+00:01:44,900 --> 00:01:47,340
+Cerco di spiegarmi meglio:
+
+27
+00:01:47,340 --> 00:01:49,980
+vi presento Szymon e Mateusz.
+
+28
+00:01:49,980 --> 00:01:52,160
+Szymon è un programmatore
+
+29
+00:01:52,160 --> 00:01:54,820
+e Mateusz ha esperienza nel montaggio video.
+
+30
+00:01:54,820 --> 00:01:57,620
+Dato che hanno competenze diverse, non avrebbe alcun senso
+
+31
+00:01:57,620 --> 00:02:00,140
+costringere Mateusz a sviluppare modifiche
+
+32
+00:02:00,140 --> 00:02:02,240
+mentre Szymon lavora all'editing dei video.
+
+33
+00:02:02,240 --> 00:02:07,000
+Tuttavia, entrambe le divisioni fanno parte del Team SoulFire.
+
+34
+00:02:07,000 --> 00:02:09,720
+Ciascuna divisione supporta il team in maniera differente e unica:
+
+35
+00:02:09,720 --> 00:02:15,800
+La Divisione Sviluppo produce il gioco, mentre quella Video crea materiali legati al progetto.
+
+36
+00:02:15,800 --> 00:02:19,560
+Giacché continuiamo a ricevere diverse domande in merito,
+
+37
+00:02:19,560 --> 00:02:23,640
+abbiamo deciso di spiegare chiaramente in questo video come si svolge il nostro lavoro.
+
+38
+00:02:23,640 --> 00:02:26,700
+Scorrendo la sezione commenti dei nostri account sui social, abbiamo notato
+
+39
+00:02:26,700 --> 00:02:32,560
+che alcuni di voi si chiedevano come mai creassimo documentari su degli attori in là con gli anni.
+
+40
+00:02:32,560 --> 00:02:36,280
+Dobbiamo ricordarvi che tutti questi attori
+
+41
+00:02:36,280 --> 00:02:39,440
+ci hanno aiutati GRATIS e VOLONTARIAMENTE!
+
+42
+00:02:39,440 --> 00:02:44,960
+Avremmo potuto semplicemente chiedergli di doppiare la modifica, ma non è questo il nostro intento.
+
+43
+00:02:44,960 --> 00:02:48,980
+Abbiamo voluto rendere omaggio al loro duro lavoro attraverso questi documentari,
+
+44
+00:02:48,980 --> 00:02:52,880
+mentre sono ancora in vita.
+
+45
+00:02:52,880 --> 00:02:57,740
+Il fatto che ci aiutano con il doppiaggio è un aggiuntivo atto di gentilezza.
+
+46
+00:02:57,740 --> 00:03:00,600
+Siamo stati il più onesti possibile
+
+47
+00:03:00,600 --> 00:03:04,240
+e non potete chiederci di trattare questi fantastici attori come oggetti.
+
+48
+00:03:04,240 --> 00:03:07,160
+Inoltre, vi ricordiamo che La Storia di Khorinis è un progetto no-profit
+
+49
+00:03:07,160 --> 00:03:10,780
+e non possiamo permetterci di pagare i doppiatori.
+
+50
+00:03:10,780 --> 00:03:15,440
+Vale la pena dire anche che alcuni fra i più anziani, per esempio il signor Tomecki,
+
+51
+00:03:15,440 --> 00:03:18,520
+non sono più attivi nel mondo del doppiaggio videoludico. 
+
+52
+00:03:18,520 --> 00:03:20,780
+Ci ha detto chiaramente
+
+53
+00:03:20,780 --> 00:03:24,380
+che è da diversi anni
+
+54
+00:03:24,380 --> 00:03:27,560
+che non accetta più proposte di lavoro.
+
+55
+00:03:27,560 --> 00:03:32,040
+Capiamo, ovviamente, che alcuni potrebbero non apprezzare questo genere di video
+
+56
+00:03:32,040 --> 00:03:35,200
+e che siano interessati solamente a giocare a La Storia di Khorinis.
+
+57
+00:03:35,200 --> 00:03:40,160
+Qualsiasi sia il vostro punto di vista, speriamo capiate
+
+58
+00:03:40,160 --> 00:03:45,580
+che questi video e il nostro lavoro vi consentiranno di giocare a questo gioco gustandovi un fantastico doppiaggio,
+
+59
+00:03:45,580 --> 00:03:50,320
+che potrà solo migliorare il gameplay e la vostra esperienza di gioco.
+
+60
+00:03:50,320 --> 00:03:56,880
+Per questo, vi chiediamo di rispettare questa parte del nostro lavoro di creazione video e doppiaggio.
+
+61
+00:03:56,880 --> 00:04:00,420
+I video vengono anche creati in base alle vostre richieste
+
+62
+00:04:00,420 --> 00:04:04,180
+e, finché continuerete a chiederceli e li gradirete,
+
+63
+00:04:04,180 --> 00:04:06,880
+la loro produzione avrà un senso.
+
+64
+00:04:06,880 --> 00:04:09,180
+Divisione del lavoro
+
+65
+00:04:09,180 --> 00:04:11,680
+Il lavoro ne "La storia di Khorinis" è gestito da il team leader,
+
+66
+00:04:11,680 --> 00:04:16,360
+colui che gestisce la consistenza del progetto e la parte artistica nella Divisione Sviluppo del Gioco,
+
+67
+00:04:16,360 --> 00:04:21,200
+e supervisiona il processo della regia delle Divisioni Video e Doppiaggio.
+
+68
+00:04:21,200 --> 00:04:24,060
+Ora, come promesso, parleremo in dettaglio delle sezioni del team.
+
+69
+00:04:24,060 --> 00:04:26,020
+La Divisione Sviluppo del Gioco
+
+70
+00:04:26,020 --> 00:04:30,080
+La Divisione Sviluppo del Gioco è divisa in sottodivisioni:
+
+71
+00:04:30,080 --> 00:04:31,920
+programmatori, scrittori,
+
+72
+00:04:31,920 --> 00:04:34,020
+grafici e disegnatori dei livelli.
+
+73
+00:04:34,020 --> 00:04:36,280
+Ognuno di loro è gestito da differenti coordinatori,
+
+74
+00:04:36,280 --> 00:04:40,820
+chi guida ed organizza il lavoro solo nelle loro sottodivisioni.
+
+75
+00:04:40,820 --> 00:04:45,480
+Una volta, quando SoulFire era composto da una manciata di persone, l'ordine di lavoro era diverso,
+
+76
+00:04:45,480 --> 00:04:49,460
+e il team leader coordinava il lavoro di tutti direttamente.
+
+77
+00:04:49,460 --> 00:04:52,600
+Ma, poi il progetto è cresciuto,
+
+78
+00:04:52,600 --> 00:04:55,400
+il numero dei membri moltiplicato,
+
+79
+00:04:55,400 --> 00:05:00,020
+ed altri aspetti sono venuti fuori, come i video e il doppiaggio.
+
+80
+00:05:00,020 --> 00:05:04,360
+Il sistema di coordinatori è provato essere il più efficiente e noi abbiamo questo metodo da allora.
+
+81
+00:05:04,360 --> 00:05:08,280
+I coordinatori che mantengono il progetto in sviluppo,
+
+82
+00:05:08,280 --> 00:05:14,440
+e il ritmo del lavoro dipende dal modo che loro gestiscono la divisione dei compiti tra i loro membri.
+
+83
+00:05:14,440 --> 00:05:17,900
+Frequentemente ci sono così tanti compiti da distribuire
+
+84
+00:05:17,900 --> 00:05:22,000
+che la distribuzione dei lavori prende la maggior parte del tempo che dedicano al progetto stesso.
+
+85
+00:05:22,000 --> 00:05:23,920
+Il compito dei coordinatori è anche
+
+86
+00:05:23,920 --> 00:05:29,300
+portare insieme tutte le parti sviluppate dai membri del gruppo,
+
+87
+00:05:29,300 --> 00:05:33,380
+e per cooperare con i coordinatori delle altre sottodivisioni della Divisione Sviluppo del Gioco.
+
+88
+00:05:33,380 --> 00:05:37,700
+I coordinatori lavorano praticamente a tempo pieno.
+
+89
+00:05:37,700 --> 00:05:41,960
+Gestire un così grande team
+
+90
+00:05:41,960 --> 00:05:45,440
+richiede essere sempre disponibile,
+
+91
+00:05:45,440 --> 00:05:48,000
+almeno a portata di telefono.
+
+92
+00:05:48,000 --> 00:05:50,340
+La loro raggiungibilità è cruciale nelle situazioni
+
+93
+00:05:50,340 --> 00:05:55,000
+quando qualcuno necessita informazioni riguardo un compito da una divisione specifica
+
+94
+00:05:55,000 --> 00:05:57,940
+o quando nuovi compiti devono essere distribuiti tra i membri del team.
+
+95
+00:05:57,940 --> 00:06:00,380
+Infine, d'altra parte,
+
+96
+00:06:00,380 --> 00:06:03,060
+lavorano solo durante il loro tempo libero.
+
+97
+00:06:03,060 --> 00:06:07,980
+L'assemblaggio dei files di progetto è possibile grazie al versionamento del sistema Git,
+
+98
+00:06:07,980 --> 00:06:10,620
+che è uno strumento popolare per progetti su internet.
+
+99
+00:06:10,620 --> 00:06:15,000
+Questo permette a tutti i membri - programmatori, grafici e scrittori - 
+
+100
+00:06:15,000 --> 00:06:17,500
+di uploadare i files nella repository collettiva.
+
+101
+00:06:17,500 --> 00:06:20,700
+Tutto è organizzato in cartelle e categorie.
+
+102
+00:06:20,700 --> 00:06:23,120
+Il compito di mettere tutti i files insieme, quindi,
+
+103
+00:06:23,120 --> 00:06:25,780
+non sta sulle spalle di una sola persona.
+
+104
+00:06:25,780 --> 00:06:32,160
+In più, il coordinatore dei programmatori ha creato uno strumento speciale che permette di mettere i pezzi insieme.
+
+105
+00:06:32,160 --> 00:06:36,660
+Ogni membro del team che scarica il programma
+
+106
+00:06:36,660 --> 00:06:40,960
+può accedere agli aggiornamenti de "La Storia di Khorinis" in ogni momento
+
+107
+00:06:40,960 --> 00:06:43,260
+e giocare la versione più recente del gioco,
+
+108
+00:06:43,260 --> 00:06:49,040
+anche se i files sono stati modificati solo qualche minuto prima.
+
+109
+00:06:49,040 --> 00:06:51,340
+L'intero sistema è rivoluzionario.
+
+110
+00:06:51,340 --> 00:06:54,740
+Finora, l'unica modifica di Gothic che ha uno strumento simile fatto unicamente per il progetto
+
+111
+00:06:54,740 --> 00:06:58,520
+era Gothic: Reloaded Mod -
+
+112
+00:06:58,520 --> 00:07:01,000
+a parte che il tool era leggermente più semplice.
+
+113
+00:07:01,080 --> 00:07:05,520
+L'idea per il programma era basata sulle versioni interne di alcuni sviluppatori di videogiochi
+
+114
+00:07:05,520 --> 00:07:10,320
+e, per essere franchi, è solo grazie a questo programma che siamo in grado di tenere i file del gioco in ordine
+
+115
+00:07:10,320 --> 00:07:14,720
+e mantenere un efficiente sistema di lavoro per un progetto così complesso.
+
+116
+00:07:14,720 --> 00:07:18,220
+Molte persone ci chiedono se tutti i membri del team di "La Storia di Khorinis"
+
+117
+00:07:18,220 --> 00:07:22,040
+consiste in professionisti nel mondo della I.T. o intrattenimento elettronico.
+
+118
+00:07:22,040 --> 00:07:23,620
+Rispondiamo così:
+
+119
+00:07:23,620 --> 00:07:26,360
+non tutte le persone nella squadra sono dei pro.
+
+120
+00:07:26,360 --> 00:07:29,260
+Il team è simile ad una Torre di Babele
+
+121
+00:07:29,260 --> 00:07:33,300
+Il progetto coinvolge sia persone che lavorano come professional graphic designer
+
+122
+00:07:33,300 --> 00:07:35,280
+ed amatoriali che hanno delle abilità abbastanza buone
+
+123
+00:07:35,280 --> 00:07:39,540
+che sono in grado di aiutare con la modifica.
+
+124
+00:07:39,540 --> 00:07:42,380
+I professionisti sono una minoranza qui,
+
+125
+00:07:42,380 --> 00:07:47,520
+e sarebbe virtualmente impossibile reclutare un team no-profit composto interamente da professionisti.
+
+126
+00:07:47,520 --> 00:07:50,420
+Questo è il caso di tutte le suddivisioni del progetto.
+
+127
+00:07:50,420 --> 00:07:53,160
+Inoltre, sono di solito i non professionisti
+
+128
+00:07:53,160 --> 00:07:55,800
+che possono dedicare più tempo libero al progetto,
+
+129
+00:07:55,800 --> 00:07:58,360
+e che ci permettono di mantenere un buon ritmo di lavoro.
+
+130
+00:07:58,360 --> 00:08:00,800
+Lavorare su un progetto di queste dimensioni
+
+131
+00:08:00,800 --> 00:08:03,380
+è anche un'eccezionale opportunità per le persone
+
+132
+00:08:03,380 --> 00:08:07,800
+che pensano di lavorare nello sviluppo dei videogiochi e nelle industrie I.T.
+
+133
+00:08:07,800 --> 00:08:11,120
+È così che i membri del team possono aiutarsi reciprocamente a perfezionare le loro abilità.
+
+134
+00:08:11,120 --> 00:08:13,260
+Puoi trovare tutti i tipi di persone nel team:
+
+135
+00:08:13,260 --> 00:08:18,560
+alunni, studenti di università grafica e tecnica, e professionisti.
+
+136
+00:08:18,560 --> 00:08:20,980
+Inoltre, vorremmo sottolineare
+
+137
+00:08:20,980 --> 00:08:23,720
+che noi NON operiamo come uno studio di sviluppo professionale,
+
+138
+00:08:23,720 --> 00:08:25,940
+ne lo saremo mai.
+
+139
+00:08:25,940 --> 00:08:30,140
+Poiché siamo sparpagliati su tutto il paese, il progetto è fatto online
+
+140
+00:08:30,140 --> 00:08:32,660
+e non può essere considerato un lavoro professionale full-time.
+
+141
+00:08:32,660 --> 00:08:36,520
+Come in ogni azienda, a volte si verificano scontri e dispute.
+
+142
+00:08:36,520 --> 00:08:41,440
+La differenza è che qui nessuno è pagato per il suo arduo lavoro,
+
+143
+00:08:41,440 --> 00:08:43,760
+e poiché il progetto viene sviluppato in remoto,
+
+144
+00:08:43,760 --> 00:08:47,360
+spesso dobbiamo improvvisare per raggiungere i nostri obiettivi.
+
+145
+00:08:47,360 --> 00:08:50,380
+A volte è necessario farsi in quattro per fare le cose per bene.
+
+146
+00:08:50,400 --> 00:08:52,940
+Un altro fenomeno che la squadra deve affrontare 
+
+147
+00:08:52,940 --> 00:08:58,120
+è la rotazione dei membri, che ostacola lo sviluppo di molti progetti senza scopo di lucro.
+
+148
+00:08:58,120 --> 00:09:00,780
+Naturalmente, le persone hanno i loro lavori e responsabilità,
+
+149
+00:09:00,780 --> 00:09:04,760
+ed è il motivo per cui ogni tanto alcuni hanno bisogno di riposarsi,
+
+150
+00:09:04,760 --> 00:09:07,400
+ed alcuni devono lasciare il progetto permanentemente.
+
+151
+00:09:07,400 --> 00:09:12,800
+Quando avviene, altre persone del team devono assumere le responsabilità degli assenti.
+
+152
+00:09:12,800 --> 00:09:15,880
+La rotazione dello staff è una delle ragioni
+
+153
+00:09:15,880 --> 00:09:19,580
+per la quale noi non possiamo darvi un'esatta, ne stimata, data per il lancio della modifica.
+
+154
+00:09:19,580 --> 00:09:24,920
+Nonostante abbia un esercito di lavoratori che lavora professionalmente sul gioco ogni giorno,
+
+155
+00:09:24,920 --> 00:09:29,280
+CD Projekt fallì nel rilasciare The Witcher 3 in tempo ed ebbe un ritardo di 3 mesi.
+
+156
+00:09:29,280 --> 00:09:31,660
+Se anche una squadra di sviluppatori professionali può giudicare male le proprie possibilità
+
+157
+00:09:31,660 --> 00:09:36,740
+non sarebbe corretto aspettarsi la stessa precisione da noi, entusiasti che lavorano sul progetto nel loro tempo libero.
+
+158
+00:09:36,740 --> 00:09:39,480
+Naturalmente, la scala del nostro sforzo non è esattamente la stessa.
+
+159
+00:09:39,480 --> 00:09:43,520
+La Storia di Khorinis non è un gioco AAA con un nuovo motore grafico, come nel caso di The Witcher.
+
+160
+00:09:43,520 --> 00:09:46,560
+È solo una espansione per un Gothic già esistente,
+
+161
+00:09:46,560 --> 00:09:49,960
+ma i problemi che incontriamo nello sviluppo de La Storia di Khorinis
+
+162
+00:09:49,960 --> 00:09:53,460
+sono spesso più complessi di quelli di un studio di sviluppo.
+
+163
+00:09:53,460 --> 00:09:57,420
+Noi possiamo solamente contare sul tempo e la buona volontà dei membri del team,
+
+164
+00:09:57,420 --> 00:09:59,740
+che, alla fine, lavorano gratuitamente,
+
+165
+00:09:59,740 --> 00:10:03,920
+senza considerare i problemi con la limitazione dello Zengine,
+
+166
+00:10:03,920 --> 00:10:06,000
+il motore grafico di Gothic stesso.
+
+167
+00:10:06,000 --> 00:10:10,660
+Il processo di lavoro del team è basato sull'affidabilità ed il rispetto reciproco,
+
+168
+00:10:10,660 --> 00:10:13,100
+e crediamo che finché li manteniamo,
+
+169
+00:10:13,100 --> 00:10:16,780
+noi, lentamente ma sicuramente, raggiungeremo il nostro obiettivo principale.
+
+170
+00:10:16,780 --> 00:10:20,300
+E questo è tutto ciò che riguarda la divisione Sviluppo del Gioco.
+
+171
+00:10:20,300 --> 00:10:23,500
+La divisione Video e Doppiaggio
+
+172
+00:10:23,500 --> 00:10:26,340
+Abbiamo deciso di discutere entrambe le divisioni contemporaneamente
+
+173
+00:10:26,340 --> 00:10:32,340
+perché la loro collaborazione è molto stretta e sono entrambi coordinati direttamente dal capo del gruppo.
+
+174
+00:10:32,340 --> 00:10:35,240
+Inoltre, ci sono membri del team SoulFire che appartengono ad entrambi le divisioni allo stesso tempo,
+
+175
+00:10:35,240 --> 00:10:37,880
+vale a dire i tecnici del suono.
+
+176
+00:10:37,880 --> 00:10:41,440
+Poiché abbiamo già diviso i compiti della divisione video nell'introduzione,
+
+177
+00:10:41,440 --> 00:10:44,420
+possiamo solo aggiungere che è grazie ai loro sforzi
+
+178
+00:10:44,420 --> 00:10:49,460
+che siamo riusciti a formare una cooperazione con il Ministero della Cultura e del Patrimonio Nazionale,
+
+179
+00:10:49,460 --> 00:10:53,520
+vale a dire con l'Archivio Cinematografico Nazionale Polacco e l'Istituto Nazionale dell'Audiovisivo
+
+180
+00:10:53,520 --> 00:10:55,800
+nell'ambito del progetto "The Seniors".
+
+181
+00:10:55,800 --> 00:10:59,600
+La squadra della divisione video è responsabile per entrare in contatto con gli attori,
+
+182
+00:10:59,600 --> 00:11:03,140
+e grazie a loro possiamo lavorare con così tante persone straordinarie.
+
+183
+00:11:03,140 --> 00:11:07,180
+Vi mostriamo anche come sembra lavorare su La Storia di Khorinis
+
+184
+00:11:07,180 --> 00:11:10,640
+e produrre altri materiali audiovisivi.
+
+185
+00:11:10,640 --> 00:11:13,260
+La divisione video e doppiaggio lavorano a stretto contatto.
+
+186
+00:11:13,260 --> 00:11:17,760
+Mentre i primi conducono il processo di registrazione audio,
+
+187
+00:11:17,760 --> 00:11:23,360
+i secondi mettono insieme il materiale registrato, con ciascuno dei tecnici del suono che lavorano individualmente sui loro PC personali.
+
+188
+00:11:23,360 --> 00:11:27,800
+Quando si tratta del doppiaggio, due fatti importanti devono essere menzionati.
+
+189
+00:11:27,800 --> 00:11:31,180
+Primo, quasi la maggior parte degli attori coinvolti nel progetto vivono nella capitale della Polonia, Varsavia,
+
+190
+00:11:31,180 --> 00:11:36,280
+quindi circa il 95% delle sessioni di registrazioni sono tenute lì.
+
+191
+00:11:36,280 --> 00:11:40,240
+Varsavia è anche il luogo dove lo studio di registrazione 'Start International Polska' è situato.
+
+192
+00:11:40,240 --> 00:11:43,500
+Qui è dove il doppiaggio di Gothic e Gothic II è stato registrato.
+
+193
+00:11:43,500 --> 00:11:48,100
+Non c'è da stupirsi, quindi, che il cast sia interamente composto da attori che vivono in zona.
+
+194
+00:11:48,100 --> 00:11:52,300
+In secondo luogo, in questo momento registriamo con attori malati terminali,
+
+195
+00:11:52,300 --> 00:11:55,320
+in età avanzata, o le cui linee di dialogo sono state completate,
+
+196
+00:11:55,320 --> 00:12:02,060
+il caso di alcuni personaggi secondari del gioco.
+
+197
+00:12:02,060 --> 00:12:05,680
+la maggior parte delle registrazioni verranno fatte solamente mesi dopo il lancio della modifica
+
+198
+00:12:05,680 --> 00:12:11,160
+Che principalmente riguarda i personaggi principali, le cui linee di dialogo
+
+199
+00:12:11,160 --> 00:12:13,800
+vengono ancora cambiate e aggiunte.
+
+200
+00:12:13,800 --> 00:12:18,560
+Comunque, i provini per il ruolo del protagonista inizieranno sicuramente molto prima
+
+201
+00:12:18,560 --> 00:12:22,080
+così che possiamo selezionare l'attore migliore per dare la voce al personaggio.
+
+202
+00:12:22,080 --> 00:12:26,800
+Non dobbiamo dimenticarci di Kamil Jędrzejewski, il nostro compositore musicale, che appartiene alla sezione audio del progetto.
+
+203
+00:12:26,800 --> 00:12:31,220
+Questo è tutto ciò che dovevamo dire sulla divisione Video e Doppiaggio.
+
+204
+00:12:31,220 --> 00:12:35,780
+La quarta divisione è formata da coloro che supportano il progetto in molti modi differenti.
+
+205
+00:12:35,780 --> 00:12:39,000
+Per esempio, amministriamo una suddivisione di traduzione separata.
+
+206
+00:12:39,000 --> 00:12:45,260
+Oltre a questo, ci sono persone responsabili per la casella di posta elettronica, il profilo Facebook, dove rispondono ai vostri messaggi.
+
+207
+00:12:45,260 --> 00:12:51,340
+In questa occasione, ringraziamo vivamente tutte le persone sopra menzionate per il loro prezioso aiuto!
+
+208
+00:12:51,340 --> 00:12:54,600
+Questo è tutto ciò che c'è da sapere sulle nostre divisioni di produzione.
+
+209
+00:12:54,600 --> 00:12:58,400
+Abbiamo cercato di creare il sistema di lavoro più efficiente e allo stesso tempo meno assorbente,
+
+210
+00:12:58,400 --> 00:13:02,660
+in modo da non sprecare né il vostro né il nostro tempo.
+
+211
+00:13:02,660 --> 00:13:07,340
+Speriamo che questo video abbia risolto tutti i vostri dubbi,
+
+212
+00:13:07,340 --> 00:13:11,900
+almeno per quanto riguarda il sistema generale di organizzazione del lavoro de La Storia di Khorinis.
+
+213
+00:13:11,900 --> 00:13:14,860
+Con tutto quello che è detto, vogliamo affrontare
+
+214
+00:13:14,860 --> 00:13:19,560
+le vostre richieste di ulteriori informazioni sulla trama de La Storia di Khorinis.
+
+215
+00:13:19,560 --> 00:13:23,780
+A questo stadio di produzione noi, deliberatamente, evitiamo di fornire troppi dettagli,
+
+216
+00:13:23,780 --> 00:13:28,660
+che è una procedura standard nell'industria di sviluppo e non dovrebbe essere sorprendente.
+
+217
+00:13:28,660 --> 00:13:35,180
+Di certo, potete aspettare un teaser o un video prologo molto prima del rilascio del gioco,
+
+218
+00:13:35,180 --> 00:13:38,000
+ma farne uno ora sarebbe inutile.
+
+219
+00:13:38,000 --> 00:13:43,160
+Come migliore esempio per spiegare la pubblicazione di ciò analizziamo Elex,
+
+220
+00:13:43,160 --> 00:13:46,960
+dove il prologo venne presentato solamente qualche mese prima del rilascio del gioco
+
+221
+00:13:46,960 --> 00:13:50,940
+in maniera di far salire l'hype tra i giocatori nel momento appropriato.
+
+222
+00:13:50,940 --> 00:13:54,280
+In questo modo siamo sicuri di seguire le orme dei Piranha Bytes.
+
+223
+00:13:54,280 --> 00:13:56,980
+Per ora, vi chiediamo pazienza,
+
+224
+00:13:56,980 --> 00:14:01,480
+e vi invitiamo a dare un'occhiata al breve teaser disponibile sul sito web del progetto.
+
+225
+00:14:01,480 --> 00:14:03,980
+Potete fidarvi di noi,
+
+226
+00:14:03,980 --> 00:14:07,720
+poiché abbiamo frequentemente provato
+
+227
+00:14:07,720 --> 00:14:12,600
+che prendiamo molto seriamente il nostro lavoro.
+
+228
+00:14:12,600 --> 00:14:18,800
+Infine, vorremmo specificare esaattamente che tipo di aiuto abbiamo bisogno nel progetto de La Storia di Khorinis,
+
+229
+00:14:18,800 --> 00:14:21,900
+visto che molte persone lo chiedono.
+
+230
+00:14:21,900 --> 00:14:26,620
+Riguardo al reclutamento, siamo in un disperato bisogno di:
+
+231
+00:14:26,620 --> 00:14:31,360
+Scripters con un ottima conoscenza del linguaggio di programmazione DEDALUS,
+
+232
+00:14:31,360 --> 00:14:33,580
+che è similare a C++
+
+233
+00:14:33,580 --> 00:14:36,780
+ma che richiede specifiche conoscenze ed esperienza.
+
+234
+00:14:36,780 --> 00:14:42,900
+A parte questo, i nostri sceneggiatori devono avere almeno familiarità con la versione dei sistemi di controllo Git.
+
+235
+00:14:42,900 --> 00:14:46,780
+Gli sceneggiatori sono responsabili della scrittura di personaggi e dei loro dialoghi.
+
+236
+00:14:46,780 --> 00:14:52,460
+Potreste sentirvi incoraggiati dal fatto che i dialoghi saranno letti da attori di alto livello,
+
+237
+00:14:52,460 --> 00:14:56,500
+quindi se avete uno stile di scrittura creativo, stiamo aspettando la vostra candidatura!
+
+238
+00:14:56,500 --> 00:14:57,640
+Ne vale la pena!
+
+239
+00:14:57,640 --> 00:15:02,620
+Considerate che la trama principale è stata già scritta,
+
+240
+00:15:02,620 --> 00:15:06,120
+ed abbiamo bisogno maggiormente per la scrittura dei dialoghi
+
+241
+00:15:06,120 --> 00:15:09,160
+per le trame principali e le missioni secondarie.
+
+242
+00:15:09,160 --> 00:15:16,280
+Modellatori ed esperti di grafica 3D, ed almeno un grafico 2D altamente qualificato nel suo mestiere.
+
+243
+00:15:16,280 --> 00:15:19,140
+Disegnatori e concept artist.
+
+244
+00:15:19,140 --> 00:15:22,200
+Traduttori per il Russo ed il Tedesco,
+
+245
+00:15:22,200 --> 00:15:26,060
+per ora per aiutarci solo con la traduzione dei materiali video.
+
+246
+00:15:26,060 --> 00:15:30,540
+Studenti di lingue sono i benvenuti, così come persone con certificazioni linguistiche
+
+247
+00:15:30,540 --> 00:15:33,560
+di almeno livello B2.
+
+248
+00:15:33,560 --> 00:15:38,380
+Per ulteriori informazioni riguardo i requisiti per queste posizioni ed applicazioni
+
+249
+00:15:38,380 --> 00:15:44,680
+visitare www.dzieje-khorinis.pl/praca
+
+250
+00:15:44,680 --> 00:15:50,340
+Lì, potrete trovare maggiori informazioni riguardo altre posizioni!
+
+251
+00:15:50,340 --> 00:15:53,400
+Questo è tutto per oggi.
+
+252
+00:15:53,400 --> 00:15:56,280
+Grazie per la vostra attenzione!
+
+253
+00:15:56,280 --> 00:16:01,540
+Vi vorremmo ricordare che potete supportare il nostro progetto audiovisivo su Patronite!
+
+254
+00:16:01,540 --> 00:16:06,360
+Non vi dimenticate di sottoscrivervi per essere sempre aggiornati con il progetto.
+
+255
+00:16:06,360 --> 00:16:13,280
+Signori e signore, rimanete sintonizzati per altro!
+
+256
+00:16:13,780 --> 00:16:14,920
+Ringraziamenti speciali:
+
+257
+00:16:15,280 --> 00:16:21,120
+Produzione Video: Mateusz Pawłowski
+
+258
+00:16:22,520 --> 00:16:29,160
+Machinima: Miłosz Duda
+
+259
+00:16:30,640 --> 00:16:41,600
+Materiale sullo sviluppo del gioco: Szymon Żak, Michał Wiśniewski, Miłosz Duda, Krystian Ogonowski
+
+260
+00:16:42,860 --> 00:16:48,980
+Coordinatore della traduzione: Daria Gędoś
+
+261
+00:16:50,820 --> 00:16:56,800
+Narrato da Arkadiusz 'Arkadikuss' Woźniak
+
+262
+00:16:56,800 --> 00:17:02,800
+Traduzione italiana a cura di Piranha Bytes Italia
+
