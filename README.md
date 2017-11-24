@@ -90,6 +90,7 @@
 ## [ACTOR Krzysztof Zakrzewski in Gothic II The History of Khorinis](https://www.youtube.com/watch?v=ZAo2kCCU7oQ)
 * [Polish](zakrzewski/zakrzewski-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
 * [English](zakrzewski/zakrzewski-en.sbv) by [**Bartosz 'Kereth' Biały**](mailto:kereth130@gmail.com)
+* [Russian](zakrzewski/zakrzewski-ru.sbv) by **TechNoirMK**
 
 ## [Professional actors in Gothic II A History of Khorinis - Polish Dubbing Samples](https://www.youtube.com/watch?v=dTKrype5Wss)
 * [Polish](probki/probki-pl.sbv) by [**Szymon Żak**](http://szymonzak.pl)
