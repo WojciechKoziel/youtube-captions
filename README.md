@@ -9,6 +9,7 @@
 * [Italian](backstage/backstage-it.srt) by **[Piranha Bytes Italia](http://www.piranhabytesitalia.it/)**
 * [German](backstage/backstage-de.srt) by **Przemysław 'DragonSlayer94' Gosk**
 * [Czech](backstage/backstage-cz.srt) by **[Jakub 'James'](james@gamepark.cz)**
+* [Spanish](backstage/backstage-sp.srt) by [**Wojciech Koziel**](mailto:wkoziel3@gmail.com)
 
 ## [Actor Andrzej Gawroński - Gothic II HoK | Documental Movie](https://www.youtube.com/watch?v=gxqIevNcAd4)
 * [English](gawronski/gawronski-en.srt)
