@@ -1,6 +1,7 @@
 1
 00:00:25,140 --> 00:00:29,120
 ¡Hola! Arkadiusz ‘Arkadikuss’ Woźniak aqui.
+
 2
 00:00:29,120 --> 00:00:32,300
 En este material les explicaremos
@@ -12,9 +13,11 @@ cómo funciona exactamente el equipo SoulFire
 4
 00:00:35,100 --> 00:00:38,080
 y cómo se está produciendo la historia de Khorinis.
+
 5
 00:00:38,080 --> 00:00:42,040
 El video fue creado como una respuesta
+
 6
 00:00:42,040 --> 00:00:45,820
 a sus preguntas sobre el proceso de creación y gestión del proyecto.
