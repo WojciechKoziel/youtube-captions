@@ -1,6 +1,7 @@
 1
 00:00:25,140 --> 00:00:29,120
 ¡Hola! Arkadiusz ‘Arkadikuss’ Woźniak aqui.
+
 2
 00:00:29,120 --> 00:00:32,300
 En este material les explicaremos
